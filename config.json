@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "Site",
+    "children": [
+      {
+        "id": "Geographic Element",
+        "children": [
+          {
+            "id": "Terrain"
+          },
+          {
+            "id": "Site Geometry"
+          },
+          {
+            "id": "Flora & Fauna"
+          }
+        ]
+      },
+      {
+        "id": "Massing",
+        "children": [
+          {
+            "id": "Morph"
+          }
+        ]
+      },
+      {
+        "id": "Civil Element"
+      }
+    ]
+  },
+  {
+    "id": "Space",
+    "new_properties": [
+      "Finishing - Ceilings",
+      "Usage type of space",
+      "Sprinkling",
+      "Finishing - Walls",
+      "Status (Space and Zone)",
+      "Number of expected occupants",
+      "Access - Accessible to the public",
+      "Finishing - Baseboards",
+      "Finishing - Floors",
+      "Wall finish thickness (requirement)",
+      "Risk factor",
+      "Phasing",
+      "Documentation",
+      "Fire exit space",
+      "Access - accessibility for the disabled",
+      "Passage height required"
+    ],
+    "children": [
+      {
+        "id": "External Space",
+        "children": [
+          {
+            "id": "Parking Space"
+          }
+        ]
+      },
+      {
+        "id": "Internal Space",
+        "children": [
+          {
+            "id": "Access Space"
+          },
+          {
+            "id": "Commercial Space"
+          },
+          {
+            "id": "Communication Space"
+          },
+          {
+            "id": "Cultural Space"
+          },
+          {
+            "id": "Educational Space"
+          },
+          {
+            "id": "Equipment Space"
+          },
+          {
+            "id": "Medical Space"
+          },
+          {
+            "id": "Office Space"
+          },
+          {
+            "id": "Production Space"
+          },
+          {
+            "id": "Recreational Space"
+          },
+          {
+            "id": "Research Space"
+          },
+          {
+            "id": "Residential Space"
+          },
+          {
+            "id": "Storage Space"
+          },
+          {
+            "id": "Transport Space"
+          },
+          {
+            "id": "General Floor Area Space"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Elements",
+    "children": [
+      {
+        "id": "Construction Element",
+        "children": [
+          {
+            "id": "Building Element Proxy",
+            "children": [
+              {
+                "id": "Complex Building Element Proxy"
+              },
+              {
+                "id": "Element Building Element Proxy"
+              },
+              {
+                "id": "Partial Building Element Proxy"
+              },
+              {
+                "id": "Provision for Space"
+              },
+              {
+                "id": "Provision for Void"
+              }
+            ]
+          },
+          {
+            "id": "Wall",
+            "new_properties": [
+              "Fire Resistance Rating",
+              "Phasing",
+              "Thermal Conductivity",
+              "Documentation",
+              "Reinforcement",
+              "Flammability rating",
+              "Outer shell",
+              "Construction method",
+              "Work package",
+              "Thermal Transmittance",
+              "IFC renovation status"
+            ],
+            "children": [
+              {
+                "id": "Elemented Wall"
+              },
+              {
+                "id": "Movable Wall"
+              },
+              {
+                "id": "Parapet Wall"
+              },
+              {
+                "id": "Partitioning Wall"
+              },
+              {
+                "id": "Plumbing Wall"
+              },
+              {
+                "id": "Polygonal Wall"
+              },
+              {
+                "id": "Shear Wall"
+              },
+              {
+                "id": "Solid Wall"
+              },
+              {
+                "id": "Standard Wall"
+              },
+              {
+                "id": "Thermal break (structural)"
+              },
+              {
+                "id": "Secant pile"
+              },
+              {
+                "id": "Tangeant pile"
+              },
+              {
+                "id": "Sheet pile"
+              },
+              {
+                "id": "Retaining wall"
+              },
+              {
+                "id": "Deepwall"
+              },
+              {
+                "id": "Soldier pile wall"
+              },
+              {
+                "id": "Combiwall"
+              },
+              {
+                "id": "Soilmix wall"
+              },
+              {
+                "id": "Cement-bentonite slurry wall"
+              },
+              {
+                "id": "Timbered trench"
+              }
+            ]
+          },
+          {
+            "id": "Footing",
+            "children": [
+              {
+                "id": "Caisson Foundation"
+              },
+              {
+                "id": "Footing Beam",
+                "new_properties": [
+                  "Structural Function ArchiCAD - IsLoadBearing",
+                  "Phasing",
+                  "Thermal Conductivity",
+                  "Documentation",
+                  "Reinforcement",
+                  "Construction method",
+                  "Work package",
+                  "IFC renovation status"
+                ]
+              },
+              {
+                "id": "Pad Footing"
+              },
+              {
+                "id": "Pile Cap"
+              },
+              {
+                "id": "Strip Footing",
+                "new_properties": [
+                  "Structural Function ArchiCAD - IsLoadBearing",
+                  "Phasing",
+                  "Thermal Conductivity",
+                  "Documentation",
+                  "Reinforcement",
+                  "Construction method",
+                  "Work package",
+                  "IFC renovation status"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "Column",
+            "new_properties": [
+              "Fire Resistance Rating",
+              "Phasing",
+              "Thermal Conductivity",
+              "Documentation",
+              "Reinforcement",
+              "Flammability rating",
+              "Outer shell",
+              "Construction method",
+              "Work package",
+              "IFC renovation status"
+            ],
+            "children": [
+              {
+                "id": "Column Segment"
+              },
+              {
+                "id": "Pilaster"
+              }
+            ]
+          },
+          {
+            "id": "Pile",
+            "new_properties": [
+              "Structural Function ArchiCAD - IsLoadBearing",
+              "Phasing",
+              "Thermal Conductivity",
+              "Documentation",
+              "Reinforcement",
+              "Construction method",
+              "Work package",
+              "IFC renovation status"
+            ],
+            "children": [
+              {
+                "id": "Bored Pile"
+              },
+              {
+                "id": "Cohesion Pile"
+              },
+              {
+                "id": "Driven Pile"
+              },
+              {
+                "id": "Friction Pile"
+              },
+              {
+                "id": "Jetgrouting Pile"
+              },
+              {
+                "id": "Support Pile"
+              },
+              {
+                "id": "Screw Pile"
+              },
+              {
+                "id": "Soil Mix"
+              },
+              {
+                "id": "Stone columns"
+              },
+              {
+                "id": "Rigid inclusions"
+              }
+            ]
+          },
+          {
+            "id": "Beam",
+            "new_properties": [
+              "Fire Resistance Rating",
+              "Phasing",
+              "Thermal Conductivity",
+              "Documentation",
+              "Reinforcement",
+              "Flammability rating",
+              "Outer shell",
+              "Construction method",
+              "Work package",
+              "Thermal Transmittance",
+              "IFC renovation status"
+            ],
+            "children": [
+              {
+                "id": "Beam Segment"
+              },
+              {
+                "id": "Joist"
+              },
+              {
+                "id": "Hollowcore"
+              },
+              {
+                "id": "Lintel"
+              },
+              {
+                "id": "Spandrel"
+              },
+              {
+                "id": "T-Beam"
+              },
+              {
+                "id": "Ring beam"
+              },
+              {
+                "id": "Spandrel beam"
+              }
+            ]
+          },
+          {
+            "id": "Slab",
+            "new_properties": [
+              "Fire Resistance Rating",
+              "Phasing",
+              "Thermal Conductivity",
+              "Documentation",
+              "Reinforcement",
+              "Outer shell",
+              "Construction method",
+              "Work package",
+              "Thermal Transmittance"
+            ],
+            "children": [
+              {
+                "id": "Floor Slab"
+              },
+              {
+                "id": "Roof Slab"
+              },
+              {
+                "id": "Landing Slab"
+              },
+              {
+                "id": "Base Slab",
+                "not_inherited_from": [
+                  "Fire Resistance Rating"
+                ],
+                "new_properties": [
+                  "IFC renovation status"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "Roof",
+            "new_properties": [
+              "Fire Resistance Rating",
+              "Structural Function ArchiCAD - IsLoadBearing",
+              "Phasing",
+              "Thermal Conductivity",
+              "Documentation",
+              "Reinforcement",
+              "Flammability rating",
+              "Outer shell",
+              "Construction method",
+              "Work package",
+              "Thermal Transmittance",
+              "IFC renovation status"
+            ],
+            "children": [
+              {
+                "id": "Flat Roof"
+              },
+              {
+                "id": "Shed Roof"
+              },
+              {
+                "id": "Gable Roof"
+              },
+              {
+                "id": "Hip Roof"
+              },
+              {
+                "id": "Hipped Gable Roof"
+              },
+              {
+                "id": "Gambrel Roof"
+              },
+              {
+                "id": "Mansard Roof"
+              },
+              {
+                "id": "Barrel Roof"
+              },
+              {
+                "id": "Rainbow Roof"
+              },
+              {
+                "id": "Butterfly Roof"
+              },
+              {
+                "id": "Pavilion Roof"
+              },
+              {
+                "id": "Dome Roof"
+              },
+              {
+                "id": "Freeform Roof"
+              },
+              {
+                "id": "Pergola"
+              }
+            ]
+          },
+          {
+            "id": "Shell"
+          },
+          {
+            "id": "Covering",
+            "children": [
+              {
+                "id": "Ceiling",
+                "new_properties": [
+                  "Fire Resistance Rating",
+                  "Phasing",
+                  "Transmission acoustique",
+                  "Documentation",
+                  "Thermal Conductivity",
+                  "Flammability rating",
+                  "Outer shell",
+                  "Work package",
+                  "Thermal Transmittance",
+                  "IFC renovation status"
+                ]
+              },
+              {
+                "id": "Cladding",
+                "new_properties": [
+                  "Fire Resistance Rating",
+                  "Phasing",
+                  "Transmission acoustique",
+                  "Documentation",
+                  "Thermal Conductivity",
+                  "Flammability rating",
+                  "Outer shell",
+                  "Work package",
+                  "Thermal Transmittance",
+                  "IFC renovation status"
+                ]
+              },
+              {
+                "id": "Flooring",
+                "new_properties": [
+                  "Fire Resistance Rating",
+                  "Phasing",
+                  "Transmission acoustique",
+                  "Documentation",
+                  "Thermal Conductivity",
+                  "Flammability rating",
+                  "Outer shell",
+                  "Work package",
+                  "Thermal Transmittance",
+                  "IFC renovation status"
+                ]
+              },
+              {
+                "id": "Insulation"
+              },
+              {
+                "id": "Membrane"
+              },
+              {
+                "id": "Molding"
+              },
+              {
+                "id": "Roofing",
+                "new_properties": [
+                  "Fire Resistance Rating",
+                  "Phasing",
+                  "Transmission acoustique",
+                  "Documentation",
+                  "Thermal Conductivity",
+                  "Flammability rating",
+                  "Outer shell",
+                  "Work package",
+                  "Thermal Transmittance",
+                  "IFC renovation status"
+                ]
+              },
+              {
+                "id": "Sleeving"
+              },
+              {
+                "id": "Skirtingboard"
+              },
+              {
+                "id": "Wrapping"
+              },
+              {
+                "id": "Technical Floor"
+              },
+              {
+                "id": "False ceiling"
+              },
+              {
+                "id": "Wall protection"
+              },
+              {
+                "id": "Wall painting"
+              },
+              {
+                "id": "Floor paint"
+              },
+              {
+                "id": "Ceiling paint"
+              }
+            ]
+          },
+          {
+            "id": "Stair",
+            "new_properties": [
+              "Fire Resistance Rating",
+              "Phasing",
+              "Thermal Conductivity",
+              "Documentation",
+              "Flammability rating",
+              "Outer shell",
+              "Place of assembly of the staircase",
+              "Fire Exit",
+              "Work package",
+              "Thermal Transmittance",
+              "IFC renovation status"
+            ],
+            "children": [
+              {
+                "id": "Stair Finish",
+                "children": [
+                  {
+                    "id": "Stair Riser"
+                  },
+                  {
+                    "id": "Stair Tread"
+                  }
+                ]
+              },
+              {
+                "id": "Stair Structure",
+                "children": [
+                  {
+                    "id": "Stair Flight",
+                    "children": [
+                      {
+                        "id": "Curved Stair Flight"
+                      },
+                      {
+                        "id": "Freeform Stair Flight"
+                      },
+                      {
+                        "id": "Spiral Stair Flight"
+                      },
+                      {
+                        "id": "Straight Stair Flight"
+                      },
+                      {
+                        "id": "Winder Stair Flight"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Stair Landing"
+                  }
+                ]
+              },
+              {
+                "id": "Stair Layout",
+                "children": [
+                  {
+                    "id": "Curved-run Stair"
+                  },
+                  {
+                    "id": "Double-return Stair"
+                  },
+                  {
+                    "id": "Half-turn Stair"
+                  },
+                  {
+                    "id": "Half-winding Stair"
+                  },
+                  {
+                    "id": "Quarter-turn Stair"
+                  },
+                  {
+                    "id": "Quarter-winding Stair"
+                  },
+                  {
+                    "id": "Spiral Stair"
+                  },
+                  {
+                    "id": "Straight-run Stair"
+                  },
+                  {
+                    "id": "Three-quarter-turn Stair"
+                  },
+                  {
+                    "id": "Three-quarter-winding Stair"
+                  },
+                  {
+                    "id": "Two-curved-run Stair"
+                  },
+                  {
+                    "id": "Two-quarter-turn Stair"
+                  },
+                  {
+                    "id": "Two-quarter-winding Stair"
+                  },
+                  {
+                    "id": "Two-straight-run Stair"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "Ramp",
+            "new_properties": [
+              "Fire Resistance Rating",
+              "Phasing",
+              "Thermal Conductivity",
+              "Documentation",
+              "Reinforcement",
+              "Flammability rating",
+              "Outer shell",
+              "Construction method",
+              "Work package",
+              "IFC renovation status"
+            ],
+            "children": [
+              {
+                "id": "Ramp Flight",
+                "children": [
+                  {
+                    "id": "Spiral Ramp Flight"
+                  },
+                  {
+                    "id": "Straight Ramp Flight"
+                  }
+                ]
+              },
+              {
+                "id": "Ramp Landing"
+              },
+              {
+                "id": "Half-turn Ramp"
+              },
+              {
+                "id": "Quarter-turn Ramp"
+              },
+              {
+                "id": "Spiral Ramp"
+              },
+              {
+                "id": "Straight-run Ramp"
+              },
+              {
+                "id": "Two-quarter-turn Ramp"
+              },
+              {
+                "id": "Two-straight-run Ramp"
+              }
+            ]
+          },
+          {
+            "id": "Railing",
+            "children": [
+              {
+                "id": "Rail",
+                "children": [
+                  {
+                    "id": "Handrail"
+                  },
+                  {
+                    "id": "Guardrail"
+                  }
+                ]
+              },
+              {
+                "id": "Railing Post"
+              },
+              {
+                "id": "Railing Panel"
+              },
+              {
+                "id": "Balustrade"
+              }
+            ]
+          },
+          {
+            "id": "Curtain Wall",
+            "new_properties": [
+              "Fire Resistance Rating",
+              "Phasing",
+              "Documentation",
+              "Flammability rating",
+              "Outer shell",
+              "Work package",
+              "Thermal Transmittance",
+              "IFC renovation status"
+            ],
+            "children": [
+              {
+                "id": "Curtain Wall Panel"
+              },
+              {
+                "id": "Curtain Wall Frame"
+              }
+            ]
+          },
+          {
+            "id": "Member",
+            "new_properties": [
+              "Fire Resistance Rating",
+              "Phasing",
+              "Thermal Conductivity",
+              "Documentation",
+              "Reinforcement",
+              "Flammability rating",
+              "Outer shell",
+              "Construction method",
+              "Work package",
+              "Thermal Transmittance",
+              "IFC renovation status"
+            ],
+            "children": [
+              {
+                "id": "Brace"
+              },
+              {
+                "id": "Chord"
+              },
+              {
+                "id": "Collar"
+              },
+              {
+                "id": "Mullion"
+              },
+              {
+                "id": "Plate Member"
+              },
+              {
+                "id": "Post"
+              },
+              {
+                "id": "Purlin"
+              },
+              {
+                "id": "Rafter"
+              },
+              {
+                "id": "Stringer"
+              },
+              {
+                "id": "Strut"
+              },
+              {
+                "id": "Stud"
+              },
+              {
+                "id": "Floor joist"
+              }
+            ]
+          },
+          {
+            "id": "Plate",
+            "children": [
+              {
+                "id": "Curtain Panel"
+              },
+              {
+                "id": "Sheet"
+              }
+            ]
+          },
+          {
+            "id": "Shading Device",
+            "children": [
+              {
+                "id": "Awning"
+              },
+              {
+                "id": "Jalousie"
+              },
+              {
+                "id": "Shutter"
+              }
+            ]
+          },
+          {
+            "id": "Chimney",
+            "new_properties": [
+              "Chimney: Number of pipes",
+              "Condition - Date of assessment",
+              "Phasing",
+              "Documentation",
+              "Condition - Condition evaluation",
+              "Guarantee - finishing date of Guarantee",
+              "Work package",
+              "IFC renovation status"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Opening",
+        "children": [
+          {
+            "id": "Door",
+            "new_properties": [
+              "Glazing - Glazed area ratio",
+              "Security Rating",
+              "Window shading - Portable",
+              "Passage width",
+              "Transmission acoustique",
+              "Window shading - Automatic",
+              "Type of blackout device",
+              "Flammability rating",
+              "Fire Exit",
+              "Guarantee - finishing date of Guarantee",
+              "Ventilation gap surface",
+              "Has Sill Internal",
+              "Fire Resistance Rating",
+              "Access control",
+              "Condition - Date of assessment",
+              "Motorized opening",
+              "Glazing - Type (single=1-double=2-triple=3-quadruple=4)",
+              "Phasing",
+              "BulletProof",
+              "Has Sill External",
+              "Condition - Condition evaluation",
+              "Documentation",
+              "Outer shell",
+              "Access - accessibility for the disabled",
+              "Work package",
+              "Thermal Transmittance",
+              "Glazing - Solar transmission",
+              "IFC renovation status"
+            ],
+            "children": [
+              {
+                "id": "Gate"
+              },
+              {
+                "id": "Trapdoor"
+              }
+            ]
+          },
+          {
+            "id": "Window",
+            "new_properties": [
+              "Glazing - Glazed area ratio",
+              "Security Rating",
+              "Window shading - Portable",
+              "Passage width",
+              "Transmission acoustique",
+              "Window shading - Automatic",
+              "Type of blackout device",
+              "Flammability rating",
+              "Fire Exit",
+              "Guarantee - finishing date of Guarantee",
+              "Ventilation gap surface",
+              "Has Sill Internal",
+              "Fire Resistance Rating",
+              "Condition - Date of assessment",
+              "Motorized opening",
+              "Opening type",
+              "Glazing - Type (single=1-double=2-triple=3-quadruple=4)",
+              "Phasing",
+              "BulletProof",
+              "Has Sill External",
+              "Condition - Condition evaluation",
+              "Documentation",
+              "Outer shell",
+              "Work package",
+              "Thermal Transmittance",
+              "Glazing - Solar transmission",
+              "IFC renovation status"
+            ],
+            "children": [
+              {
+                "id": "Lightdome"
+              },
+              {
+                "id": "Skylight"
+              }
+            ]
+          },
+          {
+            "id": "Recess"
+          },
+          {
+            "id": "Empty Opening"
+          }
+        ]
+      },
+      {
+        "id": "Element Component",
+        "children": [
+          {
+            "id": "Discrete Accessory",
+            "children": [
+              {
+                "id": "Anchorplate"
+              },
+              {
+                "id": "Bracket"
+              },
+              {
+                "id": "Shoe"
+              }
+            ]
+          },
+          {
+            "id": "Fastener",
+            "children": [
+              {
+                "id": "Mechanical Fastener",
+                "children": [
+                  {
+                    "id": "Anchorbolt"
+                  },
+                  {
+                    "id": "Bolt"
+                  },
+                  {
+                    "id": "Dowel"
+                  },
+                  {
+                    "id": "Nail"
+                  },
+                  {
+                    "id": "Nailplate"
+                  },
+                  {
+                    "id": "Rivet"
+                  },
+                  {
+                    "id": "Screw"
+                  },
+                  {
+                    "id": "Shear Connector"
+                  },
+                  {
+                    "id": "Staple"
+                  },
+                  {
+                    "id": "Stud Shear Connector"
+                  }
+                ]
+              },
+              {
+                "id": "Glue"
+              },
+              {
+                "id": "Mortar Fastener"
+              },
+              {
+                "id": "Weld"
+              }
+            ]
+          },
+          {
+            "id": "Reinforcement",
+            "children": [
+              {
+                "id": "Reinforcing Bar",
+                "children": [
+                  {
+                    "id": "Anchoring Reinforcing Bar"
+                  },
+                  {
+                    "id": "Edge Reinforcing Bar"
+                  },
+                  {
+                    "id": "Ligature Reinforcing Bar"
+                  },
+                  {
+                    "id": "Main Reinforcing Bar"
+                  },
+                  {
+                    "id": "Punching Reinforcing Bar"
+                  },
+                  {
+                    "id": "Ring Reinforcing Bar"
+                  },
+                  {
+                    "id": "Shear Reinforcing Bar"
+                  },
+                  {
+                    "id": "Stud Reinforcing Bar"
+                  }
+                ]
+              },
+              {
+                "id": "Reinforcing Mesh"
+              },
+              {
+                "id": "Tendon",
+                "children": [
+                  {
+                    "id": "Bar Tendon"
+                  },
+                  {
+                    "id": "Coated Tendon"
+                  },
+                  {
+                    "id": "Strand Tendon"
+                  },
+                  {
+                    "id": "Wire Tendon"
+                  }
+                ]
+              },
+              {
+                "id": "Tendon Anchor",
+                "children": [
+                  {
+                    "id": "Coupler Tendon Anchor"
+                  },
+                  {
+                    "id": "Fixed-end Tendon Anchor"
+                  },
+                  {
+                    "id": "Tensioning-end Tendon Anchor"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "Vibration Isolator",
+            "children": [
+              {
+                "id": "Compression"
+              },
+              {
+                "id": "Spring"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Furnishing",
+        "children": [
+          {
+            "id": "Furniture",
+            "new_properties": [
+              "Condition - Date of assessment",
+              "Phasing",
+              "Documentation",
+              "Condition - Condition evaluation",
+              "physically attached (yes/no)",
+              "Description",
+              "Guarantee - finishing date of Guarantee",
+              "Cabinet with lock (yes/no)",
+              "Work package",
+              "IFC renovation status"
+            ],
+            "children": [
+              {
+                "id": "Bed"
+              },
+              {
+                "id": "Chair"
+              },
+              {
+                "id": "Desk"
+              },
+              {
+                "id": "Filecabinet"
+              },
+              {
+                "id": "Shelf"
+              },
+              {
+                "id": "Sofa"
+              },
+              {
+                "id": "Table"
+              },
+              {
+                "id": "Kitchen furniture"
+              },
+              {
+                "id": "Planter"
+              }
+            ]
+          },
+          {
+            "id": "System Furniture",
+            "children": [
+              {
+                "id": "System Furniture Panel"
+              },
+              {
+                "id": "Work Surface"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "MEP Element",
+        "children": [
+          {
+            "id": "Distribution Control Element",
+            "children": [
+              {
+                "id": "Actuator",
+                "children": [
+                  {
+                    "id": "Electric Actuator"
+                  },
+                  {
+                    "id": "Handoperated Actuator"
+                  },
+                  {
+                    "id": "Hydraulic Actuator"
+                  },
+                  {
+                    "id": "Pneumatic Actuator"
+                  },
+                  {
+                    "id": "Thermostatic Actuator"
+                  }
+                ]
+              },
+              {
+                "id": "Alarm",
+                "children": [
+                  {
+                    "id": "Bell Alarm"
+                  },
+                  {
+                    "id": "Break Glass Button Alarm"
+                  },
+                  {
+                    "id": "Light Alarm"
+                  },
+                  {
+                    "id": "Manual Pull Box Alarm"
+                  },
+                  {
+                    "id": "Siren Alarm"
+                  },
+                  {
+                    "id": "Whistle Alarm"
+                  }
+                ]
+              },
+              {
+                "id": "Controller",
+                "children": [
+                  {
+                    "id": "Floating Controller"
+                  },
+                  {
+                    "id": "Multiposition Controller"
+                  },
+                  {
+                    "id": "Programmable Controller"
+                  },
+                  {
+                    "id": "Proportional Controller"
+                  },
+                  {
+                    "id": "Two Position Controller"
+                  }
+                ]
+              },
+              {
+                "id": "Flow Instrument",
+                "children": [
+                  {
+                    "id": "Ammeter"
+                  },
+                  {
+                    "id": "Frequency Meter"
+                  },
+                  {
+                    "id": "Phase Angle Meter"
+                  },
+                  {
+                    "id": "Power Factor Meter"
+                  },
+                  {
+                    "id": "Pressure Gauge"
+                  },
+                  {
+                    "id": "Thermometer"
+                  },
+                  {
+                    "id": "Voltmeter Peak"
+                  },
+                  {
+                    "id": "Voltmeter RMS"
+                  }
+                ]
+              },
+              {
+                "id": "Protective Device Tripping Unit",
+                "children": [
+                  {
+                    "id": "Electromagnetic Protective Device"
+                  },
+                  {
+                    "id": "Electronic Protective Device"
+                  },
+                  {
+                    "id": "Residual Current Protective Device"
+                  },
+                  {
+                    "id": "Thermal Protective Device"
+                  }
+                ]
+              },
+              {
+                "id": "Sensor",
+                "children": [
+                  {
+                    "id": "CO2 Sensor"
+                  },
+                  {
+                    "id": "Conductance Sensor"
+                  },
+                  {
+                    "id": "Contact Sensor"
+                  },
+                  {
+                    "id": "CO Sensor"
+                  },
+                  {
+                    "id": "Fire Sensor"
+                  },
+                  {
+                    "id": "Flow Sensor"
+                  },
+                  {
+                    "id": "Frost Sensor"
+                  },
+                  {
+                    "id": "Gas Sensor"
+                  },
+                  {
+                    "id": "Heat Sensor"
+                  },
+                  {
+                    "id": "Humidity Sensor"
+                  },
+                  {
+                    "id": "Identifier Sensor"
+                  },
+                  {
+                    "id": "Ionconcentration Sensor"
+                  },
+                  {
+                    "id": "Level Sensor"
+                  },
+                  {
+                    "id": "Light Sensor"
+                  },
+                  {
+                    "id": "Moisture Sensor"
+                  },
+                  {
+                    "id": "Movement Sensor"
+                  },
+                  {
+                    "id": "PH Sensor"
+                  },
+                  {
+                    "id": "Pressure Sensor"
+                  },
+                  {
+                    "id": "Radiation Sensor"
+                  },
+                  {
+                    "id": "Radioactivity Sensor"
+                  },
+                  {
+                    "id": "Smoke Sensor"
+                  },
+                  {
+                    "id": "Sound Sensor"
+                  },
+                  {
+                    "id": "Temperature Sensor"
+                  },
+                  {
+                    "id": "Wind Sensor"
+                  }
+                ]
+              },
+              {
+                "id": "Unitary Control Element",
+                "children": [
+                  {
+                    "id": "Alarm Panel"
+                  },
+                  {
+                    "id": "Control Panel"
+                  },
+                  {
+                    "id": "Gas Detection Panel"
+                  },
+                  {
+                    "id": "Humidistat"
+                  },
+                  {
+                    "id": "Indicator Panel"
+                  },
+                  {
+                    "id": "Mimic Panel"
+                  },
+                  {
+                    "id": "Thermostat"
+                  },
+                  {
+                    "id": "Weather Station"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "Distribution Flow Element",
+            "children": [
+              {
+                "id": "Distribution Chamber Element",
+                "children": [
+                  {
+                    "id": "Formed Duct"
+                  },
+                  {
+                    "id": "Inspection Chamber"
+                  },
+                  {
+                    "id": "Inspection Pit"
+                  },
+                  {
+                    "id": "Manhole"
+                  },
+                  {
+                    "id": "Meter Chamber"
+                  },
+                  {
+                    "id": "Sump"
+                  },
+                  {
+                    "id": "Trench"
+                  },
+                  {
+                    "id": "Valve Chamber"
+                  }
+                ]
+              },
+              {
+                "id": "Energy Conversion Device",
+                "children": [
+                  {
+                    "id": "Air to Air Heat Recovery",
+                    "children": [
+                      {
+                        "id": "Fixed-Plate Counter-Flow Exchanger"
+                      },
+                      {
+                        "id": "Fixed-Plate Cross-Flow Exchanger"
+                      },
+                      {
+                        "id": "Fixed-Plate Parallel-Flow Exchanger"
+                      },
+                      {
+                        "id": "Heat Pipe"
+                      },
+                      {
+                        "id": "Rotary Wheel Heat Recovery"
+                      },
+                      {
+                        "id": "Run-Around Coil Loop"
+                      },
+                      {
+                        "id": "Thermosiphon Coiltype Heat Exchanger"
+                      },
+                      {
+                        "id": "Thermosiphon Sealed Tube Heat Exchanger"
+                      },
+                      {
+                        "id": "Twin Tower Enthalpy Recovery Loop"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Boiler",
+                    "children": [
+                      {
+                        "id": "Steam Boiler"
+                      },
+                      {
+                        "id": "Water Boiler"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Burner"
+                  },
+                  {
+                    "id": "Chiller",
+                    "children": [
+                      {
+                        "id": "Air Cooled Chiller"
+                      },
+                      {
+                        "id": "Heat Recovery Chiller"
+                      },
+                      {
+                        "id": "Water Cooled Chiller"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Coil",
+                    "children": [
+                      {
+                        "id": "DX Cooling Coil"
+                      },
+                      {
+                        "id": "Electric Heating Coil"
+                      },
+                      {
+                        "id": "Gas Heating Coil"
+                      },
+                      {
+                        "id": "Hydronic Coil"
+                      },
+                      {
+                        "id": "Steam Heating Coil"
+                      },
+                      {
+                        "id": "Water Cooling Coil"
+                      },
+                      {
+                        "id": "Water Heating Coil"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Condenser",
+                    "children": [
+                      {
+                        "id": "Air Cooled Condenser"
+                      },
+                      {
+                        "id": "Evaporative Cooled Condenser"
+                      },
+                      {
+                        "id": "Water Cooled Condenser"
+                      },
+                      {
+                        "id": "Water Cooled Brazed Plate Condenser"
+                      },
+                      {
+                        "id": "Water Cooled Shell Coil Condenser"
+                      },
+                      {
+                        "id": "Water Cooled Shell Tube Condenser"
+                      },
+                      {
+                        "id": "Water Cooled Tube in Tube Condenser"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Cooled Beam",
+                    "children": [
+                      {
+                        "id": "Active Cooled Beam"
+                      },
+                      {
+                        "id": "Passive Cooled Beam"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Cooling Tower",
+                    "children": [
+                      {
+                        "id": "Mechanical Forced-Draft Cooling Tower"
+                      },
+                      {
+                        "id": "Mechanical Induced-Draft Cooling Tower"
+                      },
+                      {
+                        "id": "Natural Draft Cooling Tower"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Electric Generator",
+                    "children": [
+                      {
+                        "id": "CHP"
+                      },
+                      {
+                        "id": "Engine Generator"
+                      },
+                      {
+                        "id": "Standalone Electric Generator"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Electric Motor",
+                    "children": [
+                      {
+                        "id": "DC Electric Motor"
+                      },
+                      {
+                        "id": "Induction Electric Motor"
+                      },
+                      {
+                        "id": "Polyphase Electric Motor"
+                      },
+                      {
+                        "id": "Reluctance Synchronous Electric Motor"
+                      },
+                      {
+                        "id": "Synchronous Electric Motor"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Engine",
+                    "children": [
+                      {
+                        "id": "External Combustion Engine"
+                      },
+                      {
+                        "id": "Internal Combustion Engine"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Evaporative Cooler",
+                    "children": [
+                      {
+                        "id": "Direct Evaporative Air Washer"
+                      },
+                      {
+                        "id": "Direct Evaporative Packaged Rotary Air Cooler"
+                      },
+                      {
+                        "id": "Direct Evaporative Random Media Air Cooler"
+                      },
+                      {
+                        "id": "Direct Evaporative Rigid Media Air Cooler"
+                      },
+                      {
+                        "id": "Direct Evaporative Slingers Packaged Air Cooler"
+                      },
+                      {
+                        "id": "Indirect Direct Combination"
+                      },
+                      {
+                        "id": "Indirect Evaporative Cooling Tower"
+                      },
+                      {
+                        "id": "Indirect Evaporative Package Air Cooler"
+                      },
+                      {
+                        "id": "Indirect Evaporative Wet Coil"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Evaporator",
+                    "children": [
+                      {
+                        "id": "Direct Expansion Evaporator"
+                      },
+                      {
+                        "id": "Direct Expansion Brazed Plate Evaporator"
+                      },
+                      {
+                        "id": "Direct Expansion Shell and Tube Evaporator"
+                      },
+                      {
+                        "id": "Direct Expansion Tube in Tube Evaporator"
+                      },
+                      {
+                        "id": "Flooded Shell and Tube Evaporator"
+                      },
+                      {
+                        "id": "Shell and Coil Evaporator"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Heat Exchanger",
+                    "children": [
+                      {
+                        "id": "Plate Heat Exchanger"
+                      },
+                      {
+                        "id": "Shell and Tube Heat Exchanger"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Humidifier",
+                    "children": [
+                      {
+                        "id": "Adiabatic Air Washer"
+                      },
+                      {
+                        "id": "Adiabatic Atomizing Humidifier"
+                      },
+                      {
+                        "id": "Adiabatic Compressed Air Nozzle"
+                      },
+                      {
+                        "id": "Adiabatic Pan"
+                      },
+                      {
+                        "id": "Adiabatic Rigid Media"
+                      },
+                      {
+                        "id": "Adiabatic Ultrasonic Humidifier"
+                      },
+                      {
+                        "id": "Adiabatic Wetted Element"
+                      },
+                      {
+                        "id": "Assisted Butane Humidifier"
+                      },
+                      {
+                        "id": "Assisted Electric Humidifier"
+                      },
+                      {
+                        "id": "Assisted Natural Gas Humidifier"
+                      },
+                      {
+                        "id": "Assisted Propane Humidifier"
+                      },
+                      {
+                        "id": "Assisted Steam Humidifier"
+                      },
+                      {
+                        "id": "Steam Injection Humidifier"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Motor Connection",
+                    "children": [
+                      {
+                        "id": "Belt Drive Motor Connection"
+                      },
+                      {
+                        "id": "Coupling Motor Connection"
+                      },
+                      {
+                        "id": "Direct Drive Motor Connection"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Solar Device",
+                    "children": [
+                      {
+                        "id": "Solar Collector"
+                      },
+                      {
+                        "id": "Solar Panel"
+                      },
+                      {
+                        "id": "Hybrid solar panel"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Transformer",
+                    "children": [
+                      {
+                        "id": "Current Transformer"
+                      },
+                      {
+                        "id": "Frequency Transformer"
+                      },
+                      {
+                        "id": "Inverter Transformer"
+                      },
+                      {
+                        "id": "Rectifier Transformer"
+                      },
+                      {
+                        "id": "Voltage Transformer"
+                      },
+                      {
+                        "id": "Isolation transformer"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Tube Bundle",
+                    "children": [
+                      {
+                        "id": "Finned Tube Bundle"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Unitary Equipment",
+                    "children": [
+                      {
+                        "id": "Air Conditioning Unit"
+                      },
+                      {
+                        "id": "Air Handler"
+                      },
+                      {
+                        "id": "Dehumidifier"
+                      },
+                      {
+                        "id": "Rooftop Unit"
+                      },
+                      {
+                        "id": "Split System"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "Flow Controller",
+                "children": [
+                  {
+                    "id": "Air Terminal Box",
+                    "children": [
+                      {
+                        "id": "Constant Flow Air Terminal Box"
+                      },
+                      {
+                        "id": "Variable Flow Pressure Dependant Air Terminal Box"
+                      },
+                      {
+                        "id": "Variable Flow Pressure Independant Air Terminal Box"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Damper",
+                    "children": [
+                      {
+                        "id": "Backdraft Damper"
+                      },
+                      {
+                        "id": "Balancing Damper"
+                      },
+                      {
+                        "id": "Blast Damper"
+                      },
+                      {
+                        "id": "Control Damper"
+                      },
+                      {
+                        "id": "Fire Damper"
+                      },
+                      {
+                        "id": "Fire Smoke Damper"
+                      },
+                      {
+                        "id": "Fume Hood Exhaust Damper"
+                      },
+                      {
+                        "id": "Gravity Damper"
+                      },
+                      {
+                        "id": "Gravity Relief Damper"
+                      },
+                      {
+                        "id": "Relief Damper"
+                      },
+                      {
+                        "id": "Smoke Damper"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Electric Distribution Board",
+                    "children": [
+                      {
+                        "id": "Consumer Unit"
+                      },
+                      {
+                        "id": "Distribution Board"
+                      },
+                      {
+                        "id": "Motor Control Centre"
+                      },
+                      {
+                        "id": "Switch Board"
+                      },
+                      {
+                        "id": "Data board"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Electric Time Control",
+                    "children": [
+                      {
+                        "id": "Relay Electric Time Control"
+                      },
+                      {
+                        "id": "Time Clock"
+                      },
+                      {
+                        "id": "Time Delay"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Flow Meter",
+                    "children": [
+                      {
+                        "id": "Energy Meter"
+                      },
+                      {
+                        "id": "Gas Meter"
+                      },
+                      {
+                        "id": "Oil Meter"
+                      },
+                      {
+                        "id": "Water Meter"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Protective Device",
+                    "children": [
+                      {
+                        "id": "Circuit Breaker"
+                      },
+                      {
+                        "id": "Earthing Switch"
+                      },
+                      {
+                        "id": "Earth Leakage Circuit Breaker"
+                      },
+                      {
+                        "id": "Fuse Disconnector"
+                      },
+                      {
+                        "id": "Residual Current Circuit Breaker"
+                      },
+                      {
+                        "id": "Residual Current Switch"
+                      },
+                      {
+                        "id": "Varistor"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Switching Device",
+                    "children": [
+                      {
+                        "id": "Contactor"
+                      },
+                      {
+                        "id": "Dimmer Switch"
+                      },
+                      {
+                        "id": "Emergency Stop"
+                      },
+                      {
+                        "id": "Keypad"
+                      },
+                      {
+                        "id": "Momentary Switch"
+                      },
+                      {
+                        "id": "Selector Switch"
+                      },
+                      {
+                        "id": "Starter"
+                      },
+                      {
+                        "id": "Switch Disconnector"
+                      },
+                      {
+                        "id": "Toggle Switch"
+                      },
+                      {
+                        "id": "Timer"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Valve",
+                    "children": [
+                      {
+                        "id": "Air Release Valve"
+                      },
+                      {
+                        "id": "Anti-vacuum Valve"
+                      },
+                      {
+                        "id": "Changeover Valve"
+                      },
+                      {
+                        "id": "Check Valve"
+                      },
+                      {
+                        "id": "Commissioning Valve"
+                      },
+                      {
+                        "id": "Diverting Valve"
+                      },
+                      {
+                        "id": "Double Check Valve"
+                      },
+                      {
+                        "id": "Double Regulating Valve"
+                      },
+                      {
+                        "id": "Draw-off Cock Valve"
+                      },
+                      {
+                        "id": "Faucet Valve"
+                      },
+                      {
+                        "id": "Flushing Valve"
+                      },
+                      {
+                        "id": "Gas Cock Valve"
+                      },
+                      {
+                        "id": "Gas Tap Valve"
+                      },
+                      {
+                        "id": "Isolating Valve"
+                      },
+                      {
+                        "id": "Mixing Valve"
+                      },
+                      {
+                        "id": "Pressure Reducing Valve"
+                      },
+                      {
+                        "id": "Pressure Relief Valve"
+                      },
+                      {
+                        "id": "Regulating Valve"
+                      },
+                      {
+                        "id": "Safety Cut-off Valve"
+                      },
+                      {
+                        "id": "Steam Trap Valve"
+                      },
+                      {
+                        "id": "Stop Cock Valve"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "Flow Fitting",
+                "children": [
+                  {
+                    "id": "Cable Carrier Fitting",
+                    "children": [
+                      {
+                        "id": "Bend Cable Carrier Fitting"
+                      },
+                      {
+                        "id": "Cross Cable Carrier Fitting"
+                      },
+                      {
+                        "id": "Reducer Cable Carrier Fitting"
+                      },
+                      {
+                        "id": "Tee Cable Carrier Fitting"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Cable Fitting",
+                    "children": [
+                      {
+                        "id": "Connector Cable Fitting"
+                      },
+                      {
+                        "id": "Entry Cable Fitting"
+                      },
+                      {
+                        "id": "Exit Cable Fitting"
+                      },
+                      {
+                        "id": "Junction Cable Fitting"
+                      },
+                      {
+                        "id": "Transition Cable Fitting"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Duct Fitting",
+                    "children": [
+                      {
+                        "id": "Bend Duct Fitting"
+                      },
+                      {
+                        "id": "Connector Duct Fitting"
+                      },
+                      {
+                        "id": "Entry Duct Fitting"
+                      },
+                      {
+                        "id": "Exit Duct Fitting"
+                      },
+                      {
+                        "id": "Junction Duct Fitting"
+                      },
+                      {
+                        "id": "Obstruction Duct Fitting"
+                      },
+                      {
+                        "id": "Transition Duct Fitting"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Junction Box",
+                    "children": [
+                      {
+                        "id": "Data Junction Box"
+                      },
+                      {
+                        "id": "Power Junction Box"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Pipe Fitting",
+                    "children": [
+                      {
+                        "id": "Bend Pipe Fitting"
+                      },
+                      {
+                        "id": "Connector Pipe Fitting"
+                      },
+                      {
+                        "id": "Entry Pipe Fitting"
+                      },
+                      {
+                        "id": "Exit Pipe Fitting"
+                      },
+                      {
+                        "id": "Junction Pipe Fitting"
+                      },
+                      {
+                        "id": "Obstruction Pipe Fitting"
+                      },
+                      {
+                        "id": "Transition Pipe Fitting"
+                      },
+                      {
+                        "id": "Water manifold"
+                      },
+                      {
+                        "id": "Heating manifold"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "Flow Moving Device",
+                "children": [
+                  {
+                    "id": "Compressor",
+                    "children": [
+                      {
+                        "id": "Booster Compressor"
+                      },
+                      {
+                        "id": "Dynamic Compressor"
+                      },
+                      {
+                        "id": "Hermetic Compressor"
+                      },
+                      {
+                        "id": "Open-type Compressor"
+                      },
+                      {
+                        "id": "Reciprocating Compressor"
+                      },
+                      {
+                        "id": "Rolling Piston Compressor"
+                      },
+                      {
+                        "id": "Rotary Compressor"
+                      },
+                      {
+                        "id": "Rotary Vane Compressor"
+                      },
+                      {
+                        "id": "Scroll Compressor"
+                      },
+                      {
+                        "id": "Semi-hermetic Compressor"
+                      },
+                      {
+                        "id": "Single Screw Compressor"
+                      },
+                      {
+                        "id": "Single Stage Compressor"
+                      },
+                      {
+                        "id": "Trochoidal Compressor"
+                      },
+                      {
+                        "id": "Twinscrew Compressor"
+                      },
+                      {
+                        "id": "Welded Shell Hermetic Compressor"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Fan",
+                    "children": [
+                      {
+                        "id": "Centrifugal Air Foil Fan"
+                      },
+                      {
+                        "id": "Centrifugal Backward Inclined Curved Fan"
+                      },
+                      {
+                        "id": "Centrifugal Forward Curved Fan"
+                      },
+                      {
+                        "id": "Centrifugal Radial Fan"
+                      },
+                      {
+                        "id": "Propellor Axial Fan"
+                      },
+                      {
+                        "id": "Tube Axial Fan"
+                      },
+                      {
+                        "id": "Vane Axial Fan"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Pump",
+                    "children": [
+                      {
+                        "id": "Circulator Pump"
+                      },
+                      {
+                        "id": "End Suction Pump"
+                      },
+                      {
+                        "id": "Split Case Pump"
+                      },
+                      {
+                        "id": "Submersible Pump"
+                      },
+                      {
+                        "id": "Sump Pump"
+                      },
+                      {
+                        "id": "Vertical Inline Pump"
+                      },
+                      {
+                        "id": "Vertical Turbine Pump"
+                      },
+                      {
+                        "id": "Generic pump"
+                      },
+                      {
+                        "id": "Oil pump"
+                      },
+                      {
+                        "id": "Lift pump"
+                      },
+                      {
+                        "id": "Booster pump"
+                      },
+                      {
+                        "id": "Water pump"
+                      },
+                      {
+                        "id": "Fire pump"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "Flow Segment",
+                "children": [
+                  {
+                    "id": "Cable Carrier Segment",
+                    "children": [
+                      {
+                        "id": "Cable Ladder Segment"
+                      },
+                      {
+                        "id": "Cable Tray Segment"
+                      },
+                      {
+                        "id": "Cable Trunking Segment"
+                      },
+                      {
+                        "id": "Conduit Segment"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Cable Segment",
+                    "children": [
+                      {
+                        "id": "Busbar Segment"
+                      },
+                      {
+                        "id": "Conductor Segment"
+                      },
+                      {
+                        "id": "Core Segment"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Duct Segment",
+                    "children": [
+                      {
+                        "id": "Flexible Duct Segment"
+                      },
+                      {
+                        "id": "Rigid Duct Segment"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Pipe Segment",
+                    "children": [
+                      {
+                        "id": "Culvert"
+                      },
+                      {
+                        "id": "Flexible Pipe Segment"
+                      },
+                      {
+                        "id": "Gutter Pipe Segment",
+                        "new_properties": [
+                          "Documentation",
+                          "Phasing",
+                          "Work package",
+                          "Position ArchiCAD - IsExternal",
+                          "IFC renovation status"
+                        ]
+                      },
+                      {
+                        "id": "Rigid Pipe Segment"
+                      },
+                      {
+                        "id": "Spool Pipe Segment"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "Flow Storage Device",
+                "children": [
+                  {
+                    "id": "Electric Flow Storage Device",
+                    "children": [
+                      {
+                        "id": "Battery"
+                      },
+                      {
+                        "id": "Capacitor Bank"
+                      },
+                      {
+                        "id": "Harmonic Filter"
+                      },
+                      {
+                        "id": "Inductor Bank"
+                      },
+                      {
+                        "id": "UPS"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Tank",
+                    "children": [
+                      {
+                        "id": "Basin Tank"
+                      },
+                      {
+                        "id": "Break Pressure Tank"
+                      },
+                      {
+                        "id": "Expansion Tank"
+                      },
+                      {
+                        "id": "Feed and Expansion Tank"
+                      },
+                      {
+                        "id": "Pressure Vessel Tank"
+                      },
+                      {
+                        "id": "Storage Tank"
+                      },
+                      {
+                        "id": "Vessel Tank"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "Flow Terminal",
+                "children": [
+                  {
+                    "id": "Air Terminal",
+                    "children": [
+                      {
+                        "id": "Diffuser"
+                      },
+                      {
+                        "id": "Grille"
+                      },
+                      {
+                        "id": "Louvre"
+                      },
+                      {
+                        "id": "Register"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Audio Visual Appliance",
+                    "new_properties": [
+                      "Documentation",
+                      "Condition - Condition evaluation",
+                      "Condition - Date of assessment",
+                      "Work package",
+                      "Guarantee - finishing date of Guarantee",
+                      "Phasing",
+                      "IFC renovation status"
+                    ],
+                    "children": [
+                      {
+                        "id": "Amplifier"
+                      },
+                      {
+                        "id": "Camera"
+                      },
+                      {
+                        "id": "Display"
+                      },
+                      {
+                        "id": "Microphone"
+                      },
+                      {
+                        "id": "Player"
+                      },
+                      {
+                        "id": "Projector"
+                      },
+                      {
+                        "id": "Receiver"
+                      },
+                      {
+                        "id": "Speaker"
+                      },
+                      {
+                        "id": "Switcher"
+                      },
+                      {
+                        "id": "Telephone"
+                      },
+                      {
+                        "id": "Tuner"
+                      },
+                      {
+                        "id": "Intercom"
+                      },
+                      {
+                        "id": "Video intercom"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Communications Appliance",
+                    "new_properties": [
+                      "Documentation",
+                      "Condition - Condition evaluation",
+                      "Condition - Date of assessment",
+                      "Work package",
+                      "Guarantee - finishing date of Guarantee",
+                      "Phasing",
+                      "IFC renovation status"
+                    ],
+                    "children": [
+                      {
+                        "id": "Antenna"
+                      },
+                      {
+                        "id": "Computer"
+                      },
+                      {
+                        "id": "Fax"
+                      },
+                      {
+                        "id": "Gateway"
+                      },
+                      {
+                        "id": "Modem"
+                      },
+                      {
+                        "id": "Network Appliance"
+                      },
+                      {
+                        "id": "Network Bridge"
+                      },
+                      {
+                        "id": "Network Hub"
+                      },
+                      {
+                        "id": "Printer"
+                      },
+                      {
+                        "id": "Repeater"
+                      },
+                      {
+                        "id": "Router"
+                      },
+                      {
+                        "id": "Scanner"
+                      },
+                      {
+                        "id": "Server"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Electric Appliance",
+                    "new_properties": [
+                      "Documentation",
+                      "Condition - Condition evaluation",
+                      "Condition - Date of assessment",
+                      "Work package",
+                      "Guarantee - finishing date of Guarantee",
+                      "Phasing",
+                      "IFC renovation status"
+                    ],
+                    "children": [
+                      {
+                        "id": "Dishwasher"
+                      },
+                      {
+                        "id": "Electric Cooker"
+                      },
+                      {
+                        "id": "Freestanding Electric Heater"
+                      },
+                      {
+                        "id": "Freestanding Fan"
+                      },
+                      {
+                        "id": "Freestanding Water Cooler"
+                      },
+                      {
+                        "id": "Freestanding Water Heater"
+                      },
+                      {
+                        "id": "Freezer"
+                      },
+                      {
+                        "id": "Fridge-Freezer"
+                      },
+                      {
+                        "id": "Hand Dryer"
+                      },
+                      {
+                        "id": "Kitchen Machine"
+                      },
+                      {
+                        "id": "Microwave"
+                      },
+                      {
+                        "id": "Photocopier"
+                      },
+                      {
+                        "id": "Refrigerator"
+                      },
+                      {
+                        "id": "Tumble Dryer"
+                      },
+                      {
+                        "id": "Vending Machine"
+                      },
+                      {
+                        "id": "Washing Machine"
+                      },
+                      {
+                        "id": "Fixed hair dryer"
+                      },
+                      {
+                        "id": "Oven"
+                      },
+                      {
+                        "id": "ATM"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Electric Heater"
+                  },
+                  {
+                    "id": "Fire Suppression Terminal",
+                    "children": [
+                      {
+                        "id": "Breeching Inlet",
+                        "new_properties": [
+                          "Documentation",
+                          "Condition - Condition evaluation",
+                          "Condition - Date of assessment",
+                          "Work package",
+                          "Guarantee - finishing date of Guarantee",
+                          "Phasing",
+                          "IFC renovation status"
+                        ]
+                      },
+                      {
+                        "id": "Fire Hydrant",
+                        "new_properties": [
+                          "Documentation",
+                          "Condition - Condition evaluation",
+                          "Condition - Date of assessment",
+                          "Work package",
+                          "Guarantee - finishing date of Guarantee",
+                          "Phasing",
+                          "IFC renovation status"
+                        ]
+                      },
+                      {
+                        "id": "Hose Reel",
+                        "new_properties": [
+                          "Documentation",
+                          "Condition - Condition evaluation",
+                          "Condition - Date of assessment",
+                          "Work package",
+                          "Guarantee - finishing date of Guarantee",
+                          "Phasing",
+                          "IFC renovation status"
+                        ]
+                      },
+                      {
+                        "id": "Sprinkler",
+                        "new_properties": [
+                          "Documentation",
+                          "Condition - Condition evaluation",
+                          "Condition - Date of assessment",
+                          "Work package",
+                          "Guarantee - finishing date of Guarantee",
+                          "Phasing",
+                          "IFC renovation status"
+                        ]
+                      },
+                      {
+                        "id": "Sprinkler Deflector"
+                      },
+                      {
+                        "id": "Fire protection cabinet"
+                      },
+                      {
+                        "id": "Extinguisher"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Gas Terminal"
+                  },
+                  {
+                    "id": "Lamp",
+                    "children": [
+                      {
+                        "id": "Compact Fluorescent Lamp"
+                      },
+                      {
+                        "id": "Fluorescent Lamp"
+                      },
+                      {
+                        "id": "Halogen Lamp"
+                      },
+                      {
+                        "id": "High-pressure Mercury Lamp"
+                      },
+                      {
+                        "id": "High-pressure Sodium Lamp"
+                      },
+                      {
+                        "id": "Led Lamp"
+                      },
+                      {
+                        "id": "Metal Halide Lamp"
+                      },
+                      {
+                        "id": "Oled Lamp"
+                      },
+                      {
+                        "id": "Tungsten Filament Lamp"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Light Fixture",
+                    "new_properties": [
+                      "Documentation",
+                      "Condition - Condition evaluation",
+                      "Condition - Date of assessment",
+                      "Work package",
+                      "Guarantee - finishing date of Guarantee",
+                      "Phasing",
+                      "IFC renovation status"
+                    ],
+                    "children": [
+                      {
+                        "id": "Direction Source"
+                      },
+                      {
+                        "id": "Point Source"
+                      },
+                      {
+                        "id": "Security Lighting"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Medical Device",
+                    "children": [
+                      {
+                        "id": "Air Station"
+                      },
+                      {
+                        "id": "Feed Air Unit"
+                      },
+                      {
+                        "id": "Oxygen Generator"
+                      },
+                      {
+                        "id": "Oxygen Plant"
+                      },
+                      {
+                        "id": "Vacuum Station"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Outlet",
+                    "children": [
+                      {
+                        "id": "Audiovisual Outlet"
+                      },
+                      {
+                        "id": "Communications Outlet"
+                      },
+                      {
+                        "id": "Data Outlet"
+                      },
+                      {
+                        "id": "Power Outlet"
+                      },
+                      {
+                        "id": "Telephone Outlet"
+                      },
+                      {
+                        "id": "Charging station"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Sanitary Terminal",
+                    "new_properties": [
+                      "Condition - Date of assessment",
+                      "Is automatic",
+                      "Phasing",
+                      "Type of manipulation",
+                      "Documentation",
+                      "Condition - Condition evaluation",
+                      "Capacity (volume)",
+                      "Guarantee - finishing date of Guarantee",
+                      "Work package",
+                      "IFC renovation status"
+                    ],
+                    "children": [
+                      {
+                        "id": "Bath"
+                      },
+                      {
+                        "id": "Bidet"
+                      },
+                      {
+                        "id": "Cistern"
+                      },
+                      {
+                        "id": "Sanitary Fountain"
+                      },
+                      {
+                        "id": "Shower"
+                      },
+                      {
+                        "id": "Sink"
+                      },
+                      {
+                        "id": "Toilet Pan"
+                      },
+                      {
+                        "id": "Urinal"
+                      },
+                      {
+                        "id": "Wash-hand Basin"
+                      },
+                      {
+                        "id": "WC Seat"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Space Heater",
+                    "children": [
+                      {
+                        "id": "Convector"
+                      },
+                      {
+                        "id": "Radiator"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Stack Terminal",
+                    "children": [
+                      {
+                        "id": "Bird Cage"
+                      },
+                      {
+                        "id": "Cowl"
+                      },
+                      {
+                        "id": "Rainwater Hopper"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Waste Terminal",
+                    "children": [
+                      {
+                        "id": "Floor Trap"
+                      },
+                      {
+                        "id": "Floor Waste"
+                      },
+                      {
+                        "id": "Gully Sump"
+                      },
+                      {
+                        "id": "Gully Trap"
+                      },
+                      {
+                        "id": "Roof Drain"
+                      },
+                      {
+                        "id": "Waste Disposal Unit"
+                      },
+                      {
+                        "id": "Waste Trap"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "Flow Treatment Device",
+                "children": [
+                  {
+                    "id": "Duct Silencer",
+                    "children": [
+                      {
+                        "id": "Flat Oval"
+                      },
+                      {
+                        "id": "Rectangular"
+                      },
+                      {
+                        "id": "Round"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Filter",
+                    "children": [
+                      {
+                        "id": "Air Particle Filter"
+                      },
+                      {
+                        "id": "Compressed Air Filter"
+                      },
+                      {
+                        "id": "Odor Filter"
+                      },
+                      {
+                        "id": "Oil Filter"
+                      },
+                      {
+                        "id": "Strainer Filter"
+                      },
+                      {
+                        "id": "Water Filter"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Interceptor",
+                    "children": [
+                      {
+                        "id": "Cyclonic Interceptor"
+                      },
+                      {
+                        "id": "Grease Interceptor"
+                      },
+                      {
+                        "id": "Oil Interceptor"
+                      },
+                      {
+                        "id": "Petrol Interceptor"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Transport Element",
+        "children": [
+          {
+            "id": "Elevator"
+          },
+          {
+            "id": "Escalator"
+          },
+          {
+            "id": "Moving Walkway"
+          },
+          {
+            "id": "Craneway"
+          },
+          {
+            "id": "Lifting Gear"
+          },
+          {
+            "id": "Stair lift"
+          },
+          {
+            "id": "Rubble chute"
+          },
+          {
+            "id": "Facade gondola"
+          },
+          {
+            "id": "Laundry chute"
+          },
+          {
+            "id": "Boarding bridge"
+          },
+          {
+            "id": "Lifting platform"
+          },
+          {
+            "id": "Pneumatic tube system"
+          },
+          {
+            "id": "Escape slide"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Components",
+    "children": [
+      {
+        "id": "Structural"
+      },
+      {
+        "id": "Filler"
+      },
+      {
+        "id": "Insulation Component"
+      },
+      {
+        "id": "Airgap"
+      },
+      {
+        "id": "Cladding Component"
+      },
+      {
+        "id": "Finishes"
+      }
+    ]
+  },
+  {
+    "id": "Materials",
+    "children": [
+      {
+        "id": "Generic Material",
+        "children": [
+          {
+            "id": "Generic Structural Material",
+            "children": [
+              {
+                "id": "Generic Prefabricated Material"
+              },
+              {
+                "id": "Generic In-situ Material"
+              }
+            ]
+          },
+          {
+            "id": "Generic Cladding & Finishes",
+            "children": [
+              {
+                "id": "Generic Internal Cladding & Finishes"
+              },
+              {
+                "id": "Generic External Cladding & Finishes"
+              }
+            ]
+          },
+          {
+            "id": "Generic Insulation Material",
+            "children": [
+              {
+                "id": "Generic Waterproofing"
+              },
+              {
+                "id": "Generic Thermal Insulation"
+              },
+              {
+                "id": "Generic Fireproofing"
+              },
+              {
+                "id": "Generic Air Gap"
+              }
+            ]
+          },
+          {
+            "id": "Generic Masonry",
+            "children": [
+              {
+                "id": "Generic Brick"
+              },
+              {
+                "id": "Generic Block"
+              }
+            ]
+          },
+          {
+            "id": "Generic Filler Material",
+            "children": [
+              {
+                "id": "Generic Prefab Filler"
+              },
+              {
+                "id": "Generic In-situ Filler"
+              }
+            ]
+          },
+          {
+            "id": "Generic Interior Material"
+          }
+        ]
+      },
+      {
+        "id": "Ceramic",
+        "children": [
+          {
+            "id": "Ceramic Cladding & Finishes",
+            "children": [
+              {
+                "id": "Ceramic Roof Tiles"
+              },
+              {
+                "id": "Ceramic Floor Tiles"
+              },
+              {
+                "id": "Ceramic Wall Tiles"
+              }
+            ]
+          },
+          {
+            "id": "Ceramic Fitting"
+          },
+          {
+            "id": "Ceramic Masonry"
+          }
+        ]
+      },
+      {
+        "id": "Concrete",
+        "children": [
+          {
+            "id": "Structural Concrete",
+            "children": [
+              {
+                "id": "Structural In Situ Concrete"
+              },
+              {
+                "id": "Structural Prefab Concrete"
+              }
+            ]
+          },
+          {
+            "id": "Concrete Masonry",
+            "children": [
+              {
+                "id": "Concrete Block"
+              },
+              {
+                "id": "Concrete Brick"
+              }
+            ]
+          },
+          {
+            "id": "Concrete Cladding & Finishes",
+            "children": [
+              {
+                "id": "Sprayed Concrete"
+              },
+              {
+                "id": "Concrete Roofing Tile"
+              },
+              {
+                "id": "Concrete Floor Tile"
+              },
+              {
+                "id": "Concrete Floor Layer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Burnt Clay",
+        "children": [
+          {
+            "id": "Burnt Clay Masonry",
+            "children": [
+              {
+                "id": "Clay Brick"
+              },
+              {
+                "id": "Clay Block"
+              },
+              {
+                "id": "Straw Bale"
+              }
+            ]
+          },
+          {
+            "id": "Burnt Clay Cladding & Finishes",
+            "children": [
+              {
+                "id": "Clay Roof Tile"
+              },
+              {
+                "id": "Clay Floor Finish"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Glass",
+        "children": [
+          {
+            "id": "Glazing Glass"
+          },
+          {
+            "id": "Glass Block"
+          },
+          {
+            "id": "Structural Glass"
+          },
+          {
+            "id": "Glass Wool"
+          }
+        ]
+      },
+      {
+        "id": "Gypsum",
+        "children": [
+          {
+            "id": "Gypsum Masonry",
+            "children": [
+              {
+                "id": "Gypsum Bricks"
+              },
+              {
+                "id": "Gypsum Blocks"
+              }
+            ]
+          },
+          {
+            "id": "Gypsum Cladding & Finishes",
+            "children": [
+              {
+                "id": "Gypsum Plaster"
+              }
+            ]
+          },
+          {
+            "id": "Gypsum Partitioning"
+          }
+        ]
+      },
+      {
+        "id": "Metal",
+        "children": [
+          {
+            "id": "Structural Metal",
+            "children": [
+              {
+                "id": "Metal Framing"
+              },
+              {
+                "id": "Metal Carcassing"
+              }
+            ]
+          },
+          {
+            "id": "Metal Cladding & Finishes",
+            "children": [
+              {
+                "id": "Sheet Metal"
+              },
+              {
+                "id": "Metal Finish"
+              }
+            ]
+          },
+          {
+            "id": "Metal Insulation"
+          },
+          {
+            "id": "Ironmongery"
+          },
+          {
+            "id": "Plumbing Metal"
+          }
+        ]
+      },
+      {
+        "id": "Mineral",
+        "children": [
+          {
+            "id": "Mineral Thermal Insulation"
+          },
+          {
+            "id": "Mineral Waterproofing"
+          },
+          {
+            "id": "Mineral Coating & Finishes",
+            "children": [
+              {
+                "id": "Mineral Plaster"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Nature",
+        "children": [
+          {
+            "id": "Air"
+          },
+          {
+            "id": "Terrain Materials"
+          },
+          {
+            "id": "Flora & Fauna Material"
+          },
+          {
+            "id": "Paving Material"
+          },
+          {
+            "id": "Body of Water"
+          }
+        ]
+      },
+      {
+        "id": "Plastic",
+        "children": [
+          {
+            "id": "Plastic Glazing"
+          },
+          {
+            "id": "Plastic Thermal Insulation"
+          },
+          {
+            "id": "Plastic Waterproofing"
+          },
+          {
+            "id": "Plastic Sealants"
+          },
+          {
+            "id": "Plastic Claddings & Finishes"
+          }
+        ]
+      },
+      {
+        "id": "Stone",
+        "children": [
+          {
+            "id": "Stone Masonry",
+            "children": [
+              {
+                "id": "Stones - Fabricated",
+                "children": [
+                  {
+                    "id": "Stone Bricks"
+                  },
+                  {
+                    "id": "Stone Blocks"
+                  }
+                ]
+              },
+              {
+                "id": "Stones - Ashlar & Rubble",
+                "children": [
+                  {
+                    "id": "Natural Stones"
+                  },
+                  {
+                    "id": "Cast Stones"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "Stone Cladding & Finishes",
+            "children": [
+              {
+                "id": "Stone - Flooring"
+              },
+              {
+                "id": "Stone - Wall Cladding"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Wood",
+        "children": [
+          {
+            "id": "Structural Timber",
+            "children": [
+              {
+                "id": "Framing Timber",
+                "children": [
+                  {
+                    "id": "Glued-Laminated Timber"
+                  }
+                ]
+              },
+              {
+                "id": "Carcassing Timber",
+                "children": [
+                  {
+                    "id": "Plywood"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "Timber Cladding & Finishes",
+            "children": [
+              {
+                "id": "Wood Flooring"
+              },
+              {
+                "id": "Wood Shingles"
+              },
+              {
+                "id": "Wood Wall Boarding"
+              },
+              {
+                "id": "Practicle Board"
+              },
+              {
+                "id": "Fibreboard"
+              }
+            ]
+          },
+          {
+            "id": "Interior & Furniture Wood",
+            "children": [
+              {
+                "id": "Softwood"
+              },
+              {
+                "id": "Hardwood"
+              }
+            ]
+          },
+          {
+            "id": "Wood Fills & Insulations",
+            "children": [
+              {
+                "id": "Wood Fibre"
+              },
+              {
+                "id": "Wood Wool"
+              },
+              {
+                "id": "Sawdust"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Coverings",
+        "children": [
+          {
+            "id": "Textiles"
+          },
+          {
+            "id": "Papers"
+          },
+          {
+            "id": "Leather"
+          }
+        ]
+      }
+    ]
+  }
+]
