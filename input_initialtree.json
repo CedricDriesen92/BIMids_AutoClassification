@@ -1,0 +1,4680 @@
+[
+  {
+    "id": "Site",
+    "children": [
+      {
+        "id": "Geographic Element",
+        "children": [
+          {
+            "id": "Terrain",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Site Geometry",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Flora & Fauna",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Massing",
+        "children": [
+          {
+            "id": "Morph",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Civil Element",
+        "children": [],
+        "properties": []
+      }
+    ],
+    "properties": []
+  },
+  {
+    "id": "Space",
+    "children": [
+      {
+        "id": "External Space",
+        "children": [
+          {
+            "id": "Parking Space",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Internal Space",
+        "children": [
+          {
+            "id": "Access Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Commercial Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Communication Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Cultural Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Educational Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Equipment Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Medical Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Office Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Production Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Recreational Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Research Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Residential Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Storage Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Transport Space",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "General Floor Area Space",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      }
+    ],
+    "properties": []
+  },
+  {
+    "id": "Elements",
+    "children": [
+      {
+        "id": "Construction Element",
+        "children": [
+          {
+            "id": "Building Element Proxy",
+            "children": [
+              {
+                "id": "Complex Building Element Proxy",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Element Building Element Proxy",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Partial Building Element Proxy",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Provision for Space",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Provision for Void",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Wall",
+            "children": [
+              {
+                "id": "Elemented Wall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Movable Wall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Parapet Wall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Partitioning Wall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Plumbing Wall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Polygonal Wall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Shear Wall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Solid Wall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Standard Wall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Thermal break (structural)",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Secant pile",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Tangeant pile",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Sheet pile",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Retaining wall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Deepwall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Soldier pile wall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Combiwall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Soilmix wall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Cement-bentonite slurry wall",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Timbered trench",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Footing",
+            "children": [
+              {
+                "id": "Caisson Foundation",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Footing Beam",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Pad Footing",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Pile Cap",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Strip Footing",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Column",
+            "children": [
+              {
+                "id": "Column Segment",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Pilaster",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Pile",
+            "children": [
+              {
+                "id": "Bored Pile",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Cohesion Pile",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Driven Pile",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Friction Pile",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Jetgrouting Pile",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Support Pile",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Screw Pile",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Soil Mix",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Stone columns",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Rigid inclusions",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Beam",
+            "children": [
+              {
+                "id": "Beam Segment",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Joist",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Hollowcore",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Lintel",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Spandrel",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "T-Beam",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Ring beam",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Spandrel beam",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Slab",
+            "children": [
+              {
+                "id": "Floor Slab",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Roof Slab",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Landing Slab",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Base Slab",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Roof",
+            "children": [
+              {
+                "id": "Flat Roof",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Shed Roof",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Gable Roof",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Hip Roof",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Hipped Gable Roof",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Gambrel Roof",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Mansard Roof",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Barrel Roof",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Rainbow Roof",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Butterfly Roof",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Pavilion Roof",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Dome Roof",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Freeform Roof",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Pergola",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Shell",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Covering",
+            "children": [
+              {
+                "id": "Ceiling",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Cladding",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Flooring",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Insulation",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Membrane",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Molding",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Roofing",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Sleeving",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Skirtingboard",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Wrapping",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Technical Floor",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "False ceiling",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Wall protection",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Wall painting",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Floor paint",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Ceiling paint",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Stair",
+            "children": [
+              {
+                "id": "Stair Finish",
+                "children": [
+                  {
+                    "id": "Stair Riser",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Stair Tread",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Stair Structure",
+                "children": [
+                  {
+                    "id": "Stair Flight",
+                    "children": [
+                      {
+                        "id": "Curved Stair Flight",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Freeform Stair Flight",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Spiral Stair Flight",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Straight Stair Flight",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Winder Stair Flight",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Stair Landing",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Stair Layout",
+                "children": [
+                  {
+                    "id": "Curved-run Stair",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Double-return Stair",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Half-turn Stair",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Half-winding Stair",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Quarter-turn Stair",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Quarter-winding Stair",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Spiral Stair",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Straight-run Stair",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Three-quarter-turn Stair",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Three-quarter-winding Stair",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Two-curved-run Stair",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Two-quarter-turn Stair",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Two-quarter-winding Stair",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Two-straight-run Stair",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Ramp",
+            "children": [
+              {
+                "id": "Ramp Flight",
+                "children": [
+                  {
+                    "id": "Spiral Ramp Flight",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Straight Ramp Flight",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Ramp Landing",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Half-turn Ramp",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Quarter-turn Ramp",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Spiral Ramp",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Straight-run Ramp",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Two-quarter-turn Ramp",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Two-straight-run Ramp",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Railing",
+            "children": [
+              {
+                "id": "Rail",
+                "children": [
+                  {
+                    "id": "Handrail",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Guardrail",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Railing Post",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Railing Panel",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Balustrade",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Curtain Wall",
+            "children": [
+              {
+                "id": "Curtain Wall Panel",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Curtain Wall Frame",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Member",
+            "children": [
+              {
+                "id": "Brace",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Chord",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Collar",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Mullion",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Plate Member",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Post",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Purlin",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Rafter",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Stringer",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Strut",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Stud",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Floor joist",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Plate",
+            "children": [
+              {
+                "id": "Curtain Panel",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Sheet",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Shading Device",
+            "children": [
+              {
+                "id": "Awning",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Jalousie",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Shutter",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Chimney",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Opening",
+        "children": [
+          {
+            "id": "Door",
+            "children": [
+              {
+                "id": "Gate",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Trapdoor",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Window",
+            "children": [
+              {
+                "id": "Lightdome",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Skylight",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Recess",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Empty Opening",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Element Component",
+        "children": [
+          {
+            "id": "Discrete Accessory",
+            "children": [
+              {
+                "id": "Anchorplate",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Bracket",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Shoe",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Fastener",
+            "children": [
+              {
+                "id": "Mechanical Fastener",
+                "children": [
+                  {
+                    "id": "Anchorbolt",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Bolt",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Dowel",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Nail",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Nailplate",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Rivet",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Screw",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Shear Connector",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Staple",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Stud Shear Connector",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Glue",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Mortar Fastener",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Weld",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Reinforcement",
+            "children": [
+              {
+                "id": "Reinforcing Bar",
+                "children": [
+                  {
+                    "id": "Anchoring Reinforcing Bar",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Edge Reinforcing Bar",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Ligature Reinforcing Bar",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Main Reinforcing Bar",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Punching Reinforcing Bar",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Ring Reinforcing Bar",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Shear Reinforcing Bar",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Stud Reinforcing Bar",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Reinforcing Mesh",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Tendon",
+                "children": [
+                  {
+                    "id": "Bar Tendon",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Coated Tendon",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Strand Tendon",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Wire Tendon",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Tendon Anchor",
+                "children": [
+                  {
+                    "id": "Coupler Tendon Anchor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Fixed-end Tendon Anchor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Tensioning-end Tendon Anchor",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Vibration Isolator",
+            "children": [
+              {
+                "id": "Compression",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Spring",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Furnishing",
+        "children": [
+          {
+            "id": "Furniture",
+            "children": [
+              {
+                "id": "Bed",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Chair",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Desk",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Filecabinet",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Shelf",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Sofa",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Table",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Kitchen furniture",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Planter",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "System Furniture",
+            "children": [
+              {
+                "id": "System Furniture Panel",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Work Surface",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "MEP Element",
+        "children": [
+          {
+            "id": "Distribution Control Element",
+            "children": [
+              {
+                "id": "Actuator",
+                "children": [
+                  {
+                    "id": "Electric Actuator",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Handoperated Actuator",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Hydraulic Actuator",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Pneumatic Actuator",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Thermostatic Actuator",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Alarm",
+                "children": [
+                  {
+                    "id": "Bell Alarm",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Break Glass Button Alarm",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Light Alarm",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Manual Pull Box Alarm",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Siren Alarm",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Whistle Alarm",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Controller",
+                "children": [
+                  {
+                    "id": "Floating Controller",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Multiposition Controller",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Programmable Controller",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Proportional Controller",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Two Position Controller",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Flow Instrument",
+                "children": [
+                  {
+                    "id": "Ammeter",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Frequency Meter",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Phase Angle Meter",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Power Factor Meter",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Pressure Gauge",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Thermometer",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Voltmeter Peak",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Voltmeter RMS",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Protective Device Tripping Unit",
+                "children": [
+                  {
+                    "id": "Electromagnetic Protective Device",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Electronic Protective Device",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Residual Current Protective Device",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Thermal Protective Device",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Sensor",
+                "children": [
+                  {
+                    "id": "CO2 Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Conductance Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Contact Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "CO Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Fire Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Flow Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Frost Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Gas Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Heat Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Humidity Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Identifier Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Ionconcentration Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Level Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Light Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Moisture Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Movement Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "PH Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Pressure Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Radiation Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Radioactivity Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Smoke Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Sound Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Temperature Sensor",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Wind Sensor",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Unitary Control Element",
+                "children": [
+                  {
+                    "id": "Alarm Panel",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Control Panel",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Gas Detection Panel",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Humidistat",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Indicator Panel",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Mimic Panel",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Thermostat",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Weather Station",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Distribution Flow Element",
+            "children": [
+              {
+                "id": "Distribution Chamber Element",
+                "children": [
+                  {
+                    "id": "Formed Duct",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Inspection Chamber",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Inspection Pit",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Manhole",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Meter Chamber",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Sump",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Trench",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Valve Chamber",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Energy Conversion Device",
+                "children": [
+                  {
+                    "id": "Air to Air Heat Recovery",
+                    "children": [
+                      {
+                        "id": "Fixed-Plate Counter-Flow Exchanger",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Fixed-Plate Cross-Flow Exchanger",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Fixed-Plate Parallel-Flow Exchanger",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Heat Pipe",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Rotary Wheel Heat Recovery",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Run-Around Coil Loop",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Thermosiphon Coiltype Heat Exchanger",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Thermosiphon Sealed Tube Heat Exchanger",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Twin Tower Enthalpy Recovery Loop",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Boiler",
+                    "children": [
+                      {
+                        "id": "Steam Boiler",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Water Boiler",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Burner",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Chiller",
+                    "children": [
+                      {
+                        "id": "Air Cooled Chiller",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Heat Recovery Chiller",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Water Cooled Chiller",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Coil",
+                    "children": [
+                      {
+                        "id": "DX Cooling Coil",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Electric Heating Coil",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Gas Heating Coil",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Hydronic Coil",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Steam Heating Coil",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Water Cooling Coil",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Water Heating Coil",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Condenser",
+                    "children": [
+                      {
+                        "id": "Air Cooled Condenser",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Evaporative Cooled Condenser",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Water Cooled Condenser",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Water Cooled Brazed Plate Condenser",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Water Cooled Shell Coil Condenser",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Water Cooled Shell Tube Condenser",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Water Cooled Tube in Tube Condenser",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Cooled Beam",
+                    "children": [
+                      {
+                        "id": "Active Cooled Beam",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Passive Cooled Beam",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Cooling Tower",
+                    "children": [
+                      {
+                        "id": "Mechanical Forced-Draft Cooling Tower",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Mechanical Induced-Draft Cooling Tower",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Natural Draft Cooling Tower",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Electric Generator",
+                    "children": [
+                      {
+                        "id": "CHP",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Engine Generator",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Standalone Electric Generator",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Electric Motor",
+                    "children": [
+                      {
+                        "id": "DC Electric Motor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Induction Electric Motor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Polyphase Electric Motor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Reluctance Synchronous Electric Motor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Synchronous Electric Motor",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Engine",
+                    "children": [
+                      {
+                        "id": "External Combustion Engine",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Internal Combustion Engine",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Evaporative Cooler",
+                    "children": [
+                      {
+                        "id": "Direct Evaporative Air Washer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Direct Evaporative Packaged Rotary Air Cooler",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Direct Evaporative Random Media Air Cooler",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Direct Evaporative Rigid Media Air Cooler",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Direct Evaporative Slingers Packaged Air Cooler",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Indirect Direct Combination",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Indirect Evaporative Cooling Tower",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Indirect Evaporative Package Air Cooler",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Indirect Evaporative Wet Coil",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Evaporator",
+                    "children": [
+                      {
+                        "id": "Direct Expansion Evaporator",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Direct Expansion Brazed Plate Evaporator",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Direct Expansion Shell and Tube Evaporator",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Direct Expansion Tube in Tube Evaporator",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Flooded Shell and Tube Evaporator",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Shell and Coil Evaporator",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Heat Exchanger",
+                    "children": [
+                      {
+                        "id": "Plate Heat Exchanger",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Shell and Tube Heat Exchanger",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Humidifier",
+                    "children": [
+                      {
+                        "id": "Adiabatic Air Washer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Adiabatic Atomizing Humidifier",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Adiabatic Compressed Air Nozzle",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Adiabatic Pan",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Adiabatic Rigid Media",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Adiabatic Ultrasonic Humidifier",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Adiabatic Wetted Element",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Assisted Butane Humidifier",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Assisted Electric Humidifier",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Assisted Natural Gas Humidifier",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Assisted Propane Humidifier",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Assisted Steam Humidifier",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Steam Injection Humidifier",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Motor Connection",
+                    "children": [
+                      {
+                        "id": "Belt Drive Motor Connection",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Coupling Motor Connection",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Direct Drive Motor Connection",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Solar Device",
+                    "children": [
+                      {
+                        "id": "Solar Collector",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Solar Panel",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Hybrid solar panel",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Transformer",
+                    "children": [
+                      {
+                        "id": "Current Transformer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Frequency Transformer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Inverter Transformer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Rectifier Transformer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Voltage Transformer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Isolation transformer",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Tube Bundle",
+                    "children": [
+                      {
+                        "id": "Finned Tube Bundle",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Unitary Equipment",
+                    "children": [
+                      {
+                        "id": "Air Conditioning Unit",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Air Handler",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Dehumidifier",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Rooftop Unit",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Split System",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Flow Controller",
+                "children": [
+                  {
+                    "id": "Air Terminal Box",
+                    "children": [
+                      {
+                        "id": "Constant Flow Air Terminal Box",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Variable Flow Pressure Dependant Air Terminal Box",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Variable Flow Pressure Independant Air Terminal Box",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Damper",
+                    "children": [
+                      {
+                        "id": "Backdraft Damper",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Balancing Damper",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Blast Damper",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Control Damper",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Fire Damper",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Fire Smoke Damper",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Fume Hood Exhaust Damper",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Gravity Damper",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Gravity Relief Damper",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Relief Damper",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Smoke Damper",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Electric Distribution Board",
+                    "children": [
+                      {
+                        "id": "Consumer Unit",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Distribution Board",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Motor Control Centre",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Switch Board",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Data board",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Electric Time Control",
+                    "children": [
+                      {
+                        "id": "Relay Electric Time Control",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Time Clock",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Time Delay",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Flow Meter",
+                    "children": [
+                      {
+                        "id": "Energy Meter",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Gas Meter",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Oil Meter",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Water Meter",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Protective Device",
+                    "children": [
+                      {
+                        "id": "Circuit Breaker",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Earthing Switch",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Earth Leakage Circuit Breaker",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Fuse Disconnector",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Residual Current Circuit Breaker",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Residual Current Switch",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Varistor",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Switching Device",
+                    "children": [
+                      {
+                        "id": "Contactor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Dimmer Switch",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Emergency Stop",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Keypad",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Momentary Switch",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Selector Switch",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Starter",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Switch Disconnector",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Toggle Switch",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Timer",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Valve",
+                    "children": [
+                      {
+                        "id": "Air Release Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Anti-vacuum Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Changeover Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Check Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Commissioning Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Diverting Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Double Check Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Double Regulating Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Draw-off Cock Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Faucet Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Flushing Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Gas Cock Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Gas Tap Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Isolating Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Mixing Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Pressure Reducing Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Pressure Relief Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Regulating Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Safety Cut-off Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Steam Trap Valve",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Stop Cock Valve",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Flow Fitting",
+                "children": [
+                  {
+                    "id": "Cable Carrier Fitting",
+                    "children": [
+                      {
+                        "id": "Bend Cable Carrier Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Cross Cable Carrier Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Reducer Cable Carrier Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Tee Cable Carrier Fitting",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Cable Fitting",
+                    "children": [
+                      {
+                        "id": "Connector Cable Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Entry Cable Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Exit Cable Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Junction Cable Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Transition Cable Fitting",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Duct Fitting",
+                    "children": [
+                      {
+                        "id": "Bend Duct Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Connector Duct Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Entry Duct Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Exit Duct Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Junction Duct Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Obstruction Duct Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Transition Duct Fitting",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Junction Box",
+                    "children": [
+                      {
+                        "id": "Data Junction Box",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Power Junction Box",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Pipe Fitting",
+                    "children": [
+                      {
+                        "id": "Bend Pipe Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Connector Pipe Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Entry Pipe Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Exit Pipe Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Junction Pipe Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Obstruction Pipe Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Transition Pipe Fitting",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Water manifold",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Heating manifold",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Flow Moving Device",
+                "children": [
+                  {
+                    "id": "Compressor",
+                    "children": [
+                      {
+                        "id": "Booster Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Dynamic Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Hermetic Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Open-type Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Reciprocating Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Rolling Piston Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Rotary Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Rotary Vane Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Scroll Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Semi-hermetic Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Single Screw Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Single Stage Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Trochoidal Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Twinscrew Compressor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Welded Shell Hermetic Compressor",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Fan",
+                    "children": [
+                      {
+                        "id": "Centrifugal Air Foil Fan",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Centrifugal Backward Inclined Curved Fan",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Centrifugal Forward Curved Fan",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Centrifugal Radial Fan",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Propellor Axial Fan",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Tube Axial Fan",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Vane Axial Fan",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Pump",
+                    "children": [
+                      {
+                        "id": "Circulator Pump",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "End Suction Pump",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Split Case Pump",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Submersible Pump",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Sump Pump",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Vertical Inline Pump",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Vertical Turbine Pump",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Generic pump",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Oil pump",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Lift pump",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Booster pump",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Water pump",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Fire pump",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Flow Segment",
+                "children": [
+                  {
+                    "id": "Cable Carrier Segment",
+                    "children": [
+                      {
+                        "id": "Cable Ladder Segment",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Cable Tray Segment",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Cable Trunking Segment",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Conduit Segment",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Cable Segment",
+                    "children": [
+                      {
+                        "id": "Busbar Segment",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Conductor Segment",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Core Segment",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Duct Segment",
+                    "children": [
+                      {
+                        "id": "Flexible Duct Segment",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Rigid Duct Segment",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Pipe Segment",
+                    "children": [
+                      {
+                        "id": "Culvert",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Flexible Pipe Segment",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Gutter Pipe Segment",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Rigid Pipe Segment",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Spool Pipe Segment",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Flow Storage Device",
+                "children": [
+                  {
+                    "id": "Electric Flow Storage Device",
+                    "children": [
+                      {
+                        "id": "Battery",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Capacitor Bank",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Harmonic Filter",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Inductor Bank",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "UPS",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Tank",
+                    "children": [
+                      {
+                        "id": "Basin Tank",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Break Pressure Tank",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Expansion Tank",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Feed and Expansion Tank",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Pressure Vessel Tank",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Storage Tank",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Vessel Tank",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Flow Terminal",
+                "children": [
+                  {
+                    "id": "Air Terminal",
+                    "children": [
+                      {
+                        "id": "Diffuser",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Grille",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Louvre",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Register",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Audio Visual Appliance",
+                    "children": [
+                      {
+                        "id": "Amplifier",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Camera",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Display",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Microphone",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Player",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Projector",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Receiver",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Speaker",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Switcher",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Telephone",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Tuner",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Intercom",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Video intercom",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Communications Appliance",
+                    "children": [
+                      {
+                        "id": "Antenna",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Computer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Fax",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Gateway",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Modem",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Network Appliance",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Network Bridge",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Network Hub",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Printer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Repeater",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Router",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Scanner",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Server",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Electric Appliance",
+                    "children": [
+                      {
+                        "id": "Dishwasher",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Electric Cooker",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Freestanding Electric Heater",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Freestanding Fan",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Freestanding Water Cooler",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Freestanding Water Heater",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Freezer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Fridge-Freezer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Hand Dryer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Kitchen Machine",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Microwave",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Photocopier",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Refrigerator",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Tumble Dryer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Vending Machine",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Washing Machine",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Fixed hair dryer",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Oven",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "ATM",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Electric Heater",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Fire Suppression Terminal",
+                    "children": [
+                      {
+                        "id": "Breeching Inlet",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Fire Hydrant",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Hose Reel",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Sprinkler",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Sprinkler Deflector",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Fire protection cabinet",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Extinguisher",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Gas Terminal",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Lamp",
+                    "children": [
+                      {
+                        "id": "Compact Fluorescent Lamp",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Fluorescent Lamp",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Halogen Lamp",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "High-pressure Mercury Lamp",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "High-pressure Sodium Lamp",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Led Lamp",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Metal Halide Lamp",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Oled Lamp",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Tungsten Filament Lamp",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Light Fixture",
+                    "children": [
+                      {
+                        "id": "Direction Source",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Point Source",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Security Lighting",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Medical Device",
+                    "children": [
+                      {
+                        "id": "Air Station",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Feed Air Unit",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Oxygen Generator",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Oxygen Plant",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Vacuum Station",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Outlet",
+                    "children": [
+                      {
+                        "id": "Audiovisual Outlet",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Communications Outlet",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Data Outlet",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Power Outlet",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Telephone Outlet",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Charging station",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Sanitary Terminal",
+                    "children": [
+                      {
+                        "id": "Bath",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Bidet",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Cistern",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Sanitary Fountain",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Shower",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Sink",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Toilet Pan",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Urinal",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Wash-hand Basin",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "WC Seat",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Space Heater",
+                    "children": [
+                      {
+                        "id": "Convector",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Radiator",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Stack Terminal",
+                    "children": [
+                      {
+                        "id": "Bird Cage",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Cowl",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Rainwater Hopper",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Waste Terminal",
+                    "children": [
+                      {
+                        "id": "Floor Trap",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Floor Waste",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Gully Sump",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Gully Trap",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Roof Drain",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Waste Disposal Unit",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Waste Trap",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Flow Treatment Device",
+                "children": [
+                  {
+                    "id": "Duct Silencer",
+                    "children": [
+                      {
+                        "id": "Flat Oval",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Rectangular",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Round",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Filter",
+                    "children": [
+                      {
+                        "id": "Air Particle Filter",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Compressed Air Filter",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Odor Filter",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Oil Filter",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Strainer Filter",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Water Filter",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  },
+                  {
+                    "id": "Interceptor",
+                    "children": [
+                      {
+                        "id": "Cyclonic Interceptor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Grease Interceptor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Oil Interceptor",
+                        "children": [],
+                        "properties": []
+                      },
+                      {
+                        "id": "Petrol Interceptor",
+                        "children": [],
+                        "properties": []
+                      }
+                    ],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              }
+            ],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Transport Element",
+        "children": [
+          {
+            "id": "Elevator",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Escalator",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Moving Walkway",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Craneway",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Lifting Gear",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Stair lift",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Rubble chute",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Facade gondola",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Laundry chute",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Boarding bridge",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Lifting platform",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Pneumatic tube system",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Escape slide",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      }
+    ],
+    "properties": []
+  },
+  {
+    "id": "Components",
+    "children": [
+      {
+        "id": "Structural",
+        "children": [],
+        "properties": []
+      },
+      {
+        "id": "Filler",
+        "children": [],
+        "properties": []
+      },
+      {
+        "id": "Insulation Component",
+        "children": [],
+        "properties": []
+      },
+      {
+        "id": "Airgap",
+        "children": [],
+        "properties": []
+      },
+      {
+        "id": "Cladding Component",
+        "children": [],
+        "properties": []
+      },
+      {
+        "id": "Finishes",
+        "children": [],
+        "properties": []
+      }
+    ],
+    "properties": []
+  },
+  {
+    "id": "Materials",
+    "children": [
+      {
+        "id": "Generic Material",
+        "children": [
+          {
+            "id": "Generic Structural Material",
+            "children": [
+              {
+                "id": "Generic Prefabricated Material",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Generic In-situ Material",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Generic Cladding & Finishes",
+            "children": [
+              {
+                "id": "Generic Internal Cladding & Finishes",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Generic External Cladding & Finishes",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Generic Insulation Material",
+            "children": [
+              {
+                "id": "Generic Waterproofing",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Generic Thermal Insulation",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Generic Fireproofing",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Generic Air Gap",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Generic Masonry",
+            "children": [
+              {
+                "id": "Generic Brick",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Generic Block",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Generic Filler Material",
+            "children": [
+              {
+                "id": "Generic Prefab Filler",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Generic In-situ Filler",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Generic Interior Material",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Ceramic",
+        "children": [
+          {
+            "id": "Ceramic Cladding & Finishes",
+            "children": [
+              {
+                "id": "Ceramic Roof Tiles",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Ceramic Floor Tiles",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Ceramic Wall Tiles",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Ceramic Fitting",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Ceramic Masonry",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Concrete",
+        "children": [
+          {
+            "id": "Structural Concrete",
+            "children": [
+              {
+                "id": "Structural In Situ Concrete",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Structural Prefab Concrete",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Concrete Masonry",
+            "children": [
+              {
+                "id": "Concrete Block",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Concrete Brick",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Concrete Cladding & Finishes",
+            "children": [
+              {
+                "id": "Sprayed Concrete",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Concrete Roofing Tile",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Concrete Floor Tile",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Concrete Floor Layer",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Burnt Clay",
+        "children": [
+          {
+            "id": "Burnt Clay Masonry",
+            "children": [
+              {
+                "id": "Clay Brick",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Clay Block",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Straw Bale",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Burnt Clay Cladding & Finishes",
+            "children": [
+              {
+                "id": "Clay Roof Tile",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Clay Floor Finish",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Glass",
+        "children": [
+          {
+            "id": "Glazing Glass",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Glass Block",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Structural Glass",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Glass Wool",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Gypsum",
+        "children": [
+          {
+            "id": "Gypsum Masonry",
+            "children": [
+              {
+                "id": "Gypsum Bricks",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Gypsum Blocks",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Gypsum Cladding & Finishes",
+            "children": [
+              {
+                "id": "Gypsum Plaster",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Gypsum Partitioning",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Metal",
+        "children": [
+          {
+            "id": "Structural Metal",
+            "children": [
+              {
+                "id": "Metal Framing",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Metal Carcassing",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Metal Cladding & Finishes",
+            "children": [
+              {
+                "id": "Sheet Metal",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Metal Finish",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Metal Insulation",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Ironmongery",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Plumbing Metal",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Mineral",
+        "children": [
+          {
+            "id": "Mineral Thermal Insulation",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Mineral Waterproofing",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Mineral Coating & Finishes",
+            "children": [
+              {
+                "id": "Mineral Plaster",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Nature",
+        "children": [
+          {
+            "id": "Air",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Terrain Materials",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Flora & Fauna Material",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Paving Material",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Body of Water",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Plastic",
+        "children": [
+          {
+            "id": "Plastic Glazing",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Plastic Thermal Insulation",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Plastic Waterproofing",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Plastic Sealants",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Plastic Claddings & Finishes",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Stone",
+        "children": [
+          {
+            "id": "Stone Masonry",
+            "children": [
+              {
+                "id": "Stones - Fabricated",
+                "children": [
+                  {
+                    "id": "Stone Bricks",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Stone Blocks",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Stones - Ashlar & Rubble",
+                "children": [
+                  {
+                    "id": "Natural Stones",
+                    "children": [],
+                    "properties": []
+                  },
+                  {
+                    "id": "Cast Stones",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Stone Cladding & Finishes",
+            "children": [
+              {
+                "id": "Stone - Flooring",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Stone - Wall Cladding",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Wood",
+        "children": [
+          {
+            "id": "Structural Timber",
+            "children": [
+              {
+                "id": "Framing Timber",
+                "children": [
+                  {
+                    "id": "Glued-Laminated Timber",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              },
+              {
+                "id": "Carcassing Timber",
+                "children": [
+                  {
+                    "id": "Plywood",
+                    "children": [],
+                    "properties": []
+                  }
+                ],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Timber Cladding & Finishes",
+            "children": [
+              {
+                "id": "Wood Flooring",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Wood Shingles",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Wood Wall Boarding",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Practicle Board",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Fibreboard",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Interior & Furniture Wood",
+            "children": [
+              {
+                "id": "Softwood",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Hardwood",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          },
+          {
+            "id": "Wood Fills & Insulations",
+            "children": [
+              {
+                "id": "Wood Fibre",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Wood Wool",
+                "children": [],
+                "properties": []
+              },
+              {
+                "id": "Sawdust",
+                "children": [],
+                "properties": []
+              }
+            ],
+            "properties": []
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "Coverings",
+        "children": [
+          {
+            "id": "Textiles",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Papers",
+            "children": [],
+            "properties": []
+          },
+          {
+            "id": "Leather",
+            "children": [],
+            "properties": []
+          }
+        ],
+        "properties": []
+      }
+    ],
+    "properties": []
+  }
+]
