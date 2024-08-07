@@ -53,8 +53,16 @@ def build_element_tree(root):
     
     return tree
 
-def get_properties(root):
-    properties = defaultdict(set)
+def get_properties(root, element_tree):
+    def find_node(tree, item_id):
+        for node in tree:
+            if node['id'] == item_id:
+                return node
+            result = find_node(node['children'], item_id)
+            if result:
+                return result
+        return None
+
     for prop_def in root.findall('.//PropertyDefinition'):
         name_elem = prop_def.find('Name')
         if name_elem is not None:
@@ -62,57 +70,47 @@ def get_properties(root):
             for class_id in prop_def.findall('.//ClassificationID/ItemID'):
                 if class_id is not None:
                     item_id = class_id.text
-                    properties[item_id].add(prop_name)
-    return properties
+                    node = find_node(element_tree, item_id)
+                    if node:
+                        node['properties'].add(prop_name)
+                        #print(f"Added property '{prop_name}' to node '{item_id}'")
+    
+    return element_tree
 
-def assign_properties(tree, properties):
+def assign_properties(tree):
     def recursive_assign(node, parent_properties=None):
         if parent_properties is None:
             parent_properties = set()
 
-        #print(f"Processing node: {node['name']} (ID: {node['id']})")
+        #print(f"Assigning properties to {node['id']}")
+        #print(f"Initial properties: {node['properties']}")
 
-        # Assign properties from the properties dictionary
-        if node['id'] in properties:
-            node['properties'] = set(properties[node['id']])
-        else:
-            node['properties'] = set()
-
-        #print(f"  Initial properties: {node['properties']}")
-
-        # Inherit properties from parent
-        node['properties'].update(parent_properties)
-        #print(f"  After inheriting from parent: {node['properties']}")
-
-        children_with_properties = [child for child in node['children'] if properties.get(child['id'])]
-        #if children_with_properties:
-        #    print(f"  Children with properties: {[child['id'] for child in children_with_properties]}")
+        children_with_properties = [child for child in node['children'] if child['properties']]
         
-        # Handle cases where parent has no original properties but children do
-        if not properties.get(node['id']) and children_with_properties:
-            #print(f"  Parent {node['id']} has no properties but children do")
-            child_property_sets = [set(properties[child['id']]) for child in children_with_properties]
+        # Handle child-to-parent propagation, only if parent has no properties
+        if not node['properties'] and children_with_properties:
+            child_property_sets = [set(child['properties']) for child in children_with_properties]
             
             if all(prop_set == child_property_sets[0] for prop_set in child_property_sets):
-                #print(f"  All children have the same properties. Updating parent and siblings.")
-                node['properties'].update(child_property_sets[0])
-                #print(f"Update parent: {node['id']}")
-                #print(node['properties'])
+                # All children have the same properties
+                print(f"Parent {node['id']} got properties from children")
+                node['properties'] = child_property_sets[0]
                 for child in node['children']:
-                    child['properties'] = set(node['properties'])
-            elif node['id'] in ['Covering', 'Revêtement']:
-                handle_covering_case(node, properties)
-            elif node['id'] not in ['Chimney', 'Cheminée']:
-                print(f"  Warning: {node['id']} has no properties, and its children have different properties")
-                # Merge all child properties into the parent
-                for prop_set in child_property_sets:
-                    node['properties'].update(prop_set)
-                # Update children without properties
-                for child in node['children']:
-                    if not properties.get(child['id']):
+                    if not child['properties']:
+                        print(f"Node {child['id']} got properties from siblings")
                         child['properties'] = set(node['properties'])
+            elif node['id'] in ['Covering', 'Revêtement']:
+                handle_covering_case(node)
+            elif node['id'] not in ['Chimney', 'Cheminée']:
+                print(f"Warning: Children of {node['id']} have different properties")
 
-        #print(f"  Final properties: {node['properties']}")
+        # Handle parent-to-child propagation
+        if node['properties'] and not any(child['properties'] for child in node['children']):
+            for child in node['children']:
+                print(f"Node {child['id']} got properties from parent {node['id']}")
+                child['properties'] = set(node['properties'])
+
+        #print(f"Final properties for {node['id']}: {node['properties']}")
 
         # Recursively process children
         for child in node['children']:
@@ -120,20 +118,25 @@ def assign_properties(tree, properties):
 
     for node in tree:
         recursive_assign(node)
+    
+    return tree
 
-def handle_covering_case(node, properties):
+def handle_covering_case(node):
     covering_children = ['Ceiling', 'Revêtement de plafond', 'Cladding', 'Revêtement de paroi', 
                          'Flooring', 'Revêtement de sol', 'Roofing', 'Couverture de toiture']
-    all_properties = set()
+    common_properties = set()
     for child in node['children']:
-        if child['id'] in covering_children and properties.get(child['id']):
-            all_properties.update(properties[child['id']])
+        if child['id'] in covering_children and child['properties']:
+            if not common_properties:
+                common_properties = child['properties']
+            else:
+                common_properties.intersection_update(child['properties'])
     
-    if all_properties:
-        node['properties'].update(all_properties)
+    if common_properties:
+        node['properties'] = common_properties
         for child in node['children']:
-            if not properties.get(child['id']):
-                child['properties'] = set(all_properties)
+            if not child['properties']:
+                child['properties'] = common_properties
 
 
 def sets_to_lists(obj):
@@ -255,90 +258,98 @@ def process_xml_file(input_path, output_path):
     properties_to_delete = get_properties_to_delete(language)
     remove_properties_from_tree(root, properties_to_delete)
 
-    loopNum = 0
-    prevProps = None
-    prevTree = None
     element_tree = build_element_tree(root)
-    properties = get_properties(root)
-    while properties != prevProps or element_tree != prevTree or not prevProps or not prevTree:
-        prevProps = properties
-        prevTree = element_tree
-        loopNum += 1
-        print(f"loop {loopNum}")
-        assign_properties(element_tree, properties)
-        
-        #element_tree = build_element_tree(root)
-        properties = get_properties(root)
+    element_tree = get_properties(root, element_tree)
+    element_tree = assign_properties(element_tree)
 
     # Update XML with new properties
-    update_xml_properties(root, element_tree)
+    updated_element_tree = update_xml_properties(root, element_tree)
     tree.write(output_path, encoding='UTF-8', xml_declaration=True, pretty_print=True)
     print(f"Updated XML saved to {output_path}")
 
-    return element_tree
+    return updated_element_tree
 
 def update_xml_properties(root, element_tree):
     prop_def_groups = root.find('.//PropertyDefinitionGroups')
     if prop_def_groups is None:
         print("Error: No PropertyDefinitionGroups found in the XML.")
-        return
+        return element_tree
 
-    property_classes = {}
-    def collect_properties(node):
-        for prop in node['properties']:
-            if prop not in property_classes:
-                property_classes[prop] = set()
-            property_classes[prop].add(node['id'])
+    # Create a mapping of element IDs to their nodes in the element_tree
+    element_map = {}
+    def build_element_map(node):
+        element_map[node['id']] = node
         for child in node['children']:
-            collect_properties(child)
+            build_element_map(child)
 
     for root_node in element_tree:
-        collect_properties(root_node)
+        build_element_map(root_node)
 
-    prop_def_groups.clear()
-    new_group = lxml_ET.SubElement(prop_def_groups, 'PropertyDefinitionGroup')
-    lxml_ET.SubElement(new_group, 'Name').text = 'Updated Properties'
-    lxml_ET.SubElement(new_group, 'Description')
-    prop_defs = lxml_ET.SubElement(new_group, 'PropertyDefinitions')
+    #print("Element map after building:")
+    #for element_id, node in element_map.items():
+    #    print(f"{element_id}: {node['properties']}")
 
-    for prop_name, class_ids in property_classes.items():
-        new_prop_def = lxml_ET.SubElement(prop_defs, 'PropertyDefinition')
-        lxml_ET.SubElement(new_prop_def, 'Name').text = prop_name
-        lxml_ET.SubElement(new_prop_def, 'Description')
-        value_desc = lxml_ET.SubElement(new_prop_def, 'ValueDescriptor', Type="SingleValueDescriptor")
-        lxml_ET.SubElement(value_desc, 'ValueType').text = 'String'
-        lxml_ET.SubElement(new_prop_def, 'MeasureType').text = 'Default'
-        default_value = lxml_ET.SubElement(new_prop_def, 'DefaultValue')
-        lxml_ET.SubElement(default_value, 'DefaultValueType').text = 'Basic'
-        variant = lxml_ET.SubElement(default_value, 'Variant', Type="StringVariant")
-        lxml_ET.SubElement(variant, 'Status').text = 'UserUndefined'
-        class_ids_elem = lxml_ET.SubElement(new_prop_def, 'ClassificationIDs')
-        for class_id in class_ids:
-            class_id_elem = lxml_ET.SubElement(class_ids_elem, 'ClassificationID')
-            lxml_ET.SubElement(class_id_elem, 'ItemID').text = class_id
-            lxml_ET.SubElement(class_id_elem, 'SystemIDName').text = 'ARCHICAD Classification'
-            lxml_ET.SubElement(class_id_elem, 'SystemIDVersion').text = 'v 2.0'
+    # Update ClassificationIDs for all property definitions and update element_tree
+    for prop_def_group in prop_def_groups.findall('PropertyDefinitionGroup'):
+        for prop_def in prop_def_group.findall('.//PropertyDefinition'):
+            prop_name = prop_def.find('Name').text
+            class_ids_elem = prop_def.find('ClassificationIDs')
+            if class_ids_elem is not None:
+                class_ids_elem.clear()
+            else:
+                class_ids_elem = lxml_ET.SubElement(prop_def, 'ClassificationIDs')
 
+            for element_id, node in element_map.items():
+                if prop_name in node['properties']:
+                    class_id_elem = lxml_ET.SubElement(class_ids_elem, 'ClassificationID')
+                    lxml_ET.SubElement(class_id_elem, 'ItemID').text = element_id
+                    lxml_ET.SubElement(class_id_elem, 'SystemIDName').text = 'ARCHICAD Classification'
+                    lxml_ET.SubElement(class_id_elem, 'SystemIDVersion').text = 'v 2.0'
 
-input_folder = 'inputs'
-output_folder = 'outputs'
+    # Add any new properties to the XML
+    for element_id, node in element_map.items():
+        #print(f"Processing {element_id}")
+        #print(f"Properties: {node['properties']}")
+        for prop_name in node['properties']:
+            if element_id == "Solid Wall":
+                print(f"SW prop: {prop_name}")
+            prop_def = None
+            for pd in prop_def_groups.findall('.//PropertyDefinition'):
+                if pd.find('Name').text == prop_name:
+                    prop_def = pd
+                    break
 
-if not os.path.exists(output_folder):
-    os.makedirs(output_folder)
+            if prop_def is None:
+                # Create a new PropertyDefinition
+                new_prop_def = lxml_ET.SubElement(prop_def_groups[0], 'PropertyDefinition')
+                lxml_ET.SubElement(new_prop_def, 'Name').text = prop_name
+                lxml_ET.SubElement(new_prop_def, 'Description')
+                value_desc = lxml_ET.SubElement(new_prop_def, 'ValueDescriptor', Type="SingleValueDescriptor")
+                lxml_ET.SubElement(value_desc, 'ValueType').text = 'String'
+                lxml_ET.SubElement(new_prop_def, 'MeasureType').text = 'Default'
+                default_value = lxml_ET.SubElement(new_prop_def, 'DefaultValue')
+                lxml_ET.SubElement(default_value, 'DefaultValueType').text = 'Basic'
+                variant = lxml_ET.SubElement(default_value, 'Variant', Type="StringVariant")
+                lxml_ET.SubElement(variant, 'Status').text = 'UserUndefined'
+                class_ids_elem = lxml_ET.SubElement(new_prop_def, 'ClassificationIDs')
+                class_id_elem = lxml_ET.SubElement(class_ids_elem, 'ClassificationID')
+                lxml_ET.SubElement(class_id_elem, 'ItemID').text = element_id
+                lxml_ET.SubElement(class_id_elem, 'SystemIDName').text = 'ARCHICAD Classification'
+                lxml_ET.SubElement(class_id_elem, 'SystemIDVersion').text = 'v 2.0'
+            else:
+                # Add the element ID to the existing PropertyDefinition
+                class_ids_elem = prop_def.find('ClassificationIDs')
+                if class_ids_elem is None:
+                    class_ids_elem = lxml_ET.SubElement(prop_def, 'ClassificationIDs')
+                class_id_elem = lxml_ET.SubElement(class_ids_elem, 'ClassificationID')
+                lxml_ET.SubElement(class_id_elem, 'ItemID').text = element_id
+                lxml_ET.SubElement(class_id_elem, 'SystemIDName').text = 'ARCHICAD Classification'
+                lxml_ET.SubElement(class_id_elem, 'SystemIDVersion').text = 'v 2.0'
 
-for filename in os.listdir(input_folder):
-    if filename.endswith('.xml'):
-        input_path = os.path.join(input_folder, filename)
-        output_filename = f"{os.path.splitext(filename)[0]}_processed.xml"
-        output_path = os.path.join(output_folder, output_filename)
-        
-        element_tree = process_xml_file(input_path, output_path)
+    return element_tree
 
-print("All XML files processed.")
-
-
-def xml_to_json(output_folder):
-    json_folder = os.path.join(output_folder, 'json')
+def xml_to_json(folder, is_input=True):
+    json_folder = os.path.join('temp', 'input_json' if is_input else 'output_json')
     if not os.path.exists(json_folder):
         os.makedirs(json_folder)
 
@@ -365,9 +376,9 @@ def xml_to_json(output_folder):
 
         return result
 
-    for filename in os.listdir(output_folder):
-        if filename.endswith('_processed.xml'):
-            input_path = os.path.join(output_folder, filename)
+    for filename in os.listdir(folder):
+        if filename.endswith('.xml'):
+            input_path = os.path.join(folder, filename)
             output_filename = f"{os.path.splitext(filename)[0]}.json"
             output_path = os.path.join(json_folder, output_filename)
 
@@ -389,8 +400,62 @@ def xml_to_json(output_folder):
 
             print(f"Processed {filename} -> {output_filename}")
 
-    print("All processed XML files have been converted to JSON.")
+    print(f"All XML files have been converted to JSON in {json_folder}.")
 
-#xml_to_json(output_folder)
+def element_tree_to_json(element_tree, filename):
+    json_folder = os.path.join('temp', 'element_tree_json')
+    if not os.path.exists(json_folder):
+        os.makedirs(json_folder)
+
+    def convert_node(node):
+        return {
+            'id': node['id'],
+            'properties': list(node['properties']),
+            'children': [convert_node(child) for child in node['children']]
+        }
+
+    result = [convert_node(root_node) for root_node in element_tree]
+
+    output_filename = f"element_tree_{os.path.splitext(filename)[0]}.json"
+    output_path = os.path.join(json_folder, output_filename)
+
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+
+    print(f"Element tree JSON saved to {output_path}")
+
+def print_element_tree(element_tree, indent=""):
+    for node in element_tree:
+        print(f"{indent}{node['id']}: {node['properties']}")
+        print_element_tree(node['children'], indent + "  ")
+
+# Main execution
+input_folder = 'inputs'
+output_folder = 'outputs'
+
+if not os.path.exists(output_folder):
+    os.makedirs(output_folder)
+
+if not os.path.exists('temp'):
+    os.makedirs('temp')
+
+# Generate JSON for input XML files
+xml_to_json(input_folder, is_input=True)
+
+for filename in os.listdir(input_folder):
+    if filename.endswith('.xml'):
+        input_path = os.path.join(input_folder, filename)
+        output_filename = f"{os.path.splitext(filename)[0]}_processed.xml"
+        output_path = os.path.join(output_folder, output_filename)
+        
+        element_tree = process_xml_file(input_path, output_path)
+        
+        # Generate JSON for the element tree
+        element_tree_to_json(element_tree, filename)
+
+# Generate JSON for output XML files
+xml_to_json(output_folder, is_input=False)
+
+print("All XML files processed and additional JSON files generated.")
 
 #### THIS IS SLOW, ONLY UNCOMMENT IF YOU RUN INTO ISSUES!!!
