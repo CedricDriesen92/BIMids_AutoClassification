@@ -47,6 +47,7 @@
     "properties": [
       "Documentation",
       "Phasage",
+      "État de rénovation (Espace et Zone)",
       "Finitions - Plafonds",
       "Facteur de risque",
       "Finitions - Sols",
@@ -67,6 +68,7 @@
         "properties": [
           "Documentation",
           "Phasage",
+          "État de rénovation (Espace et Zone)",
           "Finitions - Plafonds",
           "Facteur de risque",
           "Finitions - Sols",
@@ -87,6 +89,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -110,6 +113,7 @@
         "properties": [
           "Documentation",
           "Phasage",
+          "État de rénovation (Espace et Zone)",
           "Finitions - Plafonds",
           "Facteur de risque",
           "Finitions - Sols",
@@ -130,6 +134,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -151,6 +156,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -172,6 +178,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -193,6 +200,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -214,6 +222,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -235,6 +244,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -256,6 +266,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -277,6 +288,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -298,6 +310,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -319,6 +332,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -340,6 +354,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -361,6 +376,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -382,6 +398,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -403,6 +420,7 @@
             "properties": [
               "Documentation",
               "Phasage",
+              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
               "Facteur de risque",
               "Finitions - Sols",
@@ -426,6 +444,7 @@
         "properties": [
           "Documentation",
           "Phasage",
+          "État de rénovation (Espace et Zone)",
           "Finitions - Plafonds",
           "Facteur de risque",
           "Finitions - Sols",
@@ -476,31 +495,97 @@
         "children": [
           {
             "id": "Element de construction non défini",
-            "properties": [],
+            "properties": [
+              "Condition - Condition évaluée",
+              "Condition - Date de l'évaluation",
+              "Documentation",
+              "Garantie - Date de fin de garantie",
+              "Phasage",
+              "IFC Statut de rénovation",
+              "Lot",
+              "Armoire avec serrure (oui/non)",
+              "Description",
+              "attaché physiquement (oui/non)"
+            ],
             "children": [
               {
                 "id": "Element de construction non défini complexe",
-                "properties": [],
+                "properties": [
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
+                  "Documentation",
+                  "Garantie - Date de fin de garantie",
+                  "Phasage",
+                  "IFC Statut de rénovation",
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
+                ],
                 "children": []
               },
               {
                 "id": "Element de construction non défini basique",
-                "properties": [],
+                "properties": [
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
+                  "Documentation",
+                  "Garantie - Date de fin de garantie",
+                  "Phasage",
+                  "IFC Statut de rénovation",
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
+                ],
                 "children": []
               },
               {
                 "id": "Element de construction non défini partiel",
-                "properties": [],
+                "properties": [
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
+                  "Documentation",
+                  "Garantie - Date de fin de garantie",
+                  "Phasage",
+                  "IFC Statut de rénovation",
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
+                ],
                 "children": []
               },
               {
                 "id": "Réservation d'espace non définie",
-                "properties": [],
+                "properties": [
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
+                  "Documentation",
+                  "Garantie - Date de fin de garantie",
+                  "Phasage",
+                  "IFC Statut de rénovation",
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
+                ],
                 "children": []
               },
               {
                 "id": "Réservation non définie",
-                "properties": [],
+                "properties": [
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
+                  "Documentation",
+                  "Garantie - Date de fin de garantie",
+                  "Phasage",
+                  "IFC Statut de rénovation",
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
+                ],
                 "children": []
               }
             ]
@@ -866,25 +951,31 @@
           {
             "id": "Fondation",
             "properties": [
-              "Méthode de construction",
+              "Condition - Condition évaluée",
+              "Condition - Date de l'évaluation",
               "Documentation",
+              "Garantie - Date de fin de garantie",
               "Phasage",
-              "Ferraillage",
               "IFC Statut de rénovation",
-              "Conductibilite thermique",
-              "Lot"
+              "Lot",
+              "Armoire avec serrure (oui/non)",
+              "Description",
+              "attaché physiquement (oui/non)"
             ],
             "children": [
               {
                 "id": "Caisson",
                 "properties": [
-                  "Méthode de construction",
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
                   "Documentation",
+                  "Garantie - Date de fin de garantie",
                   "Phasage",
-                  "Ferraillage",
                   "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Lot"
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
                 ],
                 "children": []
               },
@@ -893,6 +984,7 @@
                 "properties": [
                   "Méthode de construction",
                   "Documentation",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
                   "Ferraillage",
                   "IFC Statut de rénovation",
@@ -904,26 +996,32 @@
               {
                 "id": "Casque de battage",
                 "properties": [
-                  "Méthode de construction",
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
                   "Documentation",
+                  "Garantie - Date de fin de garantie",
                   "Phasage",
-                  "Ferraillage",
                   "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Lot"
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
                 ],
                 "children": []
               },
               {
                 "id": "Semelle isolée",
                 "properties": [
-                  "Méthode de construction",
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
                   "Documentation",
+                  "Garantie - Date de fin de garantie",
                   "Phasage",
-                  "Ferraillage",
                   "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Lot"
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
                 ],
                 "children": []
               },
@@ -932,6 +1030,7 @@
                 "properties": [
                   "Méthode de construction",
                   "Documentation",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
                   "Ferraillage",
                   "IFC Statut de rénovation",
@@ -996,6 +1095,7 @@
             "properties": [
               "Méthode de construction",
               "Documentation",
+              "Fonction structurelle ArchiCAD - Est porteur",
               "Phasage",
               "Ferraillage",
               "IFC Statut de rénovation",
@@ -1008,6 +1108,7 @@
                 "properties": [
                   "Méthode de construction",
                   "Documentation",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
                   "Ferraillage",
                   "IFC Statut de rénovation",
@@ -1021,6 +1122,7 @@
                 "properties": [
                   "Méthode de construction",
                   "Documentation",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
                   "Ferraillage",
                   "IFC Statut de rénovation",
@@ -1034,6 +1136,7 @@
                 "properties": [
                   "Méthode de construction",
                   "Documentation",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
                   "Ferraillage",
                   "IFC Statut de rénovation",
@@ -1047,6 +1150,7 @@
                 "properties": [
                   "Méthode de construction",
                   "Documentation",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
                   "Ferraillage",
                   "IFC Statut de rénovation",
@@ -1060,6 +1164,7 @@
                 "properties": [
                   "Méthode de construction",
                   "Documentation",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
                   "Ferraillage",
                   "IFC Statut de rénovation",
@@ -1073,6 +1178,7 @@
                 "properties": [
                   "Méthode de construction",
                   "Documentation",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
                   "Ferraillage",
                   "IFC Statut de rénovation",
@@ -1086,6 +1192,7 @@
                 "properties": [
                   "Méthode de construction",
                   "Documentation",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
                   "Ferraillage",
                   "IFC Statut de rénovation",
@@ -1099,6 +1206,7 @@
                 "properties": [
                   "Méthode de construction",
                   "Documentation",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
                   "Ferraillage",
                   "IFC Statut de rénovation",
@@ -1112,6 +1220,7 @@
                 "properties": [
                   "Méthode de construction",
                   "Documentation",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
                   "Ferraillage",
                   "IFC Statut de rénovation",
@@ -1125,6 +1234,7 @@
                 "properties": [
                   "Méthode de construction",
                   "Documentation",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
                   "Ferraillage",
                   "IFC Statut de rénovation",
@@ -1305,17 +1415,47 @@
             "children": [
               {
                 "id": "Dalle de sol",
-                "properties": [],
+                "properties": [
+                  "Méthode de construction",
+                  "Documentation",
+                  "Résistance au feu",
+                  "Enveloppe exterieure",
+                  "Phasage",
+                  "Ferraillage",
+                  "Conductibilite thermique",
+                  "Transmission thermique",
+                  "Lot"
+                ],
                 "children": []
               },
               {
                 "id": "Dalle de toiture",
-                "properties": [],
+                "properties": [
+                  "Méthode de construction",
+                  "Documentation",
+                  "Résistance au feu",
+                  "Enveloppe exterieure",
+                  "Phasage",
+                  "Ferraillage",
+                  "Conductibilite thermique",
+                  "Transmission thermique",
+                  "Lot"
+                ],
                 "children": []
               },
               {
                 "id": "Palier",
-                "properties": [],
+                "properties": [
+                  "Méthode de construction",
+                  "Documentation",
+                  "Résistance au feu",
+                  "Enveloppe exterieure",
+                  "Phasage",
+                  "Ferraillage",
+                  "Conductibilite thermique",
+                  "Transmission thermique",
+                  "Lot"
+                ],
                 "children": []
               },
               {
@@ -1335,7 +1475,17 @@
               },
               {
                 "id": "Balcon",
-                "properties": [],
+                "properties": [
+                  "Méthode de construction",
+                  "Documentation",
+                  "Résistance au feu",
+                  "Enveloppe exterieure",
+                  "Phasage",
+                  "Ferraillage",
+                  "Conductibilite thermique",
+                  "Transmission thermique",
+                  "Lot"
+                ],
                 "children": []
               }
             ]
@@ -1347,6 +1497,7 @@
               "Documentation",
               "Résistance au feu",
               "Reaction au feu",
+              "Fonction structurelle ArchiCAD - Est porteur",
               "Enveloppe exterieure",
               "Phasage",
               "Ferraillage",
@@ -1363,6 +1514,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1380,6 +1532,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1397,6 +1550,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1414,6 +1568,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1431,6 +1586,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1448,6 +1604,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1465,6 +1622,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1482,6 +1640,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1499,6 +1658,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1516,6 +1676,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1533,6 +1694,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1550,6 +1712,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1567,6 +1730,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1584,6 +1748,7 @@
                   "Documentation",
                   "Résistance au feu",
                   "Reaction au feu",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Enveloppe exterieure",
                   "Phasage",
                   "Ferraillage",
@@ -1598,22 +1763,33 @@
           },
           {
             "id": "Coque",
-            "properties": [],
+            "properties": [
+              "Condition - Condition évaluée",
+              "Condition - Date de l'évaluation",
+              "Documentation",
+              "Garantie - Date de fin de garantie",
+              "Phasage",
+              "IFC Statut de rénovation",
+              "Lot",
+              "Armoire avec serrure (oui/non)",
+              "Description",
+              "attaché physiquement (oui/non)"
+            ],
             "children": []
           },
           {
             "id": "Revêtement",
             "properties": [
-              "Transmission acoustique",
+              "Condition - Condition évaluée",
+              "Condition - Date de l'évaluation",
               "Documentation",
-              "Résistance au feu",
-              "Reaction au feu",
-              "Enveloppe exterieure",
+              "Garantie - Date de fin de garantie",
               "Phasage",
               "IFC Statut de rénovation",
-              "Conductibilite thermique",
-              "Transmission thermique",
-              "Lot"
+              "Lot",
+              "Armoire avec serrure (oui/non)",
+              "Description",
+              "attaché physiquement (oui/non)"
             ],
             "children": [
               {
@@ -1667,48 +1843,48 @@
               {
                 "id": "Isolation",
                 "properties": [
-                  "Transmission acoustique",
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Garantie - Date de fin de garantie",
                   "Phasage",
                   "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
-                  "Lot"
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
                 ],
                 "children": []
               },
               {
                 "id": "Etanchéité",
                 "properties": [
-                  "Transmission acoustique",
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Garantie - Date de fin de garantie",
                   "Phasage",
                   "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
-                  "Lot"
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
                 ],
                 "children": []
               },
               {
                 "id": "Moulure",
                 "properties": [
-                  "Transmission acoustique",
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Garantie - Date de fin de garantie",
                   "Phasage",
                   "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
-                  "Lot"
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
                 ],
                 "children": []
               },
@@ -1731,48 +1907,48 @@
               {
                 "id": "Manchon",
                 "properties": [
-                  "Transmission acoustique",
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Garantie - Date de fin de garantie",
                   "Phasage",
                   "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
-                  "Lot"
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
                 ],
                 "children": []
               },
               {
                 "id": "Plinthe",
                 "properties": [
-                  "Transmission acoustique",
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Garantie - Date de fin de garantie",
                   "Phasage",
                   "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
-                  "Lot"
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
                 ],
                 "children": []
               },
               {
                 "id": "Emballage",
                 "properties": [
-                  "Transmission acoustique",
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Garantie - Date de fin de garantie",
                   "Phasage",
                   "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
-                  "Lot"
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
                 ],
                 "children": []
               },
@@ -1817,64 +1993,64 @@
               {
                 "id": "Protection de mur",
                 "properties": [
-                  "Transmission acoustique",
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Garantie - Date de fin de garantie",
                   "Phasage",
                   "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
-                  "Lot"
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
                 ],
                 "children": []
               },
               {
                 "id": "Peinture de sol",
                 "properties": [
-                  "Transmission acoustique",
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Garantie - Date de fin de garantie",
                   "Phasage",
                   "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
-                  "Lot"
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
                 ],
                 "children": []
               },
               {
                 "id": "Peinture de plafond",
                 "properties": [
-                  "Transmission acoustique",
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Garantie - Date de fin de garantie",
                   "Phasage",
                   "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
-                  "Lot"
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
                 ],
                 "children": []
               },
               {
                 "id": "Peinture de mur",
                 "properties": [
-                  "Transmission acoustique",
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Garantie - Date de fin de garantie",
                   "Phasage",
                   "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
-                  "Lot"
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
                 ],
                 "children": []
               }
@@ -2535,37 +2711,114 @@
           },
           {
             "id": "Garde-corps",
-            "properties": [],
+            "properties": [
+              "Condition - Condition évaluée",
+              "Condition - Date de l'évaluation",
+              "Documentation",
+              "Garantie - Date de fin de garantie",
+              "Phasage",
+              "IFC Statut de rénovation",
+              "Lot",
+              "Armoire avec serrure (oui/non)",
+              "Description",
+              "attaché physiquement (oui/non)"
+            ],
             "children": [
               {
                 "id": "Lisse",
-                "properties": [],
+                "properties": [
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
+                  "Documentation",
+                  "Garantie - Date de fin de garantie",
+                  "Phasage",
+                  "IFC Statut de rénovation",
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
+                ],
                 "children": [
                   {
                     "id": "Main-courante",
-                    "properties": [],
+                    "properties": [
+                      "Condition - Condition évaluée",
+                      "Condition - Date de l'évaluation",
+                      "Documentation",
+                      "Garantie - Date de fin de garantie",
+                      "Phasage",
+                      "IFC Statut de rénovation",
+                      "Lot",
+                      "Armoire avec serrure (oui/non)",
+                      "Description",
+                      "attaché physiquement (oui/non)"
+                    ],
                     "children": []
                   },
                   {
                     "id": "Garde-fou",
-                    "properties": [],
+                    "properties": [
+                      "Condition - Condition évaluée",
+                      "Condition - Date de l'évaluation",
+                      "Documentation",
+                      "Garantie - Date de fin de garantie",
+                      "Phasage",
+                      "IFC Statut de rénovation",
+                      "Lot",
+                      "Armoire avec serrure (oui/non)",
+                      "Description",
+                      "attaché physiquement (oui/non)"
+                    ],
                     "children": []
                   }
                 ]
               },
               {
                 "id": "Poteau de garde-corps",
-                "properties": [],
+                "properties": [
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
+                  "Documentation",
+                  "Garantie - Date de fin de garantie",
+                  "Phasage",
+                  "IFC Statut de rénovation",
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
+                ],
                 "children": []
               },
               {
                 "id": "Panneau de garde-corps",
-                "properties": [],
+                "properties": [
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
+                  "Documentation",
+                  "Garantie - Date de fin de garantie",
+                  "Phasage",
+                  "IFC Statut de rénovation",
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
+                ],
                 "children": []
               },
               {
                 "id": "Balustrade",
-                "properties": [],
+                "properties": [
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
+                  "Documentation",
+                  "Garantie - Date de fin de garantie",
+                  "Phasage",
+                  "IFC Statut de rénovation",
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
+                ],
                 "children": []
               }
             ]
@@ -2837,32 +3090,98 @@
           },
           {
             "id": "Plaque",
-            "properties": [],
+            "properties": [
+              "Condition - Condition évaluée",
+              "Condition - Date de l'évaluation",
+              "Documentation",
+              "Garantie - Date de fin de garantie",
+              "Phasage",
+              "IFC Statut de rénovation",
+              "Lot",
+              "Armoire avec serrure (oui/non)",
+              "Description",
+              "attaché physiquement (oui/non)"
+            ],
             "children": [
               {
                 "id": "Feuille",
-                "properties": [],
+                "properties": [
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
+                  "Documentation",
+                  "Garantie - Date de fin de garantie",
+                  "Phasage",
+                  "IFC Statut de rénovation",
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
+                ],
                 "children": []
               }
             ]
           },
           {
             "id": "Protection solaire",
-            "properties": [],
+            "properties": [
+              "Condition - Condition évaluée",
+              "Condition - Date de l'évaluation",
+              "Documentation",
+              "Garantie - Date de fin de garantie",
+              "Phasage",
+              "IFC Statut de rénovation",
+              "Lot",
+              "Armoire avec serrure (oui/non)",
+              "Description",
+              "attaché physiquement (oui/non)"
+            ],
             "children": [
               {
                 "id": "Store banne",
-                "properties": [],
+                "properties": [
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
+                  "Documentation",
+                  "Garantie - Date de fin de garantie",
+                  "Phasage",
+                  "IFC Statut de rénovation",
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
+                ],
                 "children": []
               },
               {
                 "id": "Store à lamelles",
-                "properties": [],
+                "properties": [
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
+                  "Documentation",
+                  "Garantie - Date de fin de garantie",
+                  "Phasage",
+                  "IFC Statut de rénovation",
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
+                ],
                 "children": []
               },
               {
                 "id": "Volets roulants",
-                "properties": [],
+                "properties": [
+                  "Condition - Condition évaluée",
+                  "Condition - Date de l'évaluation",
+                  "Documentation",
+                  "Garantie - Date de fin de garantie",
+                  "Phasage",
+                  "IFC Statut de rénovation",
+                  "Lot",
+                  "Armoire avec serrure (oui/non)",
+                  "Description",
+                  "attaché physiquement (oui/non)"
+                ],
                 "children": []
               }
             ]
@@ -3103,17 +3422,50 @@
           },
           {
             "id": "Niche / Alcôve",
-            "properties": [],
+            "properties": [
+              "Condition - Condition évaluée",
+              "Condition - Date de l'évaluation",
+              "Documentation",
+              "Garantie - Date de fin de garantie",
+              "Phasage",
+              "IFC Statut de rénovation",
+              "Lot",
+              "Armoire avec serrure (oui/non)",
+              "Description",
+              "attaché physiquement (oui/non)"
+            ],
             "children": []
           },
           {
             "id": "Percement / Ouverture vide",
-            "properties": [],
+            "properties": [
+              "Condition - Condition évaluée",
+              "Condition - Date de l'évaluation",
+              "Documentation",
+              "Garantie - Date de fin de garantie",
+              "Phasage",
+              "IFC Statut de rénovation",
+              "Lot",
+              "Armoire avec serrure (oui/non)",
+              "Description",
+              "attaché physiquement (oui/non)"
+            ],
             "children": []
           },
           {
             "id": "Réservation",
-            "properties": [],
+            "properties": [
+              "Condition - Condition évaluée",
+              "Condition - Date de l'évaluation",
+              "Documentation",
+              "Garantie - Date de fin de garantie",
+              "Phasage",
+              "IFC Statut de rénovation",
+              "Lot",
+              "Armoire avec serrure (oui/non)",
+              "Description",
+              "attaché physiquement (oui/non)"
+            ],
             "children": []
           }
         ]
@@ -9707,18 +10059,41 @@
                     "children": [
                       {
                         "id": "Caniveau",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Segment de tuyauterie flexible",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Segment de goutière",
                         "properties": [
                           "Documentation",
+                          "Position ArchiCAD - Est extérieur",
                           "Phasage",
                           "IFC Statut de rénovation",
                           "Lot"
@@ -9727,12 +10102,34 @@
                       },
                       {
                         "id": "Segment de tuyauterie rigide",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Segment de conduite",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       }
                     ]
@@ -9999,31 +10396,97 @@
                 "children": [
                   {
                     "id": "Terminal d'air",
-                    "properties": [],
+                    "properties": [
+                      "Condition - Condition évaluée",
+                      "Condition - Date de l'évaluation",
+                      "Documentation",
+                      "Garantie - Date de fin de garantie",
+                      "Phasage",
+                      "IFC Statut de rénovation",
+                      "Lot",
+                      "Armoire avec serrure (oui/non)",
+                      "Description",
+                      "attaché physiquement (oui/non)"
+                    ],
                     "children": [
                       {
                         "id": "Diffuseur",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Grille",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Grille rectiligne",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Compteur",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Registre",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       }
                     ]
@@ -10657,7 +11120,18 @@
                   },
                   {
                     "id": "Chauffage électrique",
-                    "properties": [],
+                    "properties": [
+                      "Condition - Condition évaluée",
+                      "Condition - Date de l'évaluation",
+                      "Documentation",
+                      "Garantie - Date de fin de garantie",
+                      "Phasage",
+                      "IFC Statut de rénovation",
+                      "Lot",
+                      "Armoire avec serrure (oui/non)",
+                      "Description",
+                      "attaché physiquement (oui/non)"
+                    ],
                     "children": []
                   },
                   {
@@ -10669,7 +11143,10 @@
                       "Garantie - Date de fin de garantie",
                       "Phasage",
                       "IFC Statut de rénovation",
-                      "Lot"
+                      "Lot",
+                      "Armoire avec serrure (oui/non)",
+                      "Description",
+                      "attaché physiquement (oui/non)"
                     ],
                     "children": [
                       {
@@ -10733,7 +11210,10 @@
                           "Garantie - Date de fin de garantie",
                           "Phasage",
                           "IFC Statut de rénovation",
-                          "Lot"
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
                         ],
                         "children": []
                       },
@@ -10767,56 +11247,177 @@
                   },
                   {
                     "id": "Terminal de gaz",
-                    "properties": [],
+                    "properties": [
+                      "Condition - Condition évaluée",
+                      "Condition - Date de l'évaluation",
+                      "Documentation",
+                      "Garantie - Date de fin de garantie",
+                      "Phasage",
+                      "IFC Statut de rénovation",
+                      "Lot",
+                      "Armoire avec serrure (oui/non)",
+                      "Description",
+                      "attaché physiquement (oui/non)"
+                    ],
                     "children": []
                   },
                   {
                     "id": "Lampe",
-                    "properties": [],
+                    "properties": [
+                      "Condition - Condition évaluée",
+                      "Condition - Date de l'évaluation",
+                      "Documentation",
+                      "Garantie - Date de fin de garantie",
+                      "Phasage",
+                      "IFC Statut de rénovation",
+                      "Lot",
+                      "Armoire avec serrure (oui/non)",
+                      "Description",
+                      "attaché physiquement (oui/non)"
+                    ],
                     "children": [
                       {
                         "id": "Lampe fluorescente compacte",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Lampe fluorescente",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Lampe halogène",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Lampe au mercure",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Lampe au sodium",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Lampe LED",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Lampe aux halogénures métalliques",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Lampe OLED",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Lampe à filament de tungstène",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       }
                     ]
@@ -10876,67 +11477,210 @@
                   },
                   {
                     "id": "Appareil médical",
-                    "properties": [],
+                    "properties": [
+                      "Condition - Condition évaluée",
+                      "Condition - Date de l'évaluation",
+                      "Documentation",
+                      "Garantie - Date de fin de garantie",
+                      "Phasage",
+                      "IFC Statut de rénovation",
+                      "Lot",
+                      "Armoire avec serrure (oui/non)",
+                      "Description",
+                      "attaché physiquement (oui/non)"
+                    ],
                     "children": [
                       {
                         "id": "Station d'air",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Unité d'alimentation en air",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Générateur d'oxygène",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Usine d'oxygène",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Unité d'aspiration",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       }
                     ]
                   },
                   {
                     "id": "Prise",
-                    "properties": [],
+                    "properties": [
+                      "Condition - Condition évaluée",
+                      "Condition - Date de l'évaluation",
+                      "Documentation",
+                      "Garantie - Date de fin de garantie",
+                      "Phasage",
+                      "IFC Statut de rénovation",
+                      "Lot",
+                      "Armoire avec serrure (oui/non)",
+                      "Description",
+                      "attaché physiquement (oui/non)"
+                    ],
                     "children": [
                       {
                         "id": "Prise audio-visuelle",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Prise de communication",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Prise de données",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Prise électrique",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Prise télephonique",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Borne de recharge",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       }
                     ]
@@ -11120,78 +11864,243 @@
                   },
                   {
                     "id": "Production de chaleur",
-                    "properties": [],
+                    "properties": [
+                      "Condition - Condition évaluée",
+                      "Condition - Date de l'évaluation",
+                      "Documentation",
+                      "Garantie - Date de fin de garantie",
+                      "Phasage",
+                      "IFC Statut de rénovation",
+                      "Lot",
+                      "Armoire avec serrure (oui/non)",
+                      "Description",
+                      "attaché physiquement (oui/non)"
+                    ],
                     "children": [
                       {
                         "id": "Convecteur",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Radiateur",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       }
                     ]
                   },
                   {
                     "id": "Terminal de conduit de cheminée",
-                    "properties": [],
+                    "properties": [
+                      "Condition - Condition évaluée",
+                      "Condition - Date de l'évaluation",
+                      "Documentation",
+                      "Garantie - Date de fin de garantie",
+                      "Phasage",
+                      "IFC Statut de rénovation",
+                      "Lot",
+                      "Armoire avec serrure (oui/non)",
+                      "Description",
+                      "attaché physiquement (oui/non)"
+                    ],
                     "children": [
                       {
                         "id": "Tréilli anti-oiseaux",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Capot de cheminée",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Trémie d'eau de pluie",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       }
                     ]
                   },
                   {
                     "id": "Terminal de déchets",
-                    "properties": [],
+                    "properties": [
+                      "Condition - Condition évaluée",
+                      "Condition - Date de l'évaluation",
+                      "Documentation",
+                      "Garantie - Date de fin de garantie",
+                      "Phasage",
+                      "IFC Statut de rénovation",
+                      "Lot",
+                      "Armoire avec serrure (oui/non)",
+                      "Description",
+                      "attaché physiquement (oui/non)"
+                    ],
                     "children": [
                       {
                         "id": "Trappe au sol",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Poubelle de sol",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Rigole",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Grille d'évacuation d'eau",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Chéneau",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Unité de décharge",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       },
                       {
                         "id": "Trappe à déchets",
-                        "properties": [],
+                        "properties": [
+                          "Condition - Condition évaluée",
+                          "Condition - Date de l'évaluation",
+                          "Documentation",
+                          "Garantie - Date de fin de garantie",
+                          "Phasage",
+                          "IFC Statut de rénovation",
+                          "Lot",
+                          "Armoire avec serrure (oui/non)",
+                          "Description",
+                          "attaché physiquement (oui/non)"
+                        ],
                         "children": []
                       }
                     ]

@@ -7,7 +7,7 @@ import lxml.etree as lxml_ET
 def detect_language(root):
     # Check for a French property
     french_properties = get_properties_to_delete("French")
-    for prop in french_properties:
+    for prop in french_properties[2]:
         if root.find(f".//PropertyDefinition/Name[.='{prop}']") is not None:
             print("French")
             return "French"
@@ -16,9 +16,9 @@ def detect_language(root):
 
 def get_properties_to_delete(language):
     if language == "English":
-        return ["Position ArchiCAD - IsExternal", "Structural Function ArchiCAD - IsLoadBearing", "IFC renovation status"]
+        return ["Position", "IsLoadBearing", "Renovation Status"]
     else:  # French
-        return ["Position ArchiCAD - Est extérieur", "Fonction structurelle ArchiCAD - Est porteur", "État de rénovation (Espace et Zone)"]
+        return ["Position", "Fonction structurelle", "État de rénovation"]
 
 def remove_properties_from_tree(root, properties_to_delete):
     for prop in properties_to_delete:
@@ -82,9 +82,6 @@ def assign_properties(tree):
         if parent_properties is None:
             parent_properties = set()
 
-        #print(f"Assigning properties to {node['id']}")
-        #print(f"Initial properties: {node['properties']}")
-
         children_with_properties = [child for child in node['children'] if child['properties']]
         
         # Handle child-to-parent propagation, only if parent has no properties
@@ -105,10 +102,11 @@ def assign_properties(tree):
                 print(f"Warning: Children of {node['id']} have different properties")
 
         # Handle parent-to-child propagation
-        if node['properties'] and not any(child['properties'] for child in node['children']):
+        if node['properties']:
             for child in node['children']:
-                print(f"Node {child['id']} got properties from parent {node['id']}")
-                child['properties'] = set(node['properties'])
+                if not child['properties']:
+                    print(f"Node {child['id']} got properties from parent {node['id']}")
+                    child['properties'] = set(node['properties'])
 
         #print(f"Final properties for {node['id']}: {node['properties']}")
 

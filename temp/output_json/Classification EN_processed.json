@@ -512,6 +512,7 @@
               "Outer shell",
               "Phasing",
               "Reinforcement",
+              "IFC renovation status",
               "Thermal Conductivity",
               "Thermal Transmittance",
               "Work package"
@@ -527,6 +528,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -543,6 +545,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -559,6 +562,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -575,6 +579,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -591,6 +596,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -607,6 +613,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -623,6 +630,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -639,6 +647,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -655,6 +664,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -671,6 +681,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -687,6 +698,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -703,6 +715,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -719,6 +732,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -735,6 +749,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -751,6 +766,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -767,6 +783,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -783,6 +800,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -799,6 +817,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -815,6 +834,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -831,6 +851,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -844,8 +865,10 @@
             "properties": [
               "Construction method",
               "Documentation",
+              "Structural Function ArchiCAD - IsLoadBearing",
               "Phasing",
               "Reinforcement",
+              "IFC renovation status",
               "Thermal Conductivity",
               "Work package"
             ],
@@ -855,8 +878,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -867,8 +892,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -879,8 +906,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -891,8 +920,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -903,8 +934,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -922,6 +955,7 @@
               "Outer shell",
               "Phasing",
               "Reinforcement",
+              "IFC renovation status",
               "Thermal Conductivity",
               "Work package"
             ],
@@ -936,6 +970,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -951,6 +986,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -963,8 +999,10 @@
             "properties": [
               "Construction method",
               "Documentation",
+              "Structural Function ArchiCAD - IsLoadBearing",
               "Phasing",
               "Reinforcement",
+              "IFC renovation status",
               "Thermal Conductivity",
               "Work package"
             ],
@@ -974,8 +1012,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -986,8 +1026,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -998,8 +1040,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -1010,8 +1054,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -1022,8 +1068,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -1034,8 +1082,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -1046,8 +1096,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -1058,8 +1110,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -1070,8 +1124,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -1082,8 +1138,10 @@
                 "properties": [
                   "Construction method",
                   "Documentation",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -1101,6 +1159,7 @@
               "Outer shell",
               "Phasing",
               "Reinforcement",
+              "IFC renovation status",
               "Thermal Conductivity",
               "Thermal Transmittance",
               "Work package"
@@ -1116,6 +1175,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1132,6 +1192,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1148,6 +1209,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1164,6 +1226,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1180,6 +1243,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1196,6 +1260,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1212,6 +1277,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1228,6 +1294,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1252,17 +1319,47 @@
             "children": [
               {
                 "id": "Floor Slab",
-                "properties": [],
+                "properties": [
+                  "Construction method",
+                  "Documentation",
+                  "Fire Resistance Rating",
+                  "Outer shell",
+                  "Phasing",
+                  "Reinforcement",
+                  "Thermal Conductivity",
+                  "Thermal Transmittance",
+                  "Work package"
+                ],
                 "children": []
               },
               {
                 "id": "Roof Slab",
-                "properties": [],
+                "properties": [
+                  "Construction method",
+                  "Documentation",
+                  "Fire Resistance Rating",
+                  "Outer shell",
+                  "Phasing",
+                  "Reinforcement",
+                  "Thermal Conductivity",
+                  "Thermal Transmittance",
+                  "Work package"
+                ],
                 "children": []
               },
               {
                 "id": "Landing Slab",
-                "properties": [],
+                "properties": [
+                  "Construction method",
+                  "Documentation",
+                  "Fire Resistance Rating",
+                  "Outer shell",
+                  "Phasing",
+                  "Reinforcement",
+                  "Thermal Conductivity",
+                  "Thermal Transmittance",
+                  "Work package"
+                ],
                 "children": []
               },
               {
@@ -1273,6 +1370,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1288,9 +1386,11 @@
               "Documentation",
               "Fire Resistance Rating",
               "Flammability rating",
+              "Structural Function ArchiCAD - IsLoadBearing",
               "Outer shell",
               "Phasing",
               "Reinforcement",
+              "IFC renovation status",
               "Thermal Conductivity",
               "Thermal Transmittance",
               "Work package"
@@ -1303,9 +1403,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1319,9 +1421,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1335,9 +1439,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1351,9 +1457,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1367,9 +1475,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1383,9 +1493,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1399,9 +1511,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1415,9 +1529,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1431,9 +1547,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1447,9 +1565,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1463,9 +1583,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1479,9 +1601,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1495,9 +1619,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1511,9 +1637,11 @@
                   "Documentation",
                   "Fire Resistance Rating",
                   "Flammability rating",
+                  "Structural Function ArchiCAD - IsLoadBearing",
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1536,6 +1664,7 @@
               "Flammability rating",
               "Outer shell",
               "Phasing",
+              "IFC renovation status",
               "Thermal Conductivity",
               "Thermal Transmittance",
               "Work package"
@@ -1550,6 +1679,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1565,6 +1695,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1580,6 +1711,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1595,6 +1727,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1610,6 +1743,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1625,6 +1759,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1640,6 +1775,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1655,6 +1791,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1670,6 +1807,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1685,6 +1823,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1700,6 +1839,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1715,6 +1855,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1730,6 +1871,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1745,6 +1887,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1760,6 +1903,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1775,6 +1919,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -1792,6 +1937,7 @@
               "Fire Exit",
               "Outer shell",
               "Phasing",
+              "IFC renovation status",
               "Thermal Conductivity",
               "Thermal Transmittance",
               "Work package",
@@ -1807,6 +1953,7 @@
                   "Fire Exit",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package",
@@ -1822,6 +1969,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -1838,6 +1986,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -1856,6 +2005,7 @@
                   "Fire Exit",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package",
@@ -1871,6 +2021,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -1886,6 +2037,7 @@
                           "Fire Exit",
                           "Outer shell",
                           "Phasing",
+                          "IFC renovation status",
                           "Thermal Conductivity",
                           "Thermal Transmittance",
                           "Work package",
@@ -1902,6 +2054,7 @@
                           "Fire Exit",
                           "Outer shell",
                           "Phasing",
+                          "IFC renovation status",
                           "Thermal Conductivity",
                           "Thermal Transmittance",
                           "Work package",
@@ -1918,6 +2071,7 @@
                           "Fire Exit",
                           "Outer shell",
                           "Phasing",
+                          "IFC renovation status",
                           "Thermal Conductivity",
                           "Thermal Transmittance",
                           "Work package",
@@ -1934,6 +2088,7 @@
                           "Fire Exit",
                           "Outer shell",
                           "Phasing",
+                          "IFC renovation status",
                           "Thermal Conductivity",
                           "Thermal Transmittance",
                           "Work package",
@@ -1950,6 +2105,7 @@
                           "Fire Exit",
                           "Outer shell",
                           "Phasing",
+                          "IFC renovation status",
                           "Thermal Conductivity",
                           "Thermal Transmittance",
                           "Work package",
@@ -1968,6 +2124,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -1986,6 +2143,7 @@
                   "Fire Exit",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package",
@@ -2001,6 +2159,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2017,6 +2176,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2033,6 +2193,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2049,6 +2210,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2065,6 +2227,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2081,6 +2244,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2097,6 +2261,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2113,6 +2278,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2129,6 +2295,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2145,6 +2312,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2161,6 +2329,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2177,6 +2346,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2193,6 +2363,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2209,6 +2380,7 @@
                       "Fire Exit",
                       "Outer shell",
                       "Phasing",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Thermal Transmittance",
                       "Work package",
@@ -2230,6 +2402,7 @@
               "Outer shell",
               "Phasing",
               "Reinforcement",
+              "IFC renovation status",
               "Thermal Conductivity",
               "Work package"
             ],
@@ -2244,6 +2417,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -2258,6 +2432,7 @@
                       "Outer shell",
                       "Phasing",
                       "Reinforcement",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Work package"
                     ],
@@ -2273,6 +2448,7 @@
                       "Outer shell",
                       "Phasing",
                       "Reinforcement",
+                      "IFC renovation status",
                       "Thermal Conductivity",
                       "Work package"
                     ],
@@ -2290,6 +2466,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -2305,6 +2482,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -2320,6 +2498,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -2335,6 +2514,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -2350,6 +2530,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -2365,6 +2546,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -2380,6 +2562,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Work package"
                 ],
@@ -2432,6 +2615,7 @@
               "Flammability rating",
               "Outer shell",
               "Phasing",
+              "IFC renovation status",
               "Thermal Transmittance",
               "Work package"
             ],
@@ -2444,6 +2628,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Transmittance",
                   "Work package"
                 ],
@@ -2457,6 +2642,7 @@
                   "Flammability rating",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Transmittance",
                   "Work package"
                 ],
@@ -2474,6 +2660,7 @@
               "Outer shell",
               "Phasing",
               "Reinforcement",
+              "IFC renovation status",
               "Thermal Conductivity",
               "Thermal Transmittance",
               "Work package"
@@ -2489,6 +2676,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -2505,6 +2693,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -2521,6 +2710,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -2537,6 +2727,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -2553,6 +2744,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -2569,6 +2761,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -2585,6 +2778,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -2601,6 +2795,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -2617,6 +2812,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -2633,6 +2829,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -2649,6 +2846,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -2665,6 +2863,7 @@
                   "Outer shell",
                   "Phasing",
                   "Reinforcement",
+                  "IFC renovation status",
                   "Thermal Conductivity",
                   "Thermal Transmittance",
                   "Work package"
@@ -2718,6 +2917,7 @@
               "Documentation",
               "Guarantee - finishing date of Guarantee",
               "Phasing",
+              "IFC renovation status",
               "Work package",
               "Chimney: Number of pipes"
             ],
@@ -2742,6 +2942,7 @@
               "Fire Exit",
               "Outer shell",
               "Phasing",
+              "IFC renovation status",
               "Thermal Transmittance",
               "Work package",
               "BulletProof",
@@ -2774,6 +2975,7 @@
                   "Fire Exit",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Transmittance",
                   "Work package",
                   "BulletProof",
@@ -2807,6 +3009,7 @@
                   "Fire Exit",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Transmittance",
                   "Work package",
                   "BulletProof",
@@ -2842,6 +3045,7 @@
               "Fire Exit",
               "Outer shell",
               "Phasing",
+              "IFC renovation status",
               "Thermal Transmittance",
               "Work package",
               "BulletProof",
@@ -2873,6 +3077,7 @@
                   "Fire Exit",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Transmittance",
                   "Work package",
                   "BulletProof",
@@ -2905,6 +3110,7 @@
                   "Fire Exit",
                   "Outer shell",
                   "Phasing",
+                  "IFC renovation status",
                   "Thermal Transmittance",
                   "Work package",
                   "BulletProof",
@@ -3170,6 +3376,7 @@
           "Documentation",
           "Guarantee - finishing date of Guarantee",
           "Phasing",
+          "IFC renovation status",
           "Work package",
           "Cabinet with lock (yes/no)",
           "Description",
@@ -3184,6 +3391,7 @@
               "Documentation",
               "Guarantee - finishing date of Guarantee",
               "Phasing",
+              "IFC renovation status",
               "Work package",
               "Cabinet with lock (yes/no)",
               "Description",
@@ -3198,6 +3406,7 @@
                   "Documentation",
                   "Guarantee - finishing date of Guarantee",
                   "Phasing",
+                  "IFC renovation status",
                   "Work package",
                   "Cabinet with lock (yes/no)",
                   "Description",
@@ -3213,6 +3422,7 @@
                   "Documentation",
                   "Guarantee - finishing date of Guarantee",
                   "Phasing",
+                  "IFC renovation status",
                   "Work package",
                   "Cabinet with lock (yes/no)",
                   "Description",
@@ -3228,6 +3438,7 @@
                   "Documentation",
                   "Guarantee - finishing date of Guarantee",
                   "Phasing",
+                  "IFC renovation status",
                   "Work package",
                   "Cabinet with lock (yes/no)",
                   "Description",
@@ -3243,6 +3454,7 @@
                   "Documentation",
                   "Guarantee - finishing date of Guarantee",
                   "Phasing",
+                  "IFC renovation status",
                   "Work package",
                   "Cabinet with lock (yes/no)",
                   "Description",
@@ -3258,6 +3470,7 @@
                   "Documentation",
                   "Guarantee - finishing date of Guarantee",
                   "Phasing",
+                  "IFC renovation status",
                   "Work package",
                   "Cabinet with lock (yes/no)",
                   "Description",
@@ -3273,6 +3486,7 @@
                   "Documentation",
                   "Guarantee - finishing date of Guarantee",
                   "Phasing",
+                  "IFC renovation status",
                   "Work package",
                   "Cabinet with lock (yes/no)",
                   "Description",
@@ -3288,6 +3502,7 @@
                   "Documentation",
                   "Guarantee - finishing date of Guarantee",
                   "Phasing",
+                  "IFC renovation status",
                   "Work package",
                   "Cabinet with lock (yes/no)",
                   "Description",
@@ -3303,6 +3518,7 @@
                   "Documentation",
                   "Guarantee - finishing date of Guarantee",
                   "Phasing",
+                  "IFC renovation status",
                   "Work package",
                   "Cabinet with lock (yes/no)",
                   "Description",
@@ -3318,6 +3534,7 @@
                   "Documentation",
                   "Guarantee - finishing date of Guarantee",
                   "Phasing",
+                  "IFC renovation status",
                   "Work package",
                   "Cabinet with lock (yes/no)",
                   "Description",
@@ -3335,6 +3552,7 @@
               "Documentation",
               "Guarantee - finishing date of Guarantee",
               "Phasing",
+              "IFC renovation status",
               "Work package",
               "Cabinet with lock (yes/no)",
               "Description",
@@ -3349,6 +3567,7 @@
                   "Documentation",
                   "Guarantee - finishing date of Guarantee",
                   "Phasing",
+                  "IFC renovation status",
                   "Work package",
                   "Cabinet with lock (yes/no)",
                   "Description",
@@ -3364,6 +3583,7 @@
                   "Documentation",
                   "Guarantee - finishing date of Guarantee",
                   "Phasing",
+                  "IFC renovation status",
                   "Work package",
                   "Cabinet with lock (yes/no)",
                   "Description",
@@ -5172,7 +5392,9 @@
                     "id": "Pipe Segment",
                     "properties": [
                       "Documentation",
+                      "Position ArchiCAD - IsExternal",
                       "Phasing",
+                      "IFC renovation status",
                       "Work package"
                     ],
                     "children": [
@@ -5180,7 +5402,9 @@
                         "id": "Culvert",
                         "properties": [
                           "Documentation",
+                          "Position ArchiCAD - IsExternal",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5189,7 +5413,9 @@
                         "id": "Flexible Pipe Segment",
                         "properties": [
                           "Documentation",
+                          "Position ArchiCAD - IsExternal",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5198,7 +5424,9 @@
                         "id": "Gutter Pipe Segment",
                         "properties": [
                           "Documentation",
+                          "Position ArchiCAD - IsExternal",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5207,7 +5435,9 @@
                         "id": "Rigid Pipe Segment",
                         "properties": [
                           "Documentation",
+                          "Position ArchiCAD - IsExternal",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5216,7 +5446,9 @@
                         "id": "Spool Pipe Segment",
                         "properties": [
                           "Documentation",
+                          "Position ArchiCAD - IsExternal",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5341,6 +5573,7 @@
                       "Documentation",
                       "Guarantee - finishing date of Guarantee",
                       "Phasing",
+                      "IFC renovation status",
                       "Work package"
                     ],
                     "children": [
@@ -5352,6 +5585,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5364,6 +5598,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5376,6 +5611,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5388,6 +5624,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5400,6 +5637,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5412,6 +5650,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5424,6 +5663,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5436,6 +5676,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5448,6 +5689,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5460,6 +5702,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5472,6 +5715,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5484,6 +5728,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5496,6 +5741,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5510,6 +5756,7 @@
                       "Documentation",
                       "Guarantee - finishing date of Guarantee",
                       "Phasing",
+                      "IFC renovation status",
                       "Work package"
                     ],
                     "children": [
@@ -5521,6 +5768,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5533,6 +5781,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5545,6 +5794,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5557,6 +5807,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5569,6 +5820,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5581,6 +5833,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5593,6 +5846,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5605,6 +5859,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5617,6 +5872,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5629,6 +5885,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5641,6 +5898,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5653,6 +5911,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5665,6 +5924,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5679,6 +5939,7 @@
                       "Documentation",
                       "Guarantee - finishing date of Guarantee",
                       "Phasing",
+                      "IFC renovation status",
                       "Work package"
                     ],
                     "children": [
@@ -5690,6 +5951,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5702,6 +5964,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5714,6 +5977,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5726,6 +5990,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5738,6 +6003,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5750,6 +6016,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5762,6 +6029,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5774,6 +6042,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5786,6 +6055,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5798,6 +6068,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5810,6 +6081,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5822,6 +6094,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5834,6 +6107,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5846,6 +6120,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5858,6 +6133,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5870,6 +6146,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5882,6 +6159,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5894,6 +6172,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5906,6 +6185,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5925,6 +6205,7 @@
                       "Documentation",
                       "Guarantee - finishing date of Guarantee",
                       "Phasing",
+                      "IFC renovation status",
                       "Work package"
                     ],
                     "children": [
@@ -5936,6 +6217,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5948,6 +6230,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5960,6 +6243,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5972,6 +6256,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5984,6 +6269,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -5996,6 +6282,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -6008,6 +6295,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -6078,6 +6366,7 @@
                       "Documentation",
                       "Guarantee - finishing date of Guarantee",
                       "Phasing",
+                      "IFC renovation status",
                       "Work package"
                     ],
                     "children": [
@@ -6089,6 +6378,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -6101,6 +6391,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -6113,6 +6404,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package"
                         ],
                         "children": []
@@ -6194,6 +6486,7 @@
                       "Documentation",
                       "Guarantee - finishing date of Guarantee",
                       "Phasing",
+                      "IFC renovation status",
                       "Work package",
                       "Capacity (volume)",
                       "Type of manipulation",
@@ -6208,6 +6501,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package",
                           "Capacity (volume)",
                           "Type of manipulation",
@@ -6223,6 +6517,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package",
                           "Capacity (volume)",
                           "Type of manipulation",
@@ -6238,6 +6533,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package",
                           "Capacity (volume)",
                           "Type of manipulation",
@@ -6253,6 +6549,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package",
                           "Capacity (volume)",
                           "Type of manipulation",
@@ -6268,6 +6565,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package",
                           "Capacity (volume)",
                           "Type of manipulation",
@@ -6283,6 +6581,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package",
                           "Capacity (volume)",
                           "Type of manipulation",
@@ -6298,6 +6597,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package",
                           "Capacity (volume)",
                           "Type of manipulation",
@@ -6313,6 +6613,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package",
                           "Capacity (volume)",
                           "Type of manipulation",
@@ -6328,6 +6629,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package",
                           "Capacity (volume)",
                           "Type of manipulation",
@@ -6343,6 +6645,7 @@
                           "Documentation",
                           "Guarantee - finishing date of Guarantee",
                           "Phasing",
+                          "IFC renovation status",
                           "Work package",
                           "Capacity (volume)",
                           "Type of manipulation",
