@@ -261,13 +261,19 @@ def process_xml_file(input_path, output_path):
     element_tree = assign_properties(element_tree)
 
     # Update XML with new properties
-    updated_element_tree = update_xml_properties(root, element_tree)
+    updated_element_tree = update_xml_properties(root, element_tree, language)
     tree.write(output_path, encoding='UTF-8', xml_declaration=True, pretty_print=True)
     print(f"Updated XML saved to {output_path}")
 
     return updated_element_tree
 
-def update_xml_properties(root, element_tree):
+def update_xml_properties(root, element_tree, language):
+    syst = root.find('.//System')
+    print(syst)
+    systemname = syst.find('Name').text
+    systemversion = syst.find('EditionVersion').text
+    print(systemname)
+    print(systemversion)
     prop_def_groups = root.find('.//PropertyDefinitionGroups')
     if prop_def_groups is None:
         print("Error: No PropertyDefinitionGroups found in the XML.")
@@ -301,8 +307,8 @@ def update_xml_properties(root, element_tree):
                 if prop_name in node['properties']:
                     class_id_elem = lxml_ET.SubElement(class_ids_elem, 'ClassificationID')
                     lxml_ET.SubElement(class_id_elem, 'ItemID').text = element_id
-                    lxml_ET.SubElement(class_id_elem, 'SystemIDName').text = 'ARCHICAD Classification'
-                    lxml_ET.SubElement(class_id_elem, 'SystemIDVersion').text = 'v 2.0'
+                    lxml_ET.SubElement(class_id_elem, 'SystemIDName').text = systemname
+                    lxml_ET.SubElement(class_id_elem, 'SystemIDVersion').text = systemversion
 
     # Add any new properties to the XML
     for element_id, node in element_map.items():
@@ -332,8 +338,8 @@ def update_xml_properties(root, element_tree):
                 class_ids_elem = lxml_ET.SubElement(new_prop_def, 'ClassificationIDs')
                 class_id_elem = lxml_ET.SubElement(class_ids_elem, 'ClassificationID')
                 lxml_ET.SubElement(class_id_elem, 'ItemID').text = element_id
-                lxml_ET.SubElement(class_id_elem, 'SystemIDName').text = 'ARCHICAD Classification'
-                lxml_ET.SubElement(class_id_elem, 'SystemIDVersion').text = 'v 2.0'
+                lxml_ET.SubElement(class_id_elem, 'SystemIDName').text = systemname
+                lxml_ET.SubElement(class_id_elem, 'SystemIDVersion').text = systemversion
             else:
                 # Add the element ID to the existing PropertyDefinition
                 class_ids_elem = prop_def.find('ClassificationIDs')
@@ -341,8 +347,8 @@ def update_xml_properties(root, element_tree):
                     class_ids_elem = lxml_ET.SubElement(prop_def, 'ClassificationIDs')
                 class_id_elem = lxml_ET.SubElement(class_ids_elem, 'ClassificationID')
                 lxml_ET.SubElement(class_id_elem, 'ItemID').text = element_id
-                lxml_ET.SubElement(class_id_elem, 'SystemIDName').text = 'ARCHICAD Classification'
-                lxml_ET.SubElement(class_id_elem, 'SystemIDVersion').text = 'v 2.0'
+                lxml_ET.SubElement(class_id_elem, 'SystemIDName').text = systemname
+                lxml_ET.SubElement(class_id_elem, 'SystemIDVersion').text = systemversion
 
     return element_tree
 
