@@ -3189,18 +3189,7 @@
       },
       {
         "id": "Furnishing",
-        "properties": [
-          "Condition - Condition evaluation",
-          "Condition - Date of assessment",
-          "Documentation",
-          "Guarantee - finishing date of Guarantee",
-          "Phasing",
-          "IFC 4 renovation status",
-          "Work package",
-          "Cabinet with lock (yes/no)",
-          "Description",
-          "physically attached (yes/no)"
-        ],
+        "properties": [],
         "children": [
           {
             "id": "Furniture",
@@ -3365,49 +3354,16 @@
           },
           {
             "id": "System Furniture",
-            "properties": [
-              "Condition - Condition evaluation",
-              "Condition - Date of assessment",
-              "Documentation",
-              "Guarantee - finishing date of Guarantee",
-              "Phasing",
-              "IFC 4 renovation status",
-              "Work package",
-              "Cabinet with lock (yes/no)",
-              "Description",
-              "physically attached (yes/no)"
-            ],
+            "properties": [],
             "children": [
               {
                 "id": "System Furniture Panel",
-                "properties": [
-                  "Condition - Condition evaluation",
-                  "Condition - Date of assessment",
-                  "Documentation",
-                  "Guarantee - finishing date of Guarantee",
-                  "Phasing",
-                  "IFC 4 renovation status",
-                  "Work package",
-                  "Cabinet with lock (yes/no)",
-                  "Description",
-                  "physically attached (yes/no)"
-                ],
+                "properties": [],
                 "children": []
               },
               {
                 "id": "Work Surface",
-                "properties": [
-                  "Condition - Condition evaluation",
-                  "Condition - Date of assessment",
-                  "Documentation",
-                  "Guarantee - finishing date of Guarantee",
-                  "Phasing",
-                  "IFC 4 renovation status",
-                  "Work package",
-                  "Cabinet with lock (yes/no)",
-                  "Description",
-                  "physically attached (yes/no)"
-                ],
+                "properties": [],
                 "children": []
               }
             ]

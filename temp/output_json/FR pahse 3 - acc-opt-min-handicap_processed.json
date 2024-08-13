@@ -45,64 +45,55 @@
   {
     "id": "Espace",
     "properties": [
-      "Documentation",
-      "Phasage",
-      "État de rénovation (Espace et Zone)",
       "Finitions - Plafonds",
-      "Facteur de risque",
       "Finitions - Sols",
-      "Sprinklage",
       "Espace de sortie de secours",
       "Accès - accessibilité aux handicapés",
       "Accès - Accessible au public",
-      "Hauteur de passage requise",
       "Nombre occupants prévus",
       "Usage type de l'espace",
       "Finition - Plinthes",
       "Epaisseur finition mur (exigence)",
-      "Finitions - Murs"
+      "Finitions - Murs",
+      "Documentation",
+      "Phasage",
+      "État de rénovation (Espace et Zone)"
     ],
     "children": [
       {
         "id": "Espace extérieur",
         "properties": [
-          "Documentation",
-          "Phasage",
-          "État de rénovation (Espace et Zone)",
           "Finitions - Plafonds",
-          "Facteur de risque",
           "Finitions - Sols",
-          "Sprinklage",
           "Espace de sortie de secours",
           "Accès - accessibilité aux handicapés",
           "Accès - Accessible au public",
-          "Hauteur de passage requise",
           "Nombre occupants prévus",
           "Usage type de l'espace",
           "Finition - Plinthes",
           "Epaisseur finition mur (exigence)",
-          "Finitions - Murs"
+          "Finitions - Murs",
+          "Documentation",
+          "Phasage",
+          "État de rénovation (Espace et Zone)"
         ],
         "children": [
           {
             "id": "Espace de stationnement",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           }
@@ -111,329 +102,284 @@
       {
         "id": "Espace intérieur",
         "properties": [
-          "Documentation",
-          "Phasage",
-          "État de rénovation (Espace et Zone)",
           "Finitions - Plafonds",
-          "Facteur de risque",
           "Finitions - Sols",
-          "Sprinklage",
           "Espace de sortie de secours",
           "Accès - accessibilité aux handicapés",
           "Accès - Accessible au public",
-          "Hauteur de passage requise",
           "Nombre occupants prévus",
           "Usage type de l'espace",
           "Finition - Plinthes",
           "Epaisseur finition mur (exigence)",
-          "Finitions - Murs"
+          "Finitions - Murs",
+          "Documentation",
+          "Phasage",
+          "État de rénovation (Espace et Zone)"
         ],
         "children": [
           {
             "id": "Espace d'accès",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           },
           {
             "id": "Espace commercial",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           },
           {
             "id": "Espace de communication",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           },
           {
             "id": "Espace culturel",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           },
           {
             "id": "Espace éducatif",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           },
           {
             "id": "Espace technique",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           },
           {
             "id": "Espace médical",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           },
           {
             "id": "Espace bureau",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           },
           {
             "id": "Espace production",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           },
           {
             "id": "Espace loisirs",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           },
           {
             "id": "Espace recherche",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           },
           {
             "id": "Espace résidentiel",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           },
           {
             "id": "Espace stockage",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           },
           {
             "id": "Espace transport",
             "properties": [
-              "Documentation",
-              "Phasage",
-              "État de rénovation (Espace et Zone)",
               "Finitions - Plafonds",
-              "Facteur de risque",
               "Finitions - Sols",
-              "Sprinklage",
               "Espace de sortie de secours",
               "Accès - accessibilité aux handicapés",
               "Accès - Accessible au public",
-              "Hauteur de passage requise",
               "Nombre occupants prévus",
               "Usage type de l'espace",
               "Finition - Plinthes",
               "Epaisseur finition mur (exigence)",
-              "Finitions - Murs"
+              "Finitions - Murs",
+              "Documentation",
+              "Phasage",
+              "État de rénovation (Espace et Zone)"
             ],
             "children": []
           }
@@ -442,22 +388,19 @@
       {
         "id": "Surface de plancher SP",
         "properties": [
-          "Documentation",
-          "Phasage",
-          "État de rénovation (Espace et Zone)",
           "Finitions - Plafonds",
-          "Facteur de risque",
           "Finitions - Sols",
-          "Sprinklage",
           "Espace de sortie de secours",
           "Accès - accessibilité aux handicapés",
           "Accès - Accessible au public",
-          "Hauteur de passage requise",
           "Nombre occupants prévus",
           "Usage type de l'espace",
           "Finition - Plinthes",
           "Epaisseur finition mur (exigence)",
-          "Finitions - Murs"
+          "Finitions - Murs",
+          "Documentation",
+          "Phasage",
+          "État de rénovation (Espace et Zone)"
         ],
         "children": []
       }
@@ -505,32 +448,16 @@
           {
             "id": "Mur",
             "properties": [
-              "Méthode de construction",
               "Documentation",
-              "Résistance au feu",
-              "Reaction au feu",
-              "Enveloppe exterieure",
               "Phasage",
-              "Ferraillage",
-              "IFC Statut de rénovation",
-              "Conductibilite thermique",
-              "Transmission thermique",
               "Lot"
             ],
             "children": [
               {
                 "id": "Mur standard",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -538,16 +465,8 @@
               {
                 "id": "Mur composite",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -555,16 +474,8 @@
               {
                 "id": "Mur porteur",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -572,16 +483,8 @@
               {
                 "id": "Cloison",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -589,16 +492,8 @@
               {
                 "id": "Cloison mobile",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -606,16 +501,8 @@
               {
                 "id": "Mur d'acrotère",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -623,16 +510,8 @@
               {
                 "id": "Mur pour installations de plomberie",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -640,16 +519,8 @@
               {
                 "id": "Mur polygonal",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -657,16 +528,8 @@
               {
                 "id": "Mur de cisaillement",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -674,16 +537,8 @@
               {
                 "id": "Coupure thermique (structurelle)",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -691,16 +546,8 @@
               {
                 "id": "Pieu sécant",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -708,16 +555,8 @@
               {
                 "id": "Pieu tangeant",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -725,16 +564,8 @@
               {
                 "id": "Palplanche",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -742,16 +573,8 @@
               {
                 "id": "Mur de soutènement",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -759,16 +582,8 @@
               {
                 "id": "Paroi moulée",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -776,16 +591,8 @@
               {
                 "id": "Paroi berlinoise",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -793,16 +600,8 @@
               {
                 "id": "Paroi combi",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -810,16 +609,8 @@
               {
                 "id": "Paroi soilmix",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -827,16 +618,8 @@
               {
                 "id": "Paroi ciment bentonite",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -844,16 +627,8 @@
               {
                 "id": "Fouille blindée",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -863,26 +638,18 @@
           {
             "id": "Fondation",
             "properties": [
-              "Méthode de construction",
               "Documentation",
               "Fonction structurelle ArchiCAD - Est porteur",
               "Phasage",
-              "Ferraillage",
-              "IFC Statut de rénovation",
-              "Conductibilite thermique",
               "Lot"
             ],
             "children": [
               {
                 "id": "Caisson",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
                   "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
                   "Lot"
                 ],
                 "children": []
@@ -890,13 +657,9 @@
               {
                 "id": "Longrine",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
                   "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
                   "Lot"
                 ],
                 "children": []
@@ -904,13 +667,9 @@
               {
                 "id": "Casque de battage",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
                   "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
                   "Lot"
                 ],
                 "children": []
@@ -918,13 +677,9 @@
               {
                 "id": "Semelle isolée",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
                   "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
                   "Lot"
                 ],
                 "children": []
@@ -932,13 +687,9 @@
               {
                 "id": "Semelle filante",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
                   "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
                   "Lot"
                 ],
                 "children": []
@@ -948,30 +699,16 @@
           {
             "id": "Poteau",
             "properties": [
-              "Méthode de construction",
               "Documentation",
-              "Résistance au feu",
-              "Reaction au feu",
-              "Enveloppe exterieure",
               "Phasage",
-              "Ferraillage",
-              "IFC Statut de rénovation",
-              "Conductibilite thermique",
               "Lot"
             ],
             "children": [
               {
                 "id": "Segment de poteau",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
                   "Lot"
                 ],
                 "children": []
@@ -979,15 +716,8 @@
               {
                 "id": "Pilastre",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
                   "Lot"
                 ],
                 "children": []
@@ -996,155 +726,56 @@
           },
           {
             "id": "Pieu",
-            "properties": [
-              "Méthode de construction",
-              "Documentation",
-              "Fonction structurelle ArchiCAD - Est porteur",
-              "Phasage",
-              "Ferraillage",
-              "IFC Statut de rénovation",
-              "Conductibilite thermique",
-              "Lot"
-            ],
+            "properties": [],
             "children": [
               {
                 "id": "Pieu foré",
-                "properties": [
-                  "Méthode de construction",
-                  "Documentation",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Lot"
-                ],
+                "properties": [],
                 "children": []
               },
               {
                 "id": "Pieu excavé",
-                "properties": [
-                  "Méthode de construction",
-                  "Documentation",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Lot"
-                ],
+                "properties": [],
                 "children": []
               },
               {
                 "id": "Pieu battu",
-                "properties": [
-                  "Méthode de construction",
-                  "Documentation",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Lot"
-                ],
+                "properties": [],
                 "children": []
               },
               {
                 "id": "Pieu vibré",
-                "properties": [
-                  "Méthode de construction",
-                  "Documentation",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Lot"
-                ],
+                "properties": [],
                 "children": []
               },
               {
                 "id": "Pieu enfoncé hydrauliquement",
-                "properties": [
-                  "Méthode de construction",
-                  "Documentation",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Lot"
-                ],
+                "properties": [],
                 "children": []
               },
               {
                 "id": "Pieu vissé",
-                "properties": [
-                  "Méthode de construction",
-                  "Documentation",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Lot"
-                ],
+                "properties": [],
                 "children": []
               },
               {
                 "id": "Faux-puits",
-                "properties": [
-                  "Méthode de construction",
-                  "Documentation",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Lot"
-                ],
+                "properties": [],
                 "children": []
               },
               {
                 "id": "Soilmix",
-                "properties": [
-                  "Méthode de construction",
-                  "Documentation",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Lot"
-                ],
+                "properties": [],
                 "children": []
               },
               {
                 "id": "Colonne balastée",
-                "properties": [
-                  "Méthode de construction",
-                  "Documentation",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Lot"
-                ],
+                "properties": [],
                 "children": []
               },
               {
                 "id": "Inclusions rigides",
-                "properties": [
-                  "Méthode de construction",
-                  "Documentation",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Lot"
-                ],
+                "properties": [],
                 "children": []
               }
             ]
@@ -1152,32 +783,16 @@
           {
             "id": "Poutre",
             "properties": [
-              "Méthode de construction",
               "Documentation",
-              "Résistance au feu",
-              "Reaction au feu",
-              "Enveloppe exterieure",
               "Phasage",
-              "Ferraillage",
-              "IFC Statut de rénovation",
-              "Conductibilite thermique",
-              "Transmission thermique",
               "Lot"
             ],
             "children": [
               {
                 "id": "Segment de poutre",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1185,16 +800,8 @@
               {
                 "id": "Solive",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1202,16 +809,8 @@
               {
                 "id": "Hourdis",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1219,16 +818,8 @@
               {
                 "id": "Linteau",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1236,16 +827,8 @@
               {
                 "id": "Ecoinçon",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1253,16 +836,8 @@
               {
                 "id": "Poutre en T",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1270,16 +845,8 @@
               {
                 "id": "Poutre de chaînage",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1287,16 +854,8 @@
               {
                 "id": "Poutre inversée",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1306,28 +865,16 @@
           {
             "id": "Dalle",
             "properties": [
-              "Méthode de construction",
               "Documentation",
-              "Résistance au feu",
-              "Enveloppe exterieure",
               "Phasage",
-              "Ferraillage",
-              "Conductibilite thermique",
-              "Transmission thermique",
               "Lot"
             ],
             "children": [
               {
                 "id": "Dalle de sol",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1335,14 +882,8 @@
               {
                 "id": "Dalle de toiture",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1350,14 +891,8 @@
               {
                 "id": "Palier",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1365,14 +900,8 @@
               {
                 "id": "Radier",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1380,14 +909,17 @@
               {
                 "id": "Balcon",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
+                  "Lot"
+                ],
+                "children": []
+              },
+              {
+                "id": "Dalle porteuse",
+                "properties": [
+                  "Documentation",
+                  "Phasage",
                   "Lot"
                 ],
                 "children": []
@@ -1397,34 +929,16 @@
           {
             "id": "Toiture",
             "properties": [
-              "Méthode de construction",
               "Documentation",
-              "Résistance au feu",
-              "Reaction au feu",
-              "Fonction structurelle ArchiCAD - Est porteur",
-              "Enveloppe exterieure",
               "Phasage",
-              "Ferraillage",
-              "IFC Statut de rénovation",
-              "Conductibilite thermique",
-              "Transmission thermique",
               "Lot"
             ],
             "children": [
               {
                 "id": "Toiture plate",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1432,17 +946,8 @@
               {
                 "id": "Toiture à un pan",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1450,17 +955,8 @@
               {
                 "id": "Toiture à deux pans",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1468,17 +964,8 @@
               {
                 "id": "Toiture à quatre pans",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1486,17 +973,8 @@
               {
                 "id": "Toiture à demi-croupe",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1504,17 +982,8 @@
               {
                 "id": "Toiture mansardée",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1522,17 +991,8 @@
               {
                 "id": "Toiture croupe à la Mansard",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1540,17 +1000,8 @@
               {
                 "id": "Toiture en berceau",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1558,17 +1009,8 @@
               {
                 "id": "Toiture à deux pans bombés",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1576,17 +1018,8 @@
               {
                 "id": "Toiture papillon",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1594,17 +1027,8 @@
               {
                 "id": "Toiture pavillon",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1612,17 +1036,8 @@
               {
                 "id": "Toiture en dôme",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1630,17 +1045,8 @@
               {
                 "id": "Toiture libre",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1648,17 +1054,8 @@
               {
                 "id": "Pergola",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Fonction structurelle ArchiCAD - Est porteur",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1673,30 +1070,16 @@
           {
             "id": "Revêtement",
             "properties": [
-              "Transmission acoustique",
               "Documentation",
-              "Résistance au feu",
-              "Reaction au feu",
-              "Enveloppe exterieure",
               "Phasage",
-              "IFC Statut de rénovation",
-              "Conductibilite thermique",
-              "Transmission thermique",
               "Lot"
             ],
             "children": [
               {
                 "id": "Revêtement de plafond",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1704,15 +1087,8 @@
               {
                 "id": "Revêtement de paroi",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1720,15 +1096,8 @@
               {
                 "id": "Revêtement de sol",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1736,15 +1105,8 @@
               {
                 "id": "Isolation",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1752,15 +1114,8 @@
               {
                 "id": "Etanchéité",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1768,15 +1123,8 @@
               {
                 "id": "Moulure",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1784,15 +1132,8 @@
               {
                 "id": "Couverture de toiture",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1800,15 +1141,8 @@
               {
                 "id": "Manchon",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1816,15 +1150,8 @@
               {
                 "id": "Plinthe",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1832,15 +1159,8 @@
               {
                 "id": "Emballage",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1848,18 +1168,8 @@
               {
                 "id": "Plancher technique",
                 "properties": [
-                  "Transmission acoustique",
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1867,18 +1177,8 @@
               {
                 "id": "Plafond suspendu",
                 "properties": [
-                  "Transmission acoustique",
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1886,15 +1186,8 @@
               {
                 "id": "Protection de mur",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1902,15 +1195,8 @@
               {
                 "id": "Peinture de sol",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1918,15 +1204,8 @@
               {
                 "id": "Peinture de plafond",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1934,15 +1213,8 @@
               {
                 "id": "Peinture de mur",
                 "properties": [
-                  "Transmission acoustique",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -1953,48 +1225,27 @@
             "id": "Escalier",
             "properties": [
               "Documentation",
-              "Résistance au feu",
-              "Reaction au feu",
               "Sortie de secours",
-              "Enveloppe exterieure",
               "Phasage",
-              "IFC Statut de rénovation",
-              "Conductibilite thermique",
-              "Transmission thermique",
-              "Lot",
-              "Lieu d'assemblage de l'escalier"
+              "Lot"
             ],
             "children": [
               {
                 "id": "Finition d'escalier",
                 "properties": [
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
                   "Sortie de secours",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
-                  "Lot",
-                  "Lieu d'assemblage de l'escalier"
+                  "Lot"
                 ],
                 "children": [
                   {
                     "id": "Marche d'escalier",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2002,16 +1253,9 @@
                     "id": "Contre-marche d'escalier",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   }
@@ -2021,48 +1265,27 @@
                 "id": "Structure d'escalier",
                 "properties": [
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
                   "Sortie de secours",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
-                  "Lot",
-                  "Lieu d'assemblage de l'escalier"
+                  "Lot"
                 ],
                 "children": [
                   {
                     "id": "Volée d'escalier",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": [
                       {
                         "id": "Volée d'escalier arrondie",
                         "properties": [
                           "Documentation",
-                          "Résistance au feu",
-                          "Reaction au feu",
                           "Sortie de secours",
-                          "Enveloppe exterieure",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Conductibilite thermique",
-                          "Transmission thermique",
-                          "Lot",
-                          "Lieu d'assemblage de l'escalier"
+                          "Lot"
                         ],
                         "children": []
                       },
@@ -2070,16 +1293,9 @@
                         "id": "Volée d'escalier libre",
                         "properties": [
                           "Documentation",
-                          "Résistance au feu",
-                          "Reaction au feu",
                           "Sortie de secours",
-                          "Enveloppe exterieure",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Conductibilite thermique",
-                          "Transmission thermique",
-                          "Lot",
-                          "Lieu d'assemblage de l'escalier"
+                          "Lot"
                         ],
                         "children": []
                       },
@@ -2087,16 +1303,9 @@
                         "id": "Volée d'escalier hélicoïdale",
                         "properties": [
                           "Documentation",
-                          "Résistance au feu",
-                          "Reaction au feu",
                           "Sortie de secours",
-                          "Enveloppe exterieure",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Conductibilite thermique",
-                          "Transmission thermique",
-                          "Lot",
-                          "Lieu d'assemblage de l'escalier"
+                          "Lot"
                         ],
                         "children": []
                       },
@@ -2104,16 +1313,9 @@
                         "id": "Volée d'escalier droite",
                         "properties": [
                           "Documentation",
-                          "Résistance au feu",
-                          "Reaction au feu",
                           "Sortie de secours",
-                          "Enveloppe exterieure",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Conductibilite thermique",
-                          "Transmission thermique",
-                          "Lot",
-                          "Lieu d'assemblage de l'escalier"
+                          "Lot"
                         ],
                         "children": []
                       },
@@ -2121,16 +1323,9 @@
                         "id": "Volée d'escalier en quarts tournants",
                         "properties": [
                           "Documentation",
-                          "Résistance au feu",
-                          "Reaction au feu",
                           "Sortie de secours",
-                          "Enveloppe exterieure",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Conductibilite thermique",
-                          "Transmission thermique",
-                          "Lot",
-                          "Lieu d'assemblage de l'escalier"
+                          "Lot"
                         ],
                         "children": []
                       }
@@ -2140,16 +1335,9 @@
                     "id": "Palier d'escalier",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   }
@@ -2159,32 +1347,18 @@
                 "id": "Type d'escalier",
                 "properties": [
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
                   "Sortie de secours",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
-                  "Lot",
-                  "Lieu d'assemblage de l'escalier"
+                  "Lot"
                 ],
                 "children": [
                   {
                     "id": "Escalier droit",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2192,16 +1366,9 @@
                     "id": "Escalier droit avec palier",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2209,16 +1376,9 @@
                     "id": "Escalier avec quart tournant balancé",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2226,16 +1386,9 @@
                     "id": "Escalier avec quart tournant et palier",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2243,16 +1396,9 @@
                     "id": "Escalier avec deux quarts tournants balancés",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2260,16 +1406,9 @@
                     "id": "Escalier avec deux quarts tournants et paliers",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2277,16 +1416,9 @@
                     "id": "Escalier trois-quart tournants balancés",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2294,16 +1426,9 @@
                     "id": "Escalier trois-quart tournants avec paliers",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2311,16 +1436,9 @@
                     "id": "Escalier en U balancé",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2328,16 +1446,9 @@
                     "id": "Escalier en U avec palier",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2345,16 +1456,9 @@
                     "id": "Escalier arrondi",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2362,16 +1466,9 @@
                     "id": "Escalier arrondi avec palier",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2379,16 +1476,9 @@
                     "id": "Escalier hélicoïdal",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   },
@@ -2396,16 +1486,9 @@
                     "id": "Escalier à double volées",
                     "properties": [
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
                       "Sortie de secours",
-                      "Enveloppe exterieure",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Transmission thermique",
-                      "Lot",
-                      "Lieu d'assemblage de l'escalier"
+                      "Lot"
                     ],
                     "children": []
                   }
@@ -2416,48 +1499,27 @@
           {
             "id": "Rampe",
             "properties": [
-              "Méthode de construction",
               "Documentation",
-              "Résistance au feu",
-              "Reaction au feu",
-              "Enveloppe exterieure",
+              "Fonction structurelle ArchiCAD - Est porteur",
               "Phasage",
-              "Ferraillage",
-              "IFC Statut de rénovation",
-              "Conductibilite thermique",
-              "Coefficient de transmission thermique",
               "Lot"
             ],
             "children": [
               {
                 "id": "Volée de rampe",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Coefficient de transmission thermique",
                   "Lot"
                 ],
                 "children": [
                   {
                     "id": "Volée de rampe droite",
                     "properties": [
-                      "Méthode de construction",
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
-                      "Enveloppe exterieure",
+                      "Fonction structurelle ArchiCAD - Est porteur",
                       "Phasage",
-                      "Ferraillage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Coefficient de transmission thermique",
                       "Lot"
                     ],
                     "children": []
@@ -2465,16 +1527,9 @@
                   {
                     "id": "Volée de rampe hélicoïdale",
                     "properties": [
-                      "Méthode de construction",
                       "Documentation",
-                      "Résistance au feu",
-                      "Reaction au feu",
-                      "Enveloppe exterieure",
+                      "Fonction structurelle ArchiCAD - Est porteur",
                       "Phasage",
-                      "Ferraillage",
-                      "IFC Statut de rénovation",
-                      "Conductibilite thermique",
-                      "Coefficient de transmission thermique",
                       "Lot"
                     ],
                     "children": []
@@ -2484,16 +1539,9 @@
               {
                 "id": "Palier de rampe",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Coefficient de transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2501,16 +1549,9 @@
               {
                 "id": "Rampe droite",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Coefficient de transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2518,16 +1559,9 @@
               {
                 "id": "Rampe droite avec palier",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Coefficient de transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2535,16 +1569,9 @@
               {
                 "id": "Rampe avec quart tournant",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Coefficient de transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2552,16 +1579,9 @@
               {
                 "id": "Rampe avec deux quarts tournants",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Coefficient de transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2569,16 +1589,9 @@
               {
                 "id": "Rampe en U",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Coefficient de transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2586,16 +1599,9 @@
               {
                 "id": "Rampe hélicoïdale",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Coefficient de transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2643,12 +1649,7 @@
             "id": "Mur-rideau",
             "properties": [
               "Documentation",
-              "Résistance au feu",
-              "Reaction au feu",
-              "Enveloppe exterieure",
               "Phasage",
-              "IFC Statut de rénovation",
-              "Transmission thermique",
               "Lot"
             ],
             "children": [
@@ -2656,12 +1657,7 @@
                 "id": "Panneau de mur-rideau",
                 "properties": [
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2670,12 +1666,7 @@
                 "id": "Cadre de mur-rideau",
                 "properties": [
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2685,32 +1676,18 @@
           {
             "id": "Membre",
             "properties": [
-              "Méthode de construction",
               "Documentation",
-              "Résistance au feu",
-              "Reaction au feu",
-              "Enveloppe exterieure",
+              "Fonction structurelle ArchiCAD - Est porteur",
               "Phasage",
-              "Ferraillage",
-              "IFC Statut de rénovation",
-              "Conductibilite thermique",
-              "Transmission thermique",
               "Lot"
             ],
             "children": [
               {
                 "id": "Câle",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2718,16 +1695,9 @@
               {
                 "id": "Entrait",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2735,16 +1705,9 @@
               {
                 "id": "Collier",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2752,16 +1715,9 @@
               {
                 "id": "Cadre",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2769,16 +1725,9 @@
               {
                 "id": "Poinçon",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2786,16 +1735,9 @@
               {
                 "id": "Panneau",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2803,16 +1745,9 @@
               {
                 "id": "Panne",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2820,16 +1755,9 @@
               {
                 "id": "Chevron",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2837,16 +1765,9 @@
               {
                 "id": "Limon",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2854,16 +1775,9 @@
               {
                 "id": "Arbalétier",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2871,16 +1785,9 @@
               {
                 "id": "Montant",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2888,16 +1795,9 @@
               {
                 "id": "Solive de plancher",
                 "properties": [
-                  "Méthode de construction",
                   "Documentation",
-                  "Résistance au feu",
-                  "Reaction au feu",
-                  "Enveloppe exterieure",
+                  "Fonction structurelle ArchiCAD - Est porteur",
                   "Phasage",
-                  "Ferraillage",
-                  "IFC Statut de rénovation",
-                  "Conductibilite thermique",
-                  "Transmission thermique",
                   "Lot"
                 ],
                 "children": []
@@ -2939,14 +1839,9 @@
           {
             "id": "Cheminée",
             "properties": [
-              "Condition - Condition évaluée",
-              "Condition - Date de l'évaluation",
               "Documentation",
-              "Garantie - Date de fin de garantie",
               "Phasage",
-              "IFC Statut de rénovation",
-              "Lot",
-              "Cheminée : nombre de conduits"
+              "Lot"
             ],
             "children": []
           }
@@ -2959,101 +1854,47 @@
           {
             "id": "Porte",
             "properties": [
-              "Transmission acoustique",
-              "Condition - Condition évaluée",
-              "Condition - Date de l'évaluation",
+              "Accès - accessibilité aux handicapés",
               "Documentation",
-              "Garantie - Date de fin de garantie",
-              "Résistance au feu",
-              "Reaction au feu",
               "Sortie de secours",
-              "Enveloppe exterieure",
               "Phasage",
-              "IFC Statut de rénovation",
-              "Transmission thermique",
               "Lot",
-              "Resistance aux balles",
-              "Vitrage - type (simple-double-triple-quadruple)",
-              "Vitrage - Ratio de surface vitrée",
-              "Seuil exterieur",
-              "Tablette interieure",
+              "Contrôle d'accès",
+              "Ouverture motorisée",
               "Dispositif d'occultation - automatique",
               "Dispositif d'occultation - mobile",
-              "Largeur passage net",
-              "Resistance effraction",
-              "Vitrage - transmission solaire",
-              "Type du dispositif d'occultation",
-              "Ventilation gap surface",
-              "Accès - accessibilité aux handicapés",
-              "Contrôle d'accès",
-              "Ouverture motorisée"
+              "Largeur passage net"
             ],
             "children": [
               {
                 "id": "Portail",
                 "properties": [
-                  "Transmission acoustique",
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
+                  "Accès - accessibilité aux handicapés",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
-                  "Résistance au feu",
-                  "Reaction au feu",
                   "Sortie de secours",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Transmission thermique",
                   "Lot",
-                  "Resistance aux balles",
-                  "Vitrage - type (simple-double-triple-quadruple)",
-                  "Vitrage - Ratio de surface vitrée",
-                  "Seuil exterieur",
-                  "Tablette interieure",
+                  "Contrôle d'accès",
+                  "Ouverture motorisée",
                   "Dispositif d'occultation - automatique",
                   "Dispositif d'occultation - mobile",
-                  "Largeur passage net",
-                  "Resistance effraction",
-                  "Vitrage - transmission solaire",
-                  "Type du dispositif d'occultation",
-                  "Ventilation gap surface",
-                  "Accès - accessibilité aux handicapés",
-                  "Contrôle d'accès",
-                  "Ouverture motorisée"
+                  "Largeur passage net"
                 ],
                 "children": []
               },
               {
                 "id": "Trappe",
                 "properties": [
-                  "Transmission acoustique",
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
+                  "Accès - accessibilité aux handicapés",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
-                  "Résistance au feu",
-                  "Reaction au feu",
                   "Sortie de secours",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Transmission thermique",
                   "Lot",
-                  "Resistance aux balles",
-                  "Vitrage - type (simple-double-triple-quadruple)",
-                  "Vitrage - Ratio de surface vitrée",
-                  "Seuil exterieur",
-                  "Tablette interieure",
+                  "Contrôle d'accès",
+                  "Ouverture motorisée",
                   "Dispositif d'occultation - automatique",
                   "Dispositif d'occultation - mobile",
-                  "Largeur passage net",
-                  "Resistance effraction",
-                  "Vitrage - transmission solaire",
-                  "Type du dispositif d'occultation",
-                  "Ventilation gap surface",
-                  "Accès - accessibilité aux handicapés",
-                  "Contrôle d'accès",
-                  "Ouverture motorisée"
+                  "Largeur passage net"
                 ],
                 "children": []
               }
@@ -3062,98 +1903,41 @@
           {
             "id": "Fenêtre",
             "properties": [
-              "Transmission acoustique",
-              "Condition - Condition évaluée",
-              "Condition - Date de l'évaluation",
               "Documentation",
-              "Garantie - Date de fin de garantie",
-              "Résistance au feu",
-              "Reaction au feu",
               "Sortie de secours",
-              "Enveloppe exterieure",
               "Phasage",
-              "IFC Statut de rénovation",
-              "Transmission thermique",
               "Lot",
-              "Resistance aux balles",
-              "Vitrage - type (simple-double-triple-quadruple)",
-              "Vitrage - Ratio de surface vitrée",
-              "Seuil exterieur",
-              "Tablette interieure",
+              "Ouverture motorisée",
               "Dispositif d'occultation - automatique",
               "Dispositif d'occultation - mobile",
-              "Largeur passage net",
-              "Resistance effraction",
-              "Vitrage - transmission solaire",
-              "Type du dispositif d'occultation",
-              "Ventilation gap surface",
-              "Ouverture motorisée",
-              "Type d'ouverture"
+              "Largeur passage net"
             ],
             "children": [
               {
                 "id": "Lucarne (toiture inclinée)",
                 "properties": [
-                  "Transmission acoustique",
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
-                  "Résistance au feu",
-                  "Reaction au feu",
                   "Sortie de secours",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Transmission thermique",
                   "Lot",
-                  "Resistance aux balles",
-                  "Vitrage - type (simple-double-triple-quadruple)",
-                  "Vitrage - Ratio de surface vitrée",
-                  "Seuil exterieur",
-                  "Tablette interieure",
+                  "Ouverture motorisée",
                   "Dispositif d'occultation - automatique",
                   "Dispositif d'occultation - mobile",
-                  "Largeur passage net",
-                  "Resistance effraction",
-                  "Vitrage - transmission solaire",
-                  "Type du dispositif d'occultation",
-                  "Ventilation gap surface",
-                  "Ouverture motorisée",
-                  "Type d'ouverture"
+                  "Largeur passage net"
                 ],
                 "children": []
               },
               {
                 "id": "Puit de lumière (toiture plate)",
                 "properties": [
-                  "Transmission acoustique",
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
-                  "Résistance au feu",
-                  "Reaction au feu",
                   "Sortie de secours",
-                  "Enveloppe exterieure",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Transmission thermique",
                   "Lot",
-                  "Resistance aux balles",
-                  "Vitrage - type (simple-double-triple-quadruple)",
-                  "Vitrage - Ratio de surface vitrée",
-                  "Seuil exterieur",
-                  "Tablette interieure",
+                  "Ouverture motorisée",
                   "Dispositif d'occultation - automatique",
                   "Dispositif d'occultation - mobile",
-                  "Largeur passage net",
-                  "Resistance effraction",
-                  "Vitrage - transmission solaire",
-                  "Type du dispositif d'occultation",
-                  "Ventilation gap surface",
-                  "Ouverture motorisée",
-                  "Type d'ouverture"
+                  "Largeur passage net"
                 ],
                 "children": []
               }
@@ -3402,191 +2186,114 @@
       },
       {
         "id": "Mobilier",
-        "properties": [
-          "Condition - Condition évaluée",
-          "Condition - Date de l'évaluation",
-          "Documentation",
-          "Garantie - Date de fin de garantie",
-          "Phasage",
-          "IFC Statut de rénovation",
-          "Lot",
-          "Armoire avec serrure (oui/non)",
-          "Description",
-          "attaché physiquement (oui/non)"
-        ],
+        "properties": [],
         "children": [
           {
             "id": "Meuble",
             "properties": [
-              "Condition - Condition évaluée",
-              "Condition - Date de l'évaluation",
               "Documentation",
-              "Garantie - Date de fin de garantie",
               "Phasage",
-              "IFC Statut de rénovation",
-              "Lot",
-              "Armoire avec serrure (oui/non)",
-              "Description",
-              "attaché physiquement (oui/non)"
+              "IFC 4 Statut de rénovation",
+              "Lot"
             ],
             "children": [
               {
                 "id": "Lit",
                 "properties": [
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Lot",
-                  "Armoire avec serrure (oui/non)",
-                  "Description",
-                  "attaché physiquement (oui/non)"
+                  "IFC 4 Statut de rénovation",
+                  "Lot"
                 ],
                 "children": []
               },
               {
                 "id": "Chaise",
                 "properties": [
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Lot",
-                  "Armoire avec serrure (oui/non)",
-                  "Description",
-                  "attaché physiquement (oui/non)"
+                  "IFC 4 Statut de rénovation",
+                  "Lot"
                 ],
                 "children": []
               },
               {
                 "id": "Bureau",
                 "properties": [
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Lot",
-                  "Armoire avec serrure (oui/non)",
-                  "Description",
-                  "attaché physiquement (oui/non)"
+                  "IFC 4 Statut de rénovation",
+                  "Lot"
                 ],
                 "children": []
               },
               {
                 "id": "Placard",
                 "properties": [
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Lot",
-                  "Armoire avec serrure (oui/non)",
-                  "Description",
-                  "attaché physiquement (oui/non)"
+                  "IFC 4 Statut de rénovation",
+                  "Lot"
                 ],
                 "children": []
               },
               {
                 "id": "Etagère",
                 "properties": [
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Lot",
-                  "Armoire avec serrure (oui/non)",
-                  "Description",
-                  "attaché physiquement (oui/non)"
+                  "IFC 4 Statut de rénovation",
+                  "Lot"
                 ],
                 "children": []
               },
               {
                 "id": "Canapé",
                 "properties": [
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Lot",
-                  "Armoire avec serrure (oui/non)",
-                  "Description",
-                  "attaché physiquement (oui/non)"
+                  "IFC 4 Statut de rénovation",
+                  "Lot"
                 ],
                 "children": []
               },
               {
                 "id": "Table",
                 "properties": [
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Lot",
-                  "Armoire avec serrure (oui/non)",
-                  "Description",
-                  "attaché physiquement (oui/non)"
+                  "IFC 4 Statut de rénovation",
+                  "Lot"
                 ],
                 "children": []
               },
               {
                 "id": "Cuisine",
                 "properties": [
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Lot",
-                  "Armoire avec serrure (oui/non)",
-                  "Description",
-                  "attaché physiquement (oui/non)"
+                  "IFC 4 Statut de rénovation",
+                  "Lot"
                 ],
                 "children": []
               },
               {
                 "id": "Meuble de cuisine",
                 "properties": [
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Lot",
-                  "Armoire avec serrure (oui/non)",
-                  "Description",
-                  "attaché physiquement (oui/non)"
+                  "IFC 4 Statut de rénovation",
+                  "Lot"
                 ],
                 "children": []
               },
               {
                 "id": "Bac à plantes",
                 "properties": [
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
                   "Documentation",
-                  "Garantie - Date de fin de garantie",
                   "Phasage",
-                  "IFC Statut de rénovation",
-                  "Lot",
-                  "Armoire avec serrure (oui/non)",
-                  "Description",
-                  "attaché physiquement (oui/non)"
+                  "IFC 4 Statut de rénovation",
+                  "Lot"
                 ],
                 "children": []
               }
@@ -3594,49 +2301,16 @@
           },
           {
             "id": "Elément d'ameublement",
-            "properties": [
-              "Condition - Condition évaluée",
-              "Condition - Date de l'évaluation",
-              "Documentation",
-              "Garantie - Date de fin de garantie",
-              "Phasage",
-              "IFC Statut de rénovation",
-              "Lot",
-              "Armoire avec serrure (oui/non)",
-              "Description",
-              "attaché physiquement (oui/non)"
-            ],
+            "properties": [],
             "children": [
               {
                 "id": "Panneau de séparation",
-                "properties": [
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
-                  "Documentation",
-                  "Garantie - Date de fin de garantie",
-                  "Phasage",
-                  "IFC Statut de rénovation",
-                  "Lot",
-                  "Armoire avec serrure (oui/non)",
-                  "Description",
-                  "attaché physiquement (oui/non)"
-                ],
+                "properties": [],
                 "children": []
               },
               {
                 "id": "Bureau de poste de travail",
-                "properties": [
-                  "Condition - Condition évaluée",
-                  "Condition - Date de l'évaluation",
-                  "Documentation",
-                  "Garantie - Date de fin de garantie",
-                  "Phasage",
-                  "IFC Statut de rénovation",
-                  "Lot",
-                  "Armoire avec serrure (oui/non)",
-                  "Description",
-                  "attaché physiquement (oui/non)"
-                ],
+                "properties": [],
                 "children": []
               }
             ]
@@ -5442,7 +4116,7 @@
                       "Documentation",
                       "Position ArchiCAD - Est extérieur",
                       "Phasage",
-                      "IFC Statut de rénovation",
+                      "IFC 4 Statut de rénovation",
                       "Lot"
                     ],
                     "children": [
@@ -5452,7 +4126,7 @@
                           "Documentation",
                           "Position ArchiCAD - Est extérieur",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5463,7 +4137,7 @@
                           "Documentation",
                           "Position ArchiCAD - Est extérieur",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5474,7 +4148,7 @@
                           "Documentation",
                           "Position ArchiCAD - Est extérieur",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5485,7 +4159,7 @@
                           "Documentation",
                           "Position ArchiCAD - Est extérieur",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5496,7 +4170,7 @@
                           "Documentation",
                           "Position ArchiCAD - Est extérieur",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5621,24 +4295,18 @@
                   {
                     "id": "Appareil audio-visuel",
                     "properties": [
-                      "Condition - Condition évaluée",
-                      "Condition - Date de l'évaluation",
                       "Documentation",
-                      "Garantie - Date de fin de garantie",
                       "Phasage",
-                      "IFC Statut de rénovation",
+                      "IFC 4 Statut de rénovation",
                       "Lot"
                     ],
                     "children": [
                       {
                         "id": "Aplificateur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5646,12 +4314,9 @@
                       {
                         "id": "Caméra",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5659,12 +4324,9 @@
                       {
                         "id": "Ecran",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5672,12 +4334,9 @@
                       {
                         "id": "Microphone",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5685,12 +4344,9 @@
                       {
                         "id": "Lecteur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5698,12 +4354,9 @@
                       {
                         "id": "Projecteur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5711,12 +4364,9 @@
                       {
                         "id": "Récepteur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5724,12 +4374,9 @@
                       {
                         "id": "Haut-parleur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5737,12 +4384,9 @@
                       {
                         "id": "Commutateur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5750,12 +4394,9 @@
                       {
                         "id": "Téléphone",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5763,12 +4404,9 @@
                       {
                         "id": "Tuner",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5776,12 +4414,9 @@
                       {
                         "id": "Interphone",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5789,12 +4424,9 @@
                       {
                         "id": "Vidéoparlophone",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5804,24 +4436,18 @@
                   {
                     "id": "Appareil de communication",
                     "properties": [
-                      "Condition - Condition évaluée",
-                      "Condition - Date de l'évaluation",
                       "Documentation",
-                      "Garantie - Date de fin de garantie",
                       "Phasage",
-                      "IFC Statut de rénovation",
+                      "IFC 4 Statut de rénovation",
                       "Lot"
                     ],
                     "children": [
                       {
                         "id": "Antenne",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5829,12 +4455,9 @@
                       {
                         "id": "Ordinateur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5842,12 +4465,9 @@
                       {
                         "id": "Fax",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5855,12 +4475,9 @@
                       {
                         "id": "Passerelle",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5868,12 +4485,9 @@
                       {
                         "id": "Modem",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5881,12 +4495,9 @@
                       {
                         "id": "Appareil de réseau",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5894,12 +4505,9 @@
                       {
                         "id": "Pont réseau",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5907,12 +4515,9 @@
                       {
                         "id": "Hub réseau",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5920,12 +4525,9 @@
                       {
                         "id": "Imprimante",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5933,12 +4535,9 @@
                       {
                         "id": "Répétiteur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5946,12 +4545,9 @@
                       {
                         "id": "Routeur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5959,12 +4555,9 @@
                       {
                         "id": "Scanneur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5972,12 +4565,9 @@
                       {
                         "id": "Serveur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -5987,24 +4577,18 @@
                   {
                     "id": "Appareil électrique",
                     "properties": [
-                      "Condition - Condition évaluée",
-                      "Condition - Date de l'évaluation",
                       "Documentation",
-                      "Garantie - Date de fin de garantie",
                       "Phasage",
-                      "IFC Statut de rénovation",
+                      "IFC 4 Statut de rénovation",
                       "Lot"
                     ],
                     "children": [
                       {
                         "id": "Lave-vaisselle",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6012,12 +4596,9 @@
                       {
                         "id": "Cuisinière électrique",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6025,12 +4606,9 @@
                       {
                         "id": "Chauffage électrique autonome",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6038,12 +4616,9 @@
                       {
                         "id": "Ventilateur autonome",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6051,12 +4626,9 @@
                       {
                         "id": "Refroidisseur d'eau autonome",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6064,12 +4636,9 @@
                       {
                         "id": "Chauffage d'eau autonome",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6077,12 +4646,9 @@
                       {
                         "id": "Congélateur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6090,12 +4656,9 @@
                       {
                         "id": "Réfrigérateur-congélateur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6103,12 +4666,9 @@
                       {
                         "id": "Sèche-cheveux",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6116,12 +4676,9 @@
                       {
                         "id": "Machine de cuisine",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6129,12 +4686,9 @@
                       {
                         "id": "Four à micro-ondes",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6142,12 +4696,9 @@
                       {
                         "id": "Photocopieur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6155,12 +4706,9 @@
                       {
                         "id": "Réfrigérateur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6168,12 +4716,9 @@
                       {
                         "id": "Sèche-linge",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6181,12 +4726,9 @@
                       {
                         "id": "Distributeur automatique",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6194,12 +4736,9 @@
                       {
                         "id": "Lave-linge",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6207,12 +4746,9 @@
                       {
                         "id": "Sèche-main",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6220,12 +4756,9 @@
                       {
                         "id": "Four",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6233,12 +4766,9 @@
                       {
                         "id": "ATM",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6253,24 +4783,18 @@
                   {
                     "id": "Terminal d'évacuation feu",
                     "properties": [
-                      "Condition - Condition évaluée",
-                      "Condition - Date de l'évaluation",
                       "Documentation",
-                      "Garantie - Date de fin de garantie",
                       "Phasage",
-                      "IFC Statut de rénovation",
+                      "IFC 4 Statut de rénovation",
                       "Lot"
                     ],
                     "children": [
                       {
                         "id": "Entrée de culasse",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6278,12 +4802,9 @@
                       {
                         "id": "Hydrante",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6291,12 +4812,9 @@
                       {
                         "id": "Enrouleur de tuyau",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6304,12 +4822,9 @@
                       {
                         "id": "Sprinkler",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6317,12 +4832,9 @@
                       {
                         "id": "Déflecteur de sprinkler",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6330,12 +4842,9 @@
                       {
                         "id": "Armoire protection incendie",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6343,12 +4852,9 @@
                       {
                         "id": "Extincteur",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6414,24 +4920,18 @@
                   {
                     "id": "Source lumineuse",
                     "properties": [
-                      "Condition - Condition évaluée",
-                      "Condition - Date de l'évaluation",
                       "Documentation",
-                      "Garantie - Date de fin de garantie",
                       "Phasage",
-                      "IFC Statut de rénovation",
+                      "IFC 4 Statut de rénovation",
                       "Lot"
                     ],
                     "children": [
                       {
                         "id": "Source directionnelle",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6439,12 +4939,9 @@
                       {
                         "id": "Source ponctuelle",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6452,12 +4949,9 @@
                       {
                         "id": "Eclairage de sécurité",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
+                          "IFC 4 Statut de rénovation",
                           "Lot"
                         ],
                         "children": []
@@ -6534,175 +5028,109 @@
                   {
                     "id": "Terminal sanitaire",
                     "properties": [
-                      "Condition - Condition évaluée",
-                      "Condition - Date de l'évaluation",
                       "Documentation",
-                      "Garantie - Date de fin de garantie",
                       "Phasage",
-                      "IFC Statut de rénovation",
-                      "Lot",
-                      "Capacité (volume)",
-                      "Type de manipulation (levier, tirer, pousser, capteur)",
-                      "Est automatique"
+                      "IFC 4 Statut de rénovation",
+                      "Lot"
                     ],
                     "children": [
                       {
                         "id": "Baignoire",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Lot",
-                          "Capacité (volume)",
-                          "Type de manipulation (levier, tirer, pousser, capteur)",
-                          "Est automatique"
+                          "IFC 4 Statut de rénovation",
+                          "Lot"
                         ],
                         "children": []
                       },
                       {
                         "id": "Bidet",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Lot",
-                          "Capacité (volume)",
-                          "Type de manipulation (levier, tirer, pousser, capteur)",
-                          "Est automatique"
+                          "IFC 4 Statut de rénovation",
+                          "Lot"
                         ],
                         "children": []
                       },
                       {
                         "id": "Cuvette",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Lot",
-                          "Capacité (volume)",
-                          "Type de manipulation (levier, tirer, pousser, capteur)",
-                          "Est automatique"
+                          "IFC 4 Statut de rénovation",
+                          "Lot"
                         ],
                         "children": []
                       },
                       {
                         "id": "Fontaine sanitaire",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Lot",
-                          "Capacité (volume)",
-                          "Type de manipulation (levier, tirer, pousser, capteur)",
-                          "Est automatique"
+                          "IFC 4 Statut de rénovation",
+                          "Lot"
                         ],
                         "children": []
                       },
                       {
                         "id": "Douche",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Lot",
-                          "Capacité (volume)",
-                          "Type de manipulation (levier, tirer, pousser, capteur)",
-                          "Est automatique"
+                          "IFC 4 Statut de rénovation",
+                          "Lot"
                         ],
                         "children": []
                       },
                       {
                         "id": "Evier",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Lot",
-                          "Capacité (volume)",
-                          "Type de manipulation (levier, tirer, pousser, capteur)",
-                          "Est automatique"
+                          "IFC 4 Statut de rénovation",
+                          "Lot"
                         ],
                         "children": []
                       },
                       {
                         "id": "Toilettes",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Lot",
-                          "Capacité (volume)",
-                          "Type de manipulation (levier, tirer, pousser, capteur)",
-                          "Est automatique"
+                          "IFC 4 Statut de rénovation",
+                          "Lot"
                         ],
                         "children": []
                       },
                       {
                         "id": "Urinoir",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Lot",
-                          "Capacité (volume)",
-                          "Type de manipulation (levier, tirer, pousser, capteur)",
-                          "Est automatique"
+                          "IFC 4 Statut de rénovation",
+                          "Lot"
                         ],
                         "children": []
                       },
                       {
                         "id": "Lave-mains",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Lot",
-                          "Capacité (volume)",
-                          "Type de manipulation (levier, tirer, pousser, capteur)",
-                          "Est automatique"
+                          "IFC 4 Statut de rénovation",
+                          "Lot"
                         ],
                         "children": []
                       },
                       {
                         "id": "Cuvette de toilette",
                         "properties": [
-                          "Condition - Condition évaluée",
-                          "Condition - Date de l'évaluation",
                           "Documentation",
-                          "Garantie - Date de fin de garantie",
                           "Phasage",
-                          "IFC Statut de rénovation",
-                          "Lot",
-                          "Capacité (volume)",
-                          "Type de manipulation (levier, tirer, pousser, capteur)",
-                          "Est automatique"
+                          "IFC 4 Statut de rénovation",
+                          "Lot"
                         ],
                         "children": []
                       }
@@ -7493,5 +5921,14 @@
         ]
       }
     ]
+  },
+  {
+    "id": "Zone",
+    "properties": [
+      "Documentation",
+      "Phasage",
+      "État de rénovation (Espace et Zone)"
+    ],
+    "children": []
   }
 ]

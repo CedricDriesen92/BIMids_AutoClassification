@@ -7,7 +7,7 @@ import lxml.etree as lxml_ET
 def detect_language(root):
     # Check for a French property
     french_properties = get_properties_to_delete("French")
-    for prop in french_properties[2]:
+    for prop in [french_properties[1], french_properties[2]]:
         if root.find(f".//PropertyDefinition/Name[.='{prop}']") is not None:
             print("French")
             return "French"
@@ -83,18 +83,17 @@ def assign_properties(tree):
             parent_properties = set()
 
         children_with_properties = [child for child in node['children'] if child['properties']]
+        children_with_children = [child for child in node['children'] if child['children']]
+        overlap = [child for child in children_with_properties if child in children_with_children]
         
         # Handle child-to-parent propagation, only if parent has no properties
         if not node['properties'] and children_with_properties:
             child_property_sets = [set(child['properties']) for child in children_with_properties]
-            
-            if all(prop_set == child_property_sets[0] for prop_set in child_property_sets):
-                # All children have the same properties
-                print(f"Parent {node['id']} got properties from children")
+            if all(prop_set == child_property_sets[0] for prop_set in child_property_sets) and (not overlap or len(overlap) == 0):
                 node['properties'] = child_property_sets[0]
                 for child in node['children']:
                     if not child['properties']:
-                        print(f"Node {child['id']} got properties from siblings")
+                        #print(f"Node {child['id']} got properties from siblings")
                         child['properties'] = set(node['properties'])
             elif node['id'] in ['Covering', 'Revêtement']:
                 handle_covering_case(node)
@@ -102,10 +101,10 @@ def assign_properties(tree):
                 print(f"Warning: Children of {node['id']} have different properties")
 
         # Handle parent-to-child propagation
-        if node['properties']:
+        elif node['properties']:
             for child in node['children']:
                 if not child['properties']:
-                    print(f"Node {child['id']} got properties from parent {node['id']}")
+                    #print(f"Node {child['id']} got properties from parent {node['id']}")
                     child['properties'] = set(node['properties'])
 
         #print(f"Final properties for {node['id']}: {node['properties']}")
@@ -312,11 +311,7 @@ def update_xml_properties(root, element_tree, language):
 
     # Add any new properties to the XML
     for element_id, node in element_map.items():
-        #print(f"Processing {element_id}")
-        #print(f"Properties: {node['properties']}")
         for prop_name in node['properties']:
-            if element_id == "Solid Wall":
-                print(f"SW prop: {prop_name}")
             prop_def = None
             for pd in prop_def_groups.findall('.//PropertyDefinition'):
                 if pd.find('Name').text == prop_name:
