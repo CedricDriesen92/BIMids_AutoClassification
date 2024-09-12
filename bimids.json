@@ -1,0 +1,105 @@
+{
+  "OrganizationCode": "bw",
+  "DictionaryCode": "BIMids",
+  "DictionaryVersion": "0.1",
+  "DictionaryName": "BIMids",
+  "ReleaseDate": "2024-07-31T09:55:49",
+  "Status": "Preview",
+  "ChangeRequestEmailAddress": "louis.casteleyn@buildwise.be",
+  "LanguageIsoCode": "EN",
+  "License": "CC BY-ND 4.0",
+  "LicenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/legalcode",
+  "QualityAssuranceProcedure": "This content is in draft and still under development. Do not use this as final content",
+  "ModelVersion": "2.0",
+  "Classes": [
+    {
+      "ClassType": "Class",
+      "Code": "CFA pile",
+      "Name": "CFA pile",
+      "Definition": "BIMids",
+      "Status": "Preview",
+      "ActivationDateUtc": "2024-07-31T09:55:49",
+      "VersionDateUtc": "2024-07-31T09:55:49",
+      "RevisionNumber": 1,
+      "RelatedIfcEntityNamesList": [
+        "IfcPile"
+      ],
+      "CountryOfOrigin": "BE",
+      "CountriesOfUse": [
+        "BE"
+      ],
+      "ClassRelations": [
+        {
+          "RelationType": "IsChildOf",
+          "RelatedClassUri": "https://identifier.buildingsmart.org/uri/bw/VMSW/2015/class/13.50."
+        },
+        {
+          "RelationType": "IsChildOf",
+          "RelatedClassUri": "https://identifier.buildingsmart.org/uri/bw/CCTB/01.10/class/13"
+        }
+      ],
+      "ClassProperties": [
+        {
+          "Code": "ObjectType",
+          "PropertyType": "Property",
+          "PropertySet": "Attributes",
+          "IsRequired": true,
+          "SortNumber": 0,
+          "AllowedValues": [
+            {
+              "Code": "CFA pile",
+              "Value": "CFA pile",
+              "SortNumber": 0
+            }
+          ],
+          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ObjectType"
+        },
+        {
+          "Code": "PredefinedType",
+          "PropertyCode": "PredefinedType",
+          "PropertyType": "Property",
+          "PropertySet": "Attributes",
+          "IsRequired": true,
+          "SortNumber": 0,
+          "AllowedValues": [
+            {
+              "Code": "USERDEFINED",
+              "Value": "USERDEFINED",
+              "SortNumber": 1
+            }
+          ]
+        },
+        {"Code": "Phasing",
+          "PropertyCode": "Phasing",
+          "PropertyType": "Property",
+          "PropertySet": "BIMids",
+          "IsRequired": true,
+          "SortNumber": 0
+        }
+      ]
+    }
+  ],
+  "Properties": [
+    {
+      "Code": "PredefinedType",
+      "Name": "PredefinedType",
+      "DataType": "String",
+      "ActivationDateUtc": "2024-07-31T09:55:49",
+      "CountriesOfUse": [
+        "BE"
+      ],
+      "CreatorLanguageIsoCode": "nl-BE"
+    },
+    {
+      "Code": "Phasing",
+      "Name": "Phasing",
+      "DataType": "String",
+      "ActivationDateUtc": "2024-07-31T09:55:49",
+      "CountriesOfUse": [
+        "NL"
+      ],
+      "CreatorLanguageIsoCode": "nl-BE"
+    }
+  ]
+}
+ 
