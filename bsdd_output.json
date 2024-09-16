@@ -3,7 +3,7 @@
   "DictionaryCode": "BIMids",
   "DictionaryVersion": "0.2",
   "DictionaryName": "BIMids",
-  "ReleaseDate": "2024-09-16T09:53:28.691683",
+  "ReleaseDate": "2024-09-16T10:16:45.523619",
   "Status": "Preview",
   "ChangeRequestEmailAddress": "louis.casteleyn@buildwise.be",
   "LanguageIsoCode": "EN",
@@ -198,11 +198,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "phasing",
           "Name": "Phasing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing"
@@ -253,11 +248,6 @@
         {
           "Code": "status",
           "Name": "Status",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
@@ -346,11 +336,6 @@
         {
           "Code": "status",
           "Name": "Status",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
@@ -515,11 +500,6 @@
         {
           "Code": "status",
           "Name": "Status",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
@@ -790,11 +770,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "material",
           "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/"
@@ -1004,11 +979,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "phasing",
           "Name": "Phasing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing"
@@ -1059,11 +1029,6 @@
         {
           "Code": "status",
           "Name": "Status",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
@@ -1295,11 +1260,6 @@
         {
           "Code": "status",
           "Name": "Status",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
@@ -2006,11 +1966,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "typeofhosereel",
           "Name": "Type of hose reel",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hosereeltype"
@@ -2084,11 +2039,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "phasing",
           "Name": "Phasing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing"
@@ -2159,11 +2109,6 @@
         {
           "Code": "status",
           "Name": "Status",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
@@ -2303,11 +2248,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "material",
           "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/"
@@ -2315,11 +2255,6 @@
         {
           "Code": "isload-bearing(revit)",
           "Name": "Is load-bearing (Revit)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing"
-        },
-        {
-          "Code": "isload-bearing(archicad)",
-          "Name": "Is load-bearing (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing"
         },
         {
@@ -2376,11 +2311,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "material",
           "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/"
@@ -2388,11 +2318,6 @@
         {
           "Code": "isload-bearing(revit)",
           "Name": "Is load-bearing (Revit)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing"
-        },
-        {
-          "Code": "isload-bearing(archicad)",
-          "Name": "Is load-bearing (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing"
         },
         {
@@ -2446,11 +2371,6 @@
         {
           "Code": "status",
           "Name": "Status",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
@@ -2826,18 +2746,8 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "isexternal",
           "Name": "Is external",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal"
-        },
-        {
-          "Code": "isexternal(archicad)",
-          "Name": "Is external (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal"
         },
         {
@@ -2924,11 +2834,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "phasing",
           "Name": "Phasing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing"
@@ -2987,11 +2892,6 @@
           "Code": "voltage",
           "Name": "Voltage",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ratedvoltage"
-        },
-        {
-          "Code": "luminousflux3",
-          "Name": "Luminous flux3",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/contributedluminousflux"
         }
       ]
     },
@@ -3017,11 +2917,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "material",
           "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/"
@@ -3029,11 +2924,6 @@
         {
           "Code": "isload-bearing(revit)",
           "Name": "Is load-bearing (Revit)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing"
-        },
-        {
-          "Code": "isload-bearing(archicad)",
-          "Name": "Is load-bearing (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing"
         },
         {
@@ -3231,11 +3121,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "material",
           "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/"
@@ -3243,11 +3128,6 @@
         {
           "Code": "isload-bearing(revit)",
           "Name": "Is load-bearing (Revit)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing"
-        },
-        {
-          "Code": "isload-bearing(archicad)",
-          "Name": "Is load-bearing (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing"
         },
         {
@@ -3600,11 +3480,6 @@
         {
           "Code": "status",
           "Name": "Status",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
@@ -4011,11 +3886,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal"
         },
         {
-          "Code": "spacenumber",
-          "Name": "Space number",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/"
-        },
-        {
           "Code": "phasing",
           "Name": "Phasing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing"
@@ -4059,26 +3929,6 @@
           "Code": "ispublicaccessible",
           "Name": "Is public accessible",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/publiclyaccessible"
-        },
-        {
-          "Code": "skirtingboardfinishing3",
-          "Name": "Skirtingboard finishing3",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/skirtingboard"
-        },
-        {
-          "Code": "wallfinishing3",
-          "Name": "Wall finishing3",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/wallcovering"
-        },
-        {
-          "Code": "ceilingfinishing3",
-          "Name": "Ceiling finishing3",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ceilingcovering"
-        },
-        {
-          "Code": "floorfinishing3",
-          "Name": "Floor finishing3",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/floorcovering"
         },
         {
           "Code": "occupancytype",
@@ -4184,11 +4034,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "phasing",
           "Name": "Phasing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing"
@@ -4264,11 +4109,6 @@
         {
           "Code": "status",
           "Name": "Status",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
@@ -4578,11 +4418,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/airflowrate"
         },
         {
-          "Code": "measuredairvolumeflow",
-          "Name": "Measured air volume flow",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/airflowrate"
-        },
-        {
           "Code": "airtemperature(heating)",
           "Name": "Air temperature (heating)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/supplyairtemperatureheating"
@@ -4790,11 +4625,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "material",
           "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/"
@@ -4971,11 +4801,6 @@
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
         },
         {
-          "Code": "renovationstatus(archicad)",
-          "Name": "Renovation status (Archicad)",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status"
-        },
-        {
           "Code": "material",
           "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/"
@@ -4983,11 +4808,6 @@
         {
           "Code": "isexternal",
           "Name": "Is external",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/isexternal"
-        },
-        {
-          "Code": "isexternal(archicad)",
-          "Name": "Is external (Archicad)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/isexternal"
         },
         {
