@@ -9,6 +9,7 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
     property_section = False
     excluded_properties = ['Object name', 'IFC Type', 'IFC Object Type', 'Classification', 'Numerical identifier', 'PROPERTY']
     used_codes = set()
+    used_uris = set()
 
     for _, row in df.iterrows():
         if 'ALPHANUMERICAL INFORMATION' in str(row[0]):
@@ -34,8 +35,9 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
                     uri = f"https://identifier.buildingsmart.org/uri/bw/bimids/{dic_ver}/prop/{uri_code_short}"
 
 
-                if property_code not in used_codes:
+                if property_code not in used_codes and uri not in used_uris:
                     used_codes.add(property_code)
+                    used_uris.add(uri)
                     properties.append({
                         "Code": property_code,
                         "Name": property_name,
