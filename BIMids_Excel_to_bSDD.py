@@ -15,7 +15,8 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
         if 'ALPHANUMERICAL INFORMATION' in str(row[0]):
             property_section = True
             continue
-        
+        if pd.notna(row[0]) and not pd.notna(row[49]):
+            pset = str(row[0])
         if property_section and pd.notna(row[0]) and pd.notna(row[49]):  # Column AX is index 49
             if row[0] not in excluded_properties:
                 uri_code = str(row[49]).lower().replace(' ', '').replace('/', '_')
@@ -35,13 +36,14 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
                     uri = f"https://identifier.buildingsmart.org/uri/bw/bimids/{dic_ver}/prop/{uri_code_short}"
 
 
-                if property_code not in used_codes and uri not in used_uris:
+                if property_code not in used_codes and uri not in used_uris and "revit" not in uri and "archicad" not in uri:
                     used_codes.add(property_code)
                     used_uris.add(uri)
                     properties.append({
-                        "Code": property_code,
+                        "Code": class_code[0:3] + "-" + property_code,
                         "Name": property_name,
-                        "PropertyUri": uri
+                        "PropertyUri": uri,
+                        "PropertySet": pset
                     })
                     if uri_code.startswith('bimids_'):
                         properties.append({"PropertyCode": property_code})
