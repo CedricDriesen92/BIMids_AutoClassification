@@ -3,7 +3,7 @@ import os
 import json
 from datetime import datetime
 
-def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
+def process_class_properties(excel_file, sheet_name, class_name, ifc_class, dic_ver):
     df = pd.read_excel(excel_file, sheet_name=sheet_name, header=None)
     properties = []
     property_section = False
@@ -11,6 +11,17 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
     used_codes = set()
     used_uris = set()
     definition = df.iloc[5, 0]
+    
+    properties.append({
+        "Code": "ObjectType",
+        "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ObjectType",
+        "PropertySet": "Attributes"
+    })
+    properties.append({
+        "Code": "PredefinedType",
+        "PropertyUri": "https://identifier.buildingsmart.org/uri/volkerwesselsbvgo/basis_bouwproducten_oene/0.1/prop/PredefinedType",
+        "PropertySet": "Attributes"
+    })
 
     for _, row in df.iterrows():
         
@@ -22,7 +33,7 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
             usecase = str(row[0])
         if property_section and pd.notna(row[0]) and pd.notna(row[49]):  # Column AX is index 49
             if row[0] not in excluded_properties:
-                uri_code = str(row[49]).lower().replace(' ', '').replace('/', '_')
+                uri_code = str(row[49]).replace(' ', '').replace('/', '_')
                 property_code = str(row[0]).lower().replace(' ', '').replace('/', '_')
                 property_name = str(row[0])
                 
@@ -31,11 +42,12 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
                 pset = uri_code.split('.')[0]
                 
                 # Determine the property type and generate the appropriate URI
-                if uri_code.startswith('pset_'):
+                if uri_code.lower().startswith('pset_'):
                     uri = f"https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/{uri_code_short}"
-                elif uri_code.startswith('bimids'):
+                elif uri_code.lower().startswith('bimids'):
                     uri = f"https://identifier.buildingsmart.org/uri/bw/bimids/{dic_ver}/prop/{uri_code_short}"
-                #else:
+                else:
+                    uri = ""
                 #    uri = f"https://identifier.buildingsmart.org/uri/bw/bimids/{dic_ver}/prop/{uri_code_short}"
 
 
@@ -44,14 +56,14 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
                     used_uris.add(uri)
                     if uri_code.lower().startswith('bimids'):
                         properties.append({
-                            "Code": class_code[0:3] + "-" + property_code,
+                            "Code": class_name[0:3] + "-" + property_code,
                             #"Name": property_name,
                             "PropertyCode": property_code,
                             "PropertySet": pset
                         })
-                    elif uri_code.startswith('pset_'):
+                    elif uri_code.lower().startswith('pset'):
                         properties.append({
-                            "Code": class_code[0:3] + "-" + property_code,
+                            "Code": class_name[0:3] + "-" + property_code,
                             #"Name": property_name,
                             "PropertyUri": uri,
                             "PropertySet": pset
@@ -103,30 +115,44 @@ def excel_to_bsdd_json(excel_file):
                     used_property_codes.append(code)
 
         for _, row in classes_df.iterrows():
-            if pd.notna(row[0]) and pd.notna(row[4]) and row[0] not in ["ELEMENT", 'GROUP']:
-                class_name = row[0]
+            if pd.notna(row[1]) and pd.notna(row[4]) and row[0] not in ["ELEMENT", 'GROUP']:
+                class_name = row[1]
+                sheet_name = row[0].replace('/', '')
                 ifc_class = row[4]
-                code = str(row[0]).lower().replace(' ', '').replace('/', '')
+                code = str(row[1]).lower().replace(' ', '').replace('/', '')
                 if code not in used_class_codes:
-                    class_obj = {
-                        "Code": code,
-                        "Name": class_name,
-                        "ClassType": "Class",
-                        #"Definition": f"Represents a {class_name.lower()}.",
-                        "CreatorLanguageIsoCode": "EN",
-                        "RelatedIfcEntityNamesList": [ifc_class.split('.')[0]],
-                        "ClassRelations": [
-                            {
-                                "RelationType": "IsEqualTo",
-                                "RelatedClassUri": f"https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/{ifc_class.replace('.', '')}"
-                            }
-                        ],
-                        "ClassProperties": []
-                    }
+                    if 'userdefined' not in ifc_class.lower():
+                        class_obj = {
+                            "Code": code,
+                            "Name": class_name,
+                            "ClassType": "Class",
+                            "CreatorLanguageIsoCode": "EN",
+                            "ClassRelations": [
+                                {
+                                    "RelationType": "IsEqualTo",
+                                    "RelatedClassUri": f"https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/{ifc_class.replace('.', '')}"
+                                }
+                            ],
+                            "ClassProperties": []
+                        }
+                    else:
+                        class_obj = {
+                            "Code": code,
+                            "Name": class_name,
+                            "ClassType": "Class",
+                            "CreatorLanguageIsoCode": "EN",
+                            "ClassRelations": [
+                                {
+                                    "RelationType": "IsChildOf",
+                                    "RelatedClassUri": f"https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/{ifc_class.split('.')[0]}"
+                                }
+                            ],
+                            "ClassProperties": []
+                        }
 
                     # Process properties for this class
                     try:
-                        class_properties, definition = process_class_properties(full_path, class_name.replace('/', ''), code, dic_ver)
+                        class_properties, definition = process_class_properties(full_path, sheet_name, ifc_class, code, dic_ver)
                         class_obj["ClassProperties"] = class_properties
                         class_obj["Definition"] = definition
                     except Exception as e:
