@@ -3,11 +3,12 @@ import os
 import json
 from datetime import datetime
 
-def process_class_properties(excel_file, sheet_name, class_code):
+def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
     df = pd.read_excel(excel_file, sheet_name=sheet_name, header=None)
     properties = []
     property_section = False
     excluded_properties = ['Object name', 'IFC Type', 'IFC Object Type', 'Classification', 'Numerical identifier', 'PROPERTY']
+    used_codes = set()
 
     for _, row in df.iterrows():
         if 'ALPHANUMERICAL INFORMATION' in str(row[0]):
@@ -20,17 +21,21 @@ def process_class_properties(excel_file, sheet_name, class_code):
                 property_code = str(row[0]).lower().replace(' ', '').replace('/', '_')
                 property_name = str(row[0])
                 
+                uri_code_short = uri_code.split('.')[-1]  # Get the part after the last dot
+                uri_code_short = ''.join([i for i in uri_code_short if not i.isdigit()])  # Remove numbers
+                
                 # Determine the property type and generate the appropriate URI
-                if uri_code.startswith('pset_'): # TO DO ONLY TAKE WHATS AFTER THE . IF THERE IS ONE
-                    uri = f"https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/{uri_code}"
+                if uri_code.startswith('pset_'):
+                    uri = f"https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/{uri_code_short}"
                 elif uri_code.startswith('bimids_'):
-                    # Remove numbers at the end of BIMids properties
                     uri_code = ''.join([i for i in property_code if not i.isdigit()])
-                    uri = f"https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/{uri_code}"
+                    uri = f"https://identifier.buildingsmart.org/uri/bw/bimids/{dic_ver}/prop/{uri_code_short}"
                 else:
-                    uri = f"https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/{uri_code}"
-                # Check if the property_code already exists in properties
-                if not any(prop.get('Code') == property_code for prop in properties):
+                    uri = f"https://identifier.buildingsmart.org/uri/bw/bimids/{dic_ver}/prop/{uri_code_short}"
+
+
+                if property_code not in used_codes:
+                    used_codes.add(property_code)
                     properties.append({
                         "Code": property_code,
                         "Name": property_name,
@@ -53,11 +58,12 @@ def excel_to_bsdd_json(excel_file):
         
         used_class_codes = []
         used_property_codes = []
+        dic_ver = "0.2"
 
         bsdd_json = {
             "OrganizationCode": "bw",
             "DictionaryCode": "BIMids",
-            "DictionaryVersion": "0.2",
+            "DictionaryVersion": dic_ver,
             "DictionaryName": "BIMids",
             "ReleaseDate": datetime.now().isoformat(),
             "Status": "Preview",
@@ -107,7 +113,7 @@ def excel_to_bsdd_json(excel_file):
 
                     # Process properties for this class
                     try:
-                        class_properties = process_class_properties(full_path, class_name.replace('/', ''), code)
+                        class_properties = process_class_properties(full_path, class_name.replace('/', ''), code, dic_ver)
                         class_obj["ClassProperties"] = class_properties
                     except Exception as e:
                         print(f"Error processing properties for {class_name}: {str(e)}")
