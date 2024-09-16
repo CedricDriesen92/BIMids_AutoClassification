@@ -14,6 +14,7 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
     for _, row in df.iterrows():
         if 'ALPHANUMERICAL INFORMATION' in str(row[0]):
             property_section = True
+            pset = ""
             continue
         if pd.notna(row[0]) and not pd.notna(row[49]):
             pset = str(row[0])
@@ -30,7 +31,6 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
                 if uri_code.startswith('pset_'):
                     uri = f"https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/{uri_code_short}"
                 elif uri_code.startswith('bimids_'):
-                    uri_code = ''.join([i for i in property_code if not i.isdigit()])
                     uri = f"https://identifier.buildingsmart.org/uri/bw/bimids/{dic_ver}/prop/{uri_code_short}"
                 else:
                     uri = f"https://identifier.buildingsmart.org/uri/bw/bimids/{dic_ver}/prop/{uri_code_short}"
@@ -39,14 +39,20 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
                 if property_code not in used_codes and uri not in used_uris and "revit" not in uri and "archicad" not in uri:
                     used_codes.add(property_code)
                     used_uris.add(uri)
-                    properties.append({
-                        "Code": class_code[0:3] + "-" + property_code,
-                        "Name": property_name,
-                        "PropertyUri": uri,
-                        "PropertySet": pset
-                    })
-                    if uri_code.startswith('bimids_'):
-                        properties.append({"PropertyCode": property_code})
+                    if uri_code.lower().startswith('bimids'):
+                        properties.append({
+                            "Code": class_code[0:3] + "-" + property_code,
+                            "PropertyCode": property_code,
+                            "Name": property_name,
+                            "PropertySet": pset
+                        })
+                    else:
+                        properties.append({
+                            "Code": class_code[0:3] + "-" + property_code,
+                            "Name": property_name,
+                            "PropertyUri": uri,
+                            "PropertySet": pset
+                        })
         elif property_section and pd.isna(row[0]):
             break
 

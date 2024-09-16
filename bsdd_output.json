@@ -3,7 +3,7 @@
   "DictionaryCode": "BIMids",
   "DictionaryVersion": "0.2",
   "DictionaryName": "BIMids",
-  "ReleaseDate": "2024-09-16T11:52:17.125158",
+  "ReleaseDate": "2024-09-16T12:01:43.921335",
   "Status": "Preview",
   "ChangeRequestEmailAddress": "louis.casteleyn@buildwise.be",
   "LanguageIsoCode": "EN",
@@ -36,20 +36,20 @@
         },
         {
           "Code": "act-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "act-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "act-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -96,20 +96,20 @@
         },
         {
           "Code": "air-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "air-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "air-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -156,20 +156,20 @@
         },
         {
           "Code": "air-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "air-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "air-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -222,20 +222,20 @@
         },
         {
           "Code": "aud-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "aud-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "aud-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -300,20 +300,20 @@
         },
         {
           "Code": "bea-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "bea-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "bea-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -336,8 +336,8 @@
         },
         {
           "Code": "bea-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -384,20 +384,20 @@
         },
         {
           "Code": "bre-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "bre-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "bre-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -474,20 +474,20 @@
         },
         {
           "Code": "cab-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cab-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cab-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -522,20 +522,20 @@
         },
         {
           "Code": "cab-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cab-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cab-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -582,20 +582,20 @@
         },
         {
           "Code": "cai-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cai-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cai-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -648,20 +648,20 @@
         },
         {
           "Code": "cei-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cei-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cei-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -678,8 +678,8 @@
         },
         {
           "Code": "cei-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -732,20 +732,20 @@
         },
         {
           "Code": "chi-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "chi-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "chi-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -828,20 +828,20 @@
         },
         {
           "Code": "chi-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "chi-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "chi-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -894,20 +894,20 @@
         },
         {
           "Code": "col-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "col-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "col-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -924,8 +924,8 @@
         },
         {
           "Code": "col-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -984,20 +984,20 @@
         },
         {
           "Code": "cur-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cur-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cur-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -1020,8 +1020,8 @@
         },
         {
           "Code": "cur-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "Heat loss calculation"
         }
       ]
@@ -1050,20 +1050,20 @@
         },
         {
           "Code": "dam-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dam-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dam-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -1116,20 +1116,20 @@
         },
         {
           "Code": "dat-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dat-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dat-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -1188,20 +1188,20 @@
         },
         {
           "Code": "dee-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dee-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dee-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -1254,20 +1254,20 @@
         },
         {
           "Code": "doo-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "doo-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "doo-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -1302,20 +1302,20 @@
         },
         {
           "Code": "doo-hasaccesscontrol",
+          "PropertyCode": "hasaccesscontrol",
           "Name": "Has access control",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/accesscontrol",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "doo-ismobileshadingdevice",
+          "PropertyCode": "ismobileshadingdevice",
           "Name": "Is mobile shading device",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/mobile",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "doo-isautomaticshadingdevice",
+          "PropertyCode": "isautomaticshadingdevice",
           "Name": "Is automatic shading device",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/mechanicaloperated",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
@@ -1368,20 +1368,20 @@
         },
         {
           "Code": "doo-typeofblackoutdevice",
+          "PropertyCode": "typeofblackoutdevice",
           "Name": "Type of blackout device",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/type",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "doo-bulletproof",
+          "PropertyCode": "bulletproof",
           "Name": "Bulletproof",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/bulletproof",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "doo-passagewidth",
+          "PropertyCode": "passagewidth",
           "Name": "Passage width",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/passagewidth",
           "PropertySet": "Access management (partial requirements)"
         },
         {
@@ -1398,14 +1398,14 @@
         },
         {
           "Code": "doo-ventilationgapsurface",
+          "PropertyCode": "ventilationgapsurface",
           "Name": "Ventilation gap surface",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/ventilationgapsurface",
           "PropertySet": "PEB (partial requirements)"
         },
         {
           "Code": "doo-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "Heat loss calculation"
         },
         {
@@ -1446,20 +1446,20 @@
         },
         {
           "Code": "ele-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -1518,20 +1518,20 @@
         },
         {
           "Code": "ele-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -1590,20 +1590,20 @@
         },
         {
           "Code": "ele-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -1674,20 +1674,20 @@
         },
         {
           "Code": "ele-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -1734,20 +1734,20 @@
         },
         {
           "Code": "ele-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -1794,20 +1794,20 @@
         },
         {
           "Code": "ele-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -1872,20 +1872,20 @@
         },
         {
           "Code": "ele-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -1938,20 +1938,20 @@
         },
         {
           "Code": "ele-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -2016,20 +2016,20 @@
         },
         {
           "Code": "fal-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fal-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fal-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -2046,8 +2046,8 @@
         },
         {
           "Code": "fal-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -2118,20 +2118,20 @@
         },
         {
           "Code": "fan-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fan-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fan-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -2190,20 +2190,20 @@
         },
         {
           "Code": "fil-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fil-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fil-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -2274,20 +2274,20 @@
         },
         {
           "Code": "fir-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -2334,20 +2334,20 @@
         },
         {
           "Code": "fir-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -2418,20 +2418,20 @@
         },
         {
           "Code": "fir-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -2490,20 +2490,20 @@
         },
         {
           "Code": "flo-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "flo-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "flo-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -2520,8 +2520,8 @@
         },
         {
           "Code": "flo-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -2586,20 +2586,20 @@
         },
         {
           "Code": "fou-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fou-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fou-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -2658,20 +2658,20 @@
         },
         {
           "Code": "fou-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fou-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fou-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -2718,20 +2718,20 @@
         },
         {
           "Code": "fur-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fur-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fur-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -2796,20 +2796,20 @@
         },
         {
           "Code": "hea-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -2868,20 +2868,20 @@
         },
         {
           "Code": "hea-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -2964,20 +2964,20 @@
         },
         {
           "Code": "hea-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -3060,20 +3060,20 @@
         },
         {
           "Code": "hea-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -3149,20 +3149,20 @@
         },
         {
           "Code": "lif-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lif-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lif-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -3245,20 +3245,20 @@
         },
         {
           "Code": "lig-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lig-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lig-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -3359,20 +3359,20 @@
         },
         {
           "Code": "lin-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lin-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lin-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -3395,8 +3395,8 @@
         },
         {
           "Code": "lin-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -3443,20 +3443,20 @@
         },
         {
           "Code": "man-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "man-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "man-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -3503,20 +3503,20 @@
         },
         {
           "Code": "pum-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "pum-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "pum-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -3593,20 +3593,20 @@
         },
         {
           "Code": "ram-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ram-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ram-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -3629,8 +3629,8 @@
         },
         {
           "Code": "ram-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -3695,20 +3695,20 @@
         },
         {
           "Code": "roo-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "roo-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "roo-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -3731,8 +3731,8 @@
         },
         {
           "Code": "roo-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -3797,20 +3797,20 @@
         },
         {
           "Code": "roo-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "roo-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "roo-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -3827,8 +3827,8 @@
         },
         {
           "Code": "roo-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -3881,20 +3881,20 @@
         },
         {
           "Code": "saf-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "saf-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "saf-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -3995,20 +3995,20 @@
         },
         {
           "Code": "san-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -4079,20 +4079,20 @@
         },
         {
           "Code": "san-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -4139,20 +4139,20 @@
         },
         {
           "Code": "san-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -4217,20 +4217,20 @@
         },
         {
           "Code": "sla-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sla-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sla-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -4253,8 +4253,8 @@
         },
         {
           "Code": "sla-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -4313,20 +4313,20 @@
         },
         {
           "Code": "sla-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sla-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sla-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -4349,8 +4349,8 @@
         },
         {
           "Code": "sla-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -4385,20 +4385,20 @@
         },
         {
           "Code": "sol-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sol-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sol-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -4445,8 +4445,8 @@
         },
         {
           "Code": "spa-status",
+          "PropertyCode": "status",
           "Name": "Status",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
@@ -4457,14 +4457,14 @@
         },
         {
           "Code": "spa-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "spa-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -4631,20 +4631,20 @@
         },
         {
           "Code": "spr-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "spr-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "spr-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -4733,20 +4733,20 @@
         },
         {
           "Code": "sta-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sta-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sta-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -4763,8 +4763,8 @@
         },
         {
           "Code": "sta-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -4823,20 +4823,20 @@
         },
         {
           "Code": "tan-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "tan-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "tan-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -4913,14 +4913,14 @@
         },
         {
           "Code": "tec-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "tec-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
@@ -4931,8 +4931,8 @@
         },
         {
           "Code": "tec-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -4949,8 +4949,8 @@
         },
         {
           "Code": "tec-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -5032,20 +5032,20 @@
         },
         {
           "Code": "ven-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -5116,20 +5116,20 @@
         },
         {
           "Code": "ven-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -5182,20 +5182,20 @@
         },
         {
           "Code": "ven-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -5248,20 +5248,20 @@
         },
         {
           "Code": "ven-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -5326,20 +5326,20 @@
         },
         {
           "Code": "wal-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wal-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wal-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -5362,8 +5362,8 @@
         },
         {
           "Code": "wal-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -5428,20 +5428,20 @@
         },
         {
           "Code": "wal-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wal-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wal-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -5458,8 +5458,8 @@
         },
         {
           "Code": "wal-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
@@ -5518,26 +5518,26 @@
         },
         {
           "Code": "wat-isexternal",
+          "PropertyCode": "isexternal",
           "Name": "Is external",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "wat-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wat-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wat-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         }
       ]
@@ -5578,20 +5578,20 @@
         },
         {
           "Code": "win-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "win-workpackage",
+          "PropertyCode": "workpackage",
           "Name": "Work package",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/workpackage",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "win-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         },
         {
@@ -5620,14 +5620,14 @@
         },
         {
           "Code": "win-ismobileshadingdevice",
+          "PropertyCode": "ismobileshadingdevice",
           "Name": "Is mobile shading device",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/mobile",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "win-isautomaticshadingdevice",
+          "PropertyCode": "isautomaticshadingdevice",
           "Name": "Is automatic shading device",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/mechanicaloperated",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
@@ -5680,26 +5680,26 @@
         },
         {
           "Code": "win-typeofblackoutdevice",
+          "PropertyCode": "typeofblackoutdevice",
           "Name": "Type of blackout device",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/type",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "win-bulletproof",
+          "PropertyCode": "bulletproof",
           "Name": "Bulletproof",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/bulletproof",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "win-passagewidth",
+          "PropertyCode": "passagewidth",
           "Name": "Passage width",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/passagewidth",
           "PropertySet": "Access management (partial requirements)"
         },
         {
           "Code": "win-openingtype",
+          "PropertyCode": "openingtype",
           "Name": "Opening type",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/openingtype",
           "PropertySet": "Intrusion and surveillance (partial requirements)"
         },
         {
@@ -5710,14 +5710,14 @@
         },
         {
           "Code": "win-ventilationgapsurface",
+          "PropertyCode": "ventilationgapsurface",
           "Name": "Ventilation gap surface",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/ventilationgapsurface",
           "PropertySet": "PEB (partial requirements)"
         },
         {
           "Code": "win-isoutershell",
+          "PropertyCode": "isoutershell",
           "Name": "Is outer shell",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/outershell",
           "PropertySet": "Heat loss calculation"
         },
         {
@@ -5752,20 +5752,20 @@
       "ClassProperties": [
         {
           "Code": "zon-status",
+          "PropertyCode": "status",
           "Name": "Status",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "zon-phasing",
+          "PropertyCode": "phasing",
           "Name": "Phasing",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/phasing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "zon-documentation",
+          "PropertyCode": "documentation",
           "Name": "Documentation",
-          "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/documentation",
           "PropertySet": "Optional requirements"
         }
       ]
