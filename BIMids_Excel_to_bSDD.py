@@ -10,14 +10,16 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
     excluded_properties = ['Object name', 'IFC Type', 'IFC Object Type', 'Classification', 'Numerical identifier', 'PROPERTY']
     used_codes = set()
     used_uris = set()
+    definition = df.iloc[5, 0]
 
     for _, row in df.iterrows():
+        
         if 'ALPHANUMERICAL INFORMATION' in str(row[0]):
             property_section = True
             pset = ""
             continue
         if pd.notna(row[0]) and not pd.notna(row[49]):
-            pset = str(row[0])
+            usecase = str(row[0])
         if property_section and pd.notna(row[0]) and pd.notna(row[49]):  # Column AX is index 49
             if row[0] not in excluded_properties:
                 uri_code = str(row[49]).lower().replace(' ', '').replace('/', '_')
@@ -26,14 +28,15 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
                 
                 uri_code_short = uri_code.split('.')[-1]  # Get the part after the last dot
                 uri_code_short = ''.join([i for i in uri_code_short if not i.isdigit()])  # Remove numbers
+                pset = uri_code.split('.')[0]
                 
                 # Determine the property type and generate the appropriate URI
                 if uri_code.startswith('pset_'):
                     uri = f"https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/{uri_code_short}"
-                elif uri_code.startswith('bimids_'):
+                elif uri_code.startswith('bimids'):
                     uri = f"https://identifier.buildingsmart.org/uri/bw/bimids/{dic_ver}/prop/{uri_code_short}"
-                else:
-                    uri = f"https://identifier.buildingsmart.org/uri/bw/bimids/{dic_ver}/prop/{uri_code_short}"
+                #else:
+                #    uri = f"https://identifier.buildingsmart.org/uri/bw/bimids/{dic_ver}/prop/{uri_code_short}"
 
 
                 if property_code not in used_codes and uri not in used_uris and "revit" not in uri and "archicad" not in uri:
@@ -46,7 +49,7 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
                             "PropertyCode": property_code,
                             "PropertySet": pset
                         })
-                    else:
+                    elif uri_code.startswith('pset_'):
                         properties.append({
                             "Code": class_code[0:3] + "-" + property_code,
                             #"Name": property_name,
@@ -56,7 +59,7 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
         elif property_section and pd.isna(row[0]):
             break
 
-    return properties
+    return properties, definition
 
 def excel_to_bsdd_json(excel_file):
     try:
@@ -68,7 +71,7 @@ def excel_to_bsdd_json(excel_file):
         
         used_class_codes = []
         used_property_codes = []
-        dic_ver = "0.2"
+        dic_ver = "0.3"
 
         bsdd_json = {
             "OrganizationCode": "bw",
@@ -109,7 +112,7 @@ def excel_to_bsdd_json(excel_file):
                         "Code": code,
                         "Name": class_name,
                         "ClassType": "Class",
-                        "Definition": f"Represents a {class_name.lower()}.",
+                        #"Definition": f"Represents a {class_name.lower()}.",
                         "CreatorLanguageIsoCode": "EN",
                         "RelatedIfcEntityNamesList": [ifc_class.split('.')[0]],
                         "ClassRelations": [
@@ -123,8 +126,9 @@ def excel_to_bsdd_json(excel_file):
 
                     # Process properties for this class
                     try:
-                        class_properties = process_class_properties(full_path, class_name.replace('/', ''), code, dic_ver)
+                        class_properties, definition = process_class_properties(full_path, class_name.replace('/', ''), code, dic_ver)
                         class_obj["ClassProperties"] = class_properties
+                        class_obj["Definition"] = definition
                     except Exception as e:
                         print(f"Error processing properties for {class_name}: {str(e)}")
 
