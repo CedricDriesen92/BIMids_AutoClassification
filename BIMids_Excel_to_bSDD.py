@@ -42,14 +42,14 @@ def process_class_properties(excel_file, sheet_name, class_code, dic_ver):
                     if uri_code.lower().startswith('bimids'):
                         properties.append({
                             "Code": class_code[0:3] + "-" + property_code,
+                            #"Name": property_name,
                             "PropertyCode": property_code,
-                            "Name": property_name,
                             "PropertySet": pset
                         })
                     else:
                         properties.append({
                             "Code": class_code[0:3] + "-" + property_code,
-                            "Name": property_name,
+                            #"Name": property_name,
                             "PropertyUri": uri,
                             "PropertySet": pset
                         })

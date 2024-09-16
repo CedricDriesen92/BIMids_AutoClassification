@@ -3,7 +3,7 @@
   "DictionaryCode": "BIMids",
   "DictionaryVersion": "0.2",
   "DictionaryName": "BIMids",
-  "ReleaseDate": "2024-09-16T12:01:43.921335",
+  "ReleaseDate": "2024-09-16T12:15:10.909197",
   "Status": "Preview",
   "ChangeRequestEmailAddress": "louis.casteleyn@buildwise.be",
   "LanguageIsoCode": "EN",
@@ -30,43 +30,36 @@
       "ClassProperties": [
         {
           "Code": "act-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "act-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "act-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "act-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "act-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "act-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "act-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -90,43 +83,36 @@
       "ClassProperties": [
         {
           "Code": "air-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "air-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "air-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "air-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "air-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "air-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "air-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -150,49 +136,41 @@
       "ClassProperties": [
         {
           "Code": "air-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "air-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "air-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "air-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "air-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "air-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "air-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "air-totaleffectiveness",
-          "Name": "Total effectiveness",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/totaleffectiveness",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -216,43 +194,36 @@
       "ClassProperties": [
         {
           "Code": "aud-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "aud-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "aud-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "aud-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "aud-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "aud-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "aud-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -276,85 +247,71 @@
       "ClassProperties": [
         {
           "Code": "bea-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "bea-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "bea-isload-bearing(revit)",
-          "Name": "Is load-bearing (Revit)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "bea-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "bea-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "bea-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "bea-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "bea-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "bea-reinforcementratio",
-          "Name": "Reinforcement ratio",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/reinforcementvolumeratio",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "bea-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "bea-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "bea-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "bea-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "bea-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         }
@@ -378,73 +335,61 @@
       "ClassProperties": [
         {
           "Code": "bre-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "bre-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "bre-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "bre-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "bre-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "bre-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "bre-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "bre-typeofcoupler",
-          "Name": "Type of coupler",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/breechinginlettype",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "bre-inletdiameter",
-          "Name": "Inlet diameter",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/inletdiameter",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "bre-outletdiameter",
-          "Name": "Outlet diameter",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/outletdiameter",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "bre-typeofcoupling",
-          "Name": "Type of coupling",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/couplingtype",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "bre-hascaps",
-          "Name": "Has caps",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hascaps",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -468,31 +413,26 @@
       "ClassProperties": [
         {
           "Code": "cab-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "cab-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cab-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cab-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cab-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         }
@@ -516,31 +456,26 @@
       "ClassProperties": [
         {
           "Code": "cab-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "cab-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cab-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cab-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cab-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         }
@@ -564,49 +499,41 @@
       "ClassProperties": [
         {
           "Code": "cai-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "cai-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "cai-isload-bearing(revit)",
-          "Name": "Is load-bearing (Revit)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "cai-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cai-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cai-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cai-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "cai-reinforcementratio",
-          "Name": "Reinforcement ratio",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/reinforcementvolumeratio",
           "PropertySet": "Structural design (partial requirements)"
         }
@@ -630,79 +557,66 @@
       "ClassProperties": [
         {
           "Code": "cei-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "cei-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "cei-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "cei-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cei-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cei-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cei-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Precasting (partial requirements)"
         },
         {
           "Code": "cei-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "cei-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "cei-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "cei-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "cei-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "cei-acousticresistance",
-          "Name": "Acoustic resistance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/acousticrating",
           "PropertySet": "Acoustics (partial requirements)"
         }
@@ -726,73 +640,61 @@
       "ClassProperties": [
         {
           "Code": "chi-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "chi-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "chi-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "chi-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "chi-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "chi-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "chi-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "chi-nominalpower",
-          "Name": "Nominal power",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/nominalcapacity",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "chi-nominalelectricpower",
-          "Name": "Nominal electric power",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/nominalpowerconsumption",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "chi-capacity",
-          "Name": "Capacity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/capacity",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "chi-energyefficiency",
-          "Name": "Energy efficiency",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/energyefficiencyratio",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "chi-sensiblecoolingcapacity",
-          "Name": "Sensible cooling capacity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/sensiblecoolingcapacity",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -816,37 +718,31 @@
       "ClassProperties": [
         {
           "Code": "chi-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "chi-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "chi-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "chi-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "chi-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "chi-numberofducts",
-          "Name": "Number of ducts",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/numberofdrafts",
           "PropertySet": "LCA (Life Cycle Analysis)"
         }
@@ -870,79 +766,66 @@
       "ClassProperties": [
         {
           "Code": "col-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "col-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "col-isload-bearing(revit)",
-          "Name": "Is load-bearing (Revit)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "col-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "col-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "col-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "col-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "col-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "col-reinforcementratio",
-          "Name": "Reinforcement ratio",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/reinforcementvolumeratio",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "col-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "col-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "col-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "col-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         }
@@ -966,62 +849,52 @@
       "ClassProperties": [
         {
           "Code": "cur-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "cur-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "cur-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "cur-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cur-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cur-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "cur-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "cur-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "cur-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "Building permit (partial requirements)"
         },
         {
           "Code": "cur-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "Heat loss calculation"
         }
       ]
@@ -1044,49 +917,41 @@
       "ClassProperties": [
         {
           "Code": "dam-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "dam-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dam-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dam-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dam-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "dam-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "dam-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "dam-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -1110,43 +975,36 @@
       "ClassProperties": [
         {
           "Code": "dat-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "dat-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dat-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dat-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dat-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "dat-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "dat-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -1170,49 +1028,41 @@
       "ClassProperties": [
         {
           "Code": "dee-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "dee-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "dee-isload-bearing(revit)",
-          "Name": "Is load-bearing (Revit)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "dee-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dee-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dee-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "dee-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "dee-reinforcementratio",
-          "Name": "Reinforcement ratio",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/reinforcementvolumeratio",
           "PropertySet": "Structural design (partial requirements)"
         }
@@ -1236,187 +1086,156 @@
       "ClassProperties": [
         {
           "Code": "doo-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "doo-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "doo-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "doo-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "doo-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "doo-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "doo-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "doo-isemergencyexit",
-          "Name": "Is emergency exit",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/fireexit",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "doo-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "doo-operationtype",
-          "Name": "Operation type",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/operationtype",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "doo-hasmotorizedopening",
-          "Name": "Has motorized opening",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hasdrive",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "doo-hasaccesscontrol",
           "PropertyCode": "hasaccesscontrol",
-          "Name": "Has access control",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "doo-ismobileshadingdevice",
           "PropertyCode": "ismobileshadingdevice",
-          "Name": "Is mobile shading device",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "doo-isautomaticshadingdevice",
           "PropertyCode": "isautomaticshadingdevice",
-          "Name": "Is automatic shading device",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "doo-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "doo-acousticresistance",
-          "Name": "Acoustic resistance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/acousticrating",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "doo-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "doo-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "doo-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "doo-solartransmissionofglazing",
-          "Name": "Solar transmission of glazing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/solartransmittance",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "doo-glasslayers",
-          "Name": "Glass layers",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/glasslayers",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "doo-glazingareafraction",
-          "Name": "Glazing area fraction",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/glazingareafraction",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "doo-typeofblackoutdevice",
           "PropertyCode": "typeofblackoutdevice",
-          "Name": "Type of blackout device",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "doo-bulletproof",
           "PropertyCode": "bulletproof",
-          "Name": "Bulletproof",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "doo-passagewidth",
           "PropertyCode": "passagewidth",
-          "Name": "Passage width",
           "PropertySet": "Access management (partial requirements)"
         },
         {
           "Code": "doo-ishandicapaccessible",
-          "Name": "Is handicap accessible",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/handicapaccessible",
           "PropertySet": "Building permit (partial requirements)"
         },
         {
           "Code": "doo-securityrating",
-          "Name": "Security rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/securityrating",
           "PropertySet": "Intrusion and surveillance (partial requirements)"
         },
         {
           "Code": "doo-ventilationgapsurface",
           "PropertyCode": "ventilationgapsurface",
-          "Name": "Ventilation gap surface",
           "PropertySet": "PEB (partial requirements)"
         },
         {
           "Code": "doo-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "Heat loss calculation"
         },
         {
           "Code": "doo-hasexternalsill",
-          "Name": "Has external sill",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hassillexternal",
           "PropertySet": "Architectural design (partial requirements)"
         },
         {
           "Code": "doo-hasinternalsill",
-          "Name": "Has internal sill",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hassillinternal",
           "PropertySet": "Architectural design (partial requirements)"
         }
@@ -1440,55 +1259,46 @@
       "ClassProperties": [
         {
           "Code": "ele-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ele-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-voltage",
-          "Name": "Voltage",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ratedvoltage",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-current",
-          "Name": "Current",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ratedcurrent",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -1512,55 +1322,46 @@
       "ClassProperties": [
         {
           "Code": "ele-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ele-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-performance",
-          "Name": "Performance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/electricgeneratorefficiency",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-maximumoutputpower",
-          "Name": "Maximum output power",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/maximumpoweroutput",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -1584,67 +1385,56 @@
       "ClassProperties": [
         {
           "Code": "ele-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ele-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-recessed",
-          "Name": "Recessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/mountingtype",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-typeconnection",
-          "Name": "Type connection",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ispluggableoutlet",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-voltage",
-          "Name": "Voltage",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ratedvoltage",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-current",
-          "Name": "Current",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ratedcurrent",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -1668,43 +1458,36 @@
       "ClassProperties": [
         {
           "Code": "ele-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ele-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -1728,43 +1511,36 @@
       "ClassProperties": [
         {
           "Code": "ele-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ele-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -1788,61 +1564,51 @@
       "ClassProperties": [
         {
           "Code": "ele-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ele-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-switchfunction",
-          "Name": "Switch function",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/switchfunction",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-numberofbuttons",
-          "Name": "Number of buttons",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/numberofgangs",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-lightswitch",
-          "Name": "Light switch",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isilluminated",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -1866,49 +1632,41 @@
       "ClassProperties": [
         {
           "Code": "ele-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ele-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-transformerpower",
-          "Name": "Transformer power",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/maximumapparentpower",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -1932,49 +1690,41 @@
       "ClassProperties": [
         {
           "Code": "ele-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ele-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ele-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ele-nominalsupplyvoltage",
-          "Name": "Nominal supply voltage",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/nominalsupplyvoltage",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -1998,97 +1748,81 @@
       "ClassProperties": [
         {
           "Code": "fal-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fal-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fal-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fal-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fal-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fal-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fal-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Precasting (partial requirements)"
         },
         {
           "Code": "fal-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "fal-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "fal-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "fal-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "fal-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "fal-acousticresistance",
-          "Name": "Acoustic resistance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/acousticrating",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fal-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fal-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fal-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -2112,55 +1846,46 @@
       "ClassProperties": [
         {
           "Code": "fan-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fan-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fan-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fan-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fan-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fan-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fan-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fan-nominalflow",
-          "Name": "Nominal flow",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/nominalairflowrate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fan-voltage",
-          "Name": "Voltage",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ratedvoltage",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -2184,43 +1909,36 @@
       "ClassProperties": [
         {
           "Code": "fil-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fil-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fil-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fil-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fil-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fil-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fil-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -2244,67 +1962,56 @@
       "ClassProperties": [
         {
           "Code": "fir-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fir-typeofhosereel",
-          "Name": "Type of hose reel",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hosereeltype",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fir-mounting",
-          "Name": "Mounting",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hosereelmountingtype",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fir-diameter",
-          "Name": "Diameter",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hosediameter",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fir-length",
-          "Name": "Length",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hoselength",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fir-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fir-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fir-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -2328,67 +2035,56 @@
       "ClassProperties": [
         {
           "Code": "fir-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fir-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fir-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fir-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fir-typehydrant",
-          "Name": "Type hydrant",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firehydranttype",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fir-numberofconnections",
-          "Name": "Number of connections",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/numberofhoseconnections",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fir-connectionsize",
-          "Name": "Connection size",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hoseconnectionsize",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fir-maximumpressure",
-          "Name": "Maximum pressure",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/pressurerating",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -2412,43 +2108,36 @@
       "ClassProperties": [
         {
           "Code": "fir-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fir-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fir-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fir-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fir-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -2472,79 +2161,66 @@
       "ClassProperties": [
         {
           "Code": "flo-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "flo-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "flo-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "flo-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "flo-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "flo-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "flo-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "flo-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "flo-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "flo-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "flo-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "flo-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "flo-acousticresistance",
-          "Name": "Acoustic resistance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/acousticrating",
           "PropertySet": "Acoustics (partial requirements)"
         }
@@ -2568,55 +2244,46 @@
       "ClassProperties": [
         {
           "Code": "fou-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fou-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fou-isload-bearing(revit)",
-          "Name": "Is load-bearing (Revit)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fou-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fou-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fou-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fou-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "fou-reinforcementratio",
-          "Name": "Reinforcement ratio",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/reinforcementvolumeratio",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "fou-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         }
@@ -2640,55 +2307,46 @@
       "ClassProperties": [
         {
           "Code": "fou-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fou-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fou-isload-bearing(revit)",
-          "Name": "Is load-bearing (Revit)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fou-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fou-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fou-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fou-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "fou-reinforcementratio",
-          "Name": "Reinforcement ratio",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/reinforcementvolumeratio",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "fou-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         }
@@ -2712,61 +2370,51 @@
       "ClassProperties": [
         {
           "Code": "fur-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "fur-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fur-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fur-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "fur-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fur-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fur-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "fur-description",
-          "Name": "Description",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/description",
           "PropertySet": "Architectural design (partial requirements)"
         },
         {
           "Code": "fur-isphysicallyattached",
-          "Name": "Is physically attached",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isbuiltin",
           "PropertySet": "Architectural design (partial requirements)"
         },
         {
           "Code": "fur-cabinetwithlock",
-          "Name": "Cabinet with lock",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/withlock",
           "PropertySet": "Architectural design (partial requirements)"
         }
@@ -2790,55 +2438,46 @@
       "ClassProperties": [
         {
           "Code": "hea-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "hea-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-radiatortype",
-          "Name": "Radiator type",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/radiatortype",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-typeofplacement",
-          "Name": "Type of placement",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/placementtype",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -2862,79 +2501,66 @@
       "ClassProperties": [
         {
           "Code": "hea-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "hea-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-powersource",
-          "Name": "Power source",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/energysource",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-nominalefficiency(steam)",
-          "Name": "Nominal efficiency (steam)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/nominalefficiency",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-nominalheatoutput(steam)",
-          "Name": "Nominal heat output (steam)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/nominalenergyconsumption",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-effectiveload",
-          "Name": "Effective load",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/load",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-energyconsumption",
-          "Name": "Energy consumption",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/energysourceconsumption",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-operationalefficiency",
-          "Name": "Operational efficiency",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/operationalefficiency",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -2958,79 +2584,66 @@
       "ClassProperties": [
         {
           "Code": "hea-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "hea-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-powersource",
-          "Name": "Power source",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/energysource",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-nominalefficiency(water)",
-          "Name": "Nominal efficiency (water)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/nominalefficiency",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-nominalheatoutput(water)",
-          "Name": "Nominal heat output (water)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/nominalenergyconsumption",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-effectiveload",
-          "Name": "Effective load",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/load",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-energyconsumption",
-          "Name": "Energy consumption",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/energysourceconsumption",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-operationalefficiency",
-          "Name": "Operational efficiency",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/operationalefficiency",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -3054,49 +2667,41 @@
       "ClassProperties": [
         {
           "Code": "hea-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "hea-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "hea-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "hea-typeofplacement",
-          "Name": "Type of placement",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/placementtype",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -3137,85 +2742,71 @@
       "ClassProperties": [
         {
           "Code": "lif-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "lif-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "lif-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lif-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lif-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lif-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lif-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lif-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lif-isfiremenaccess",
-          "Name": "Is firemen access",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firefightinglift",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lif-cabinwidth",
-          "Name": "Cabin width",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/clearwidth",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lif-cabindepth",
-          "Name": "Cabin depth",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/cleardepth",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lif-cabinheight",
-          "Name": "Cabin height",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/clearheight",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lif-capacityinweight",
-          "Name": "Capacity in weight",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/capacityweight",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lif-capacityinpersons",
-          "Name": "Capacity in persons",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/capacitypeople",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -3239,79 +2830,66 @@
       "ClassProperties": [
         {
           "Code": "lig-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "lig-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lig-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lig-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lig-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lig-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lig-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lig-maintenancefactor",
-          "Name": "Maintenance factor",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/maintenancefactor",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lig-luminousflux",
-          "Name": "Luminous flux",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/contributedluminousflux",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lig-placement",
-          "Name": "Placement",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/lightfixtureplacingtype",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lig-electricalpower",
-          "Name": "Electrical power",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/totalwattage",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lig-typeofmounting",
-          "Name": "Type of mounting",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/lightfixturemountingtype",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "lig-voltage",
-          "Name": "Voltage",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ratedvoltage",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -3335,85 +2913,71 @@
       "ClassProperties": [
         {
           "Code": "lin-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "lin-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "lin-isload-bearing(revit)",
-          "Name": "Is load-bearing (Revit)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "lin-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "lin-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lin-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lin-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "lin-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "lin-reinforcementratio",
-          "Name": "Reinforcement ratio",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/reinforcementvolumeratio",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "lin-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "lin-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "lin-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "lin-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "lin-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         }
@@ -3437,43 +3001,36 @@
       "ClassProperties": [
         {
           "Code": "man-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "man-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "man-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "man-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "man-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "man-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "man-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -3497,55 +3054,46 @@
       "ClassProperties": [
         {
           "Code": "pum-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "pum-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "pum-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "pum-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "pum-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "pum-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "pum-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "pum-flowraterange",
-          "Name": "Flow rate range",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flowraterange",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "pum-connectionsize",
-          "Name": "Connection size",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/connectionsize",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -3569,85 +3117,71 @@
       "ClassProperties": [
         {
           "Code": "ram-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ram-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ram-isload-bearing(revit)",
-          "Name": "Is load-bearing (Revit)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ram-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ram-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ram-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ram-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ram-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "ram-reinforcementratio",
-          "Name": "Reinforcement ratio",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/reinforcementvolumeratio",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "ram-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "ram-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "ram-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "ram-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "ram-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         }
@@ -3671,91 +3205,76 @@
       "ClassProperties": [
         {
           "Code": "roo-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "roo-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "roo-isload-bearing(revit)",
-          "Name": "Is load-bearing (Revit)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "roo-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "roo-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "roo-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "roo-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "roo-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Precasting (partial requirements)"
         },
         {
           "Code": "roo-reinforcementratio",
-          "Name": "Reinforcement ratio",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/reinforcementvolumeratio",
           "PropertySet": "Precasting (partial requirements)"
         },
         {
           "Code": "roo-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "roo-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "roo-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "roo-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "roo-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "roo-acousticresistance",
-          "Name": "Acoustic resistance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/acousticrating",
           "PropertySet": "Acoustics (partial requirements)"
         }
@@ -3779,79 +3298,66 @@
       "ClassProperties": [
         {
           "Code": "roo-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "roo-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "roo-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "roo-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "roo-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "roo-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "roo-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Precasting (partial requirements)"
         },
         {
           "Code": "roo-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "roo-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "roo-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "roo-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "roo-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "roo-acousticresistance",
-          "Name": "Acoustic resistance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/acousticrating",
           "PropertySet": "Acoustics (partial requirements)"
         }
@@ -3875,97 +3381,81 @@
       "ClassProperties": [
         {
           "Code": "saf-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "saf-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "saf-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "saf-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "saf-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "saf-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "saf-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "saf-maintenancefactor",
-          "Name": "Maintenance factor",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/maintenancefactor",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "saf-luminousflux3",
-          "Name": "Luminous flux3",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/contributedluminousflux",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "saf-placement",
-          "Name": "Placement",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/lightfixtureplacingtype",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "saf-electricalpower",
-          "Name": "Electrical power",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/totalwattage",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "saf-typeofmounting",
-          "Name": "Type of mounting",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/lightfixturemountingtype",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "saf-voltage",
-          "Name": "Voltage",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ratedvoltage",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "saf-directionoftheemergencypicto",
-          "Name": "Direction of the emergency picto",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/pictogramescapedirection",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "saf-backupsystem",
-          "Name": "Backup system",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/backupsupplysystem",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "saf-typeofsecuritylighting",
-          "Name": "Type of security lighting",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/securitylightingtype",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -3989,67 +3479,56 @@
       "ClassProperties": [
         {
           "Code": "san-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "san-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "san-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "san-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "san-hastray",
-          "Name": "Has tray",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hastray",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "san-capacityflush(volume)",
-          "Name": "Capacity flush (volume)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/cisterncapacity",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "san-flushtype",
-          "Name": "Flush type",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flushtype",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "san-isautomatic",
-          "Name": "Is automatic",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isautomaticflush",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -4073,43 +3552,36 @@
       "ClassProperties": [
         {
           "Code": "san-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "san-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "san-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "san-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -4133,43 +3605,36 @@
       "ClassProperties": [
         {
           "Code": "san-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "san-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "san-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "san-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "san-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -4193,79 +3658,66 @@
       "ClassProperties": [
         {
           "Code": "sla-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "sla-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "sla-isload-bearing",
-          "Name": "Is load-bearing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "sla-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "sla-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sla-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sla-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sla-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "sla-reinforcementratio",
-          "Name": "Reinforcement ratio",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/reinforcementvolumeratio",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "sla-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "sla-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "sla-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "sla-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         }
@@ -4289,73 +3741,61 @@
       "ClassProperties": [
         {
           "Code": "sla-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "sla-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "sla-isload-bearing",
-          "Name": "Is load-bearing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "sla-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "sla-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sla-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sla-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sla-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "sla-reinforcementratio",
-          "Name": "Reinforcement ratio",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/reinforcementvolumeratio",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "sla-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "sla-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "sla-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         }
@@ -4379,43 +3819,36 @@
       "ClassProperties": [
         {
           "Code": "sol-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "sol-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sol-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sol-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sol-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "sol-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "sol-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -4439,169 +3872,141 @@
       "ClassProperties": [
         {
           "Code": "spa-spacename",
-          "Name": "Space name",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "spa-status",
           "PropertyCode": "status",
-          "Name": "Status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "spa-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "spa-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "spa-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "spa-skirtingboardfinishing",
-          "Name": "Skirtingboard finishing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/skirtingboard",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "spa-wallfinishing",
-          "Name": "Wall finishing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/wallcovering",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "spa-ceilingfinishing",
-          "Name": "Ceiling finishing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/ceilingcovering",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "spa-floorfinishing",
-          "Name": "Floor finishing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/floorcovering",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "spa-wallcoveringthickness",
-          "Name": "Wall covering thickness",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/wallcoveringthickness",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "spa-ishandicapaccessible",
-          "Name": "Is handicap accessible",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/handicapaccessible",
           "PropertySet": "Building permit (partial requirements)"
         },
         {
           "Code": "spa-ispublicaccessible",
-          "Name": "Is public accessible",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/publiclyaccessible",
           "PropertySet": "Building permit (partial requirements)"
         },
         {
           "Code": "spa-occupancytype",
-          "Name": "Occupancy type",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/occupancytype",
           "PropertySet": "Building permit (partial requirements)"
         },
         {
           "Code": "spa-isemergencyexitarea",
-          "Name": "Is emergency exit area",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/fireexit",
           "PropertySet": "Building permit (partial requirements)"
         },
         {
           "Code": "spa-occupancynumber",
-          "Name": "Occupancy number",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/occupancynumber",
           "PropertySet": "Access management (partial requirements)"
         },
         {
           "Code": "spa-fireriskfactor",
-          "Name": "Fire risk factor",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/fireriskfactor",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "spa-hassprinklers",
-          "Name": "Has sprinklers",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/sprinklerprotection",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "spa-minimumheadroom",
-          "Name": "Minimum headroom",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/minimumheadroom",
           "PropertySet": "Architectural design (partial requirements)"
         },
         {
           "Code": "spa-requiredillumination",
-          "Name": "Required illumination",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/illuminance",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spa-humiditywinter(heating)",
-          "Name": "Humidity winter (heating)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/spacehumiditywinter",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spa-humiditysummer(cooling)",
-          "Name": "Humidity summer (cooling)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/spacehumiditysummer",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spa-maximumheatingtemperature",
-          "Name": "Maximum heating temperature",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/spacetemperaturewintermax",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spa-maximumcoolingtemperature",
-          "Name": "Maximum cooling temperature",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/spacetemperaturesummermax",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spa-minimumcoolingtemperature",
-          "Name": "Minimum cooling temperature",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/spacetemperaturesummermin",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spa-minimumheatingtemperature",
-          "Name": "Minimum heating temperature",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/spacetemperaturewintermin",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spa-mechanicalventilationrequired",
-          "Name": "Mechanical ventilation required",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/mechanicalventilationrate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spa-requirednaturalventilation",
-          "Name": "Required natural ventilation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/naturalventilationrate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spa-netprogrammedarea",
-          "Name": "Net programmed area",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/netplannedarea",
           "PropertySet": "Programming (partial requirements)"
         }
@@ -4625,73 +4030,61 @@
       "ClassProperties": [
         {
           "Code": "spr-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "spr-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "spr-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "spr-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "spr-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spr-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spr-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spr-typeofsprinkler",
-          "Name": "Type of sprinkler",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/sprinklertype",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spr-typeactivation",
-          "Name": "Type activation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/activation",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spr-activationtemperature",
-          "Name": "Activation temperature",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/activationtemperature",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spr-coveredarea",
-          "Name": "Covered area",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/coveragearea",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "spr-hasdiffuser",
-          "Name": "Has diffuser",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hasdeflector",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -4715,85 +4108,71 @@
       "ClassProperties": [
         {
           "Code": "sta-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "sta-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "sta-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "sta-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sta-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sta-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "sta-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "sta-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "sta-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "sta-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "sta-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "sta-isemergencyexit",
-          "Name": "Is emergency exit",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/fireexit",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "sta-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "sta-placeofassembly",
-          "Name": "Place of assembly",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assemblyplace",
           "PropertySet": "Architectural design (partial requirements)"
         }
@@ -4817,61 +4196,51 @@
       "ClassProperties": [
         {
           "Code": "tan-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "tan-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "tan-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "tan-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "tan-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "tan-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "tan-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "tan-typeofstorage",
-          "Name": "Type of storage",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/storagetype",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "tan-effectivevolume",
-          "Name": "Effective volume",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/effectivecapacity",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "tan-nominalvolume",
-          "Name": "Nominal volume",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/nominalcapacity",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -4895,97 +4264,81 @@
       "ClassProperties": [
         {
           "Code": "tec-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "tec-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "tec-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "tec-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "tec-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "tec-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "tec-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "tec-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Precasting (partial requirements)"
         },
         {
           "Code": "tec-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "tec-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "tec-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "tec-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "tec-acousticresistance",
-          "Name": "Acoustic resistance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/acousticrating",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "tec-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "tec-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "tec-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -5026,67 +4379,56 @@
       "ClassProperties": [
         {
           "Code": "ven-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ven-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-nominalairflow",
-          "Name": "Nominal air flow",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/airflowrate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-airtemperature(heating)",
-          "Name": "Air temperature (heating)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/supplyairtemperatureheating",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-airtemperature(cooling)",
-          "Name": "Air temperature (cooling)",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/supplyairtemperaturecooling",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-airflowtype",
-          "Name": "Airflow type",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/airflowtype",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -5110,49 +4452,41 @@
       "ClassProperties": [
         {
           "Code": "ven-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ven-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -5176,49 +4510,41 @@
       "ClassProperties": [
         {
           "Code": "ven-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ven-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -5242,43 +4568,36 @@
       "ClassProperties": [
         {
           "Code": "ven-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "ven-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "ven-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "ven-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         }
@@ -5302,91 +4621,76 @@
       "ClassProperties": [
         {
           "Code": "wal-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "wal-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "wal-isload-bearing",
-          "Name": "Is load-bearing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/loadbearing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "wal-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "wal-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wal-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wal-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wal-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "wal-reinforcementratio",
-          "Name": "Reinforcement ratio",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/reinforcementvolumeratio",
           "PropertySet": "Structural design (partial requirements)"
         },
         {
           "Code": "wal-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "wal-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "wal-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "wal-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "wal-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "wal-acousticresistance",
-          "Name": "Acoustic resistance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/acousticrating",
           "PropertySet": "Acoustics (partial requirements)"
         }
@@ -5410,79 +4714,66 @@
       "ClassProperties": [
         {
           "Code": "wal-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "wal-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "wal-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "wal-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wal-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wal-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wal-constructionmethod",
-          "Name": "Construction method",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/constructionmethod",
           "PropertySet": "Precasting (partial requirements)"
         },
         {
           "Code": "wal-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "wal-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "wal-thermalconductivity",
-          "Name": "Thermal conductivity",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermalconductivity",
           "PropertySet": "LCA (Life Cycle Analysis)"
         },
         {
           "Code": "wal-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "wal-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "wal-acousticresistance",
-          "Name": "Acoustic resistance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/acousticrating",
           "PropertySet": "Acoustics (partial requirements)"
         }
@@ -5506,38 +4797,32 @@
       "ClassProperties": [
         {
           "Code": "wat-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "wat-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "wat-isexternal",
           "PropertyCode": "isexternal",
-          "Name": "Is external",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "wat-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wat-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "wat-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         }
       ]
@@ -5560,175 +4845,146 @@
       "ClassProperties": [
         {
           "Code": "win-status",
-          "Name": "Status",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "win-material",
-          "Name": "Material",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/bw/bimids/0.2/prop/",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "win-isexternal",
-          "Name": "Is external",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/isexternal",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "win-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "win-workpackage",
           "PropertyCode": "workpackage",
-          "Name": "Work package",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "win-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         },
         {
           "Code": "win-firerating",
-          "Name": "Fire rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/firerating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "win-isemergencyexit",
-          "Name": "Is emergency exit",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/fireexit",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "win-flammabilityrating",
-          "Name": "Flammability rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/flammabilityrating",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "win-hasmotorizedopening",
-          "Name": "Has motorized opening",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hasdrive",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "win-ismobileshadingdevice",
           "PropertyCode": "ismobileshadingdevice",
-          "Name": "Is mobile shading device",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "win-isautomaticshadingdevice",
           "PropertyCode": "isautomaticshadingdevice",
-          "Name": "Is automatic shading device",
           "PropertySet": "Fire safety (partial requirements)"
         },
         {
           "Code": "win-thermaltransmittance",
-          "Name": "Thermal transmittance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/thermaltransmittance",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "win-acousticresistance",
-          "Name": "Acoustic resistance",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/acousticrating",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "win-enddateofguarantee",
-          "Name": "End date of guarantee",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/warrantyenddate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "win-condition-dateofevaluation",
-          "Name": "Condition - Date of evaluation",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentdate",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "win-condition-conditionassessed",
-          "Name": "Condition - Condition assessed",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/assessmentcondition",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "win-solartransmissionofglazing",
-          "Name": "Solar transmission of glazing",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/solartransmittance",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "win-glasslayers",
-          "Name": "Glass layers",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/glasslayers",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "win-glazingareafraction",
-          "Name": "Glazing area fraction",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/glazingareafraction",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "win-typeofblackoutdevice",
           "PropertyCode": "typeofblackoutdevice",
-          "Name": "Type of blackout device",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "win-bulletproof",
           "PropertyCode": "bulletproof",
-          "Name": "Bulletproof",
           "PropertySet": "Maintenance (partial requirements)"
         },
         {
           "Code": "win-passagewidth",
           "PropertyCode": "passagewidth",
-          "Name": "Passage width",
           "PropertySet": "Access management (partial requirements)"
         },
         {
           "Code": "win-openingtype",
           "PropertyCode": "openingtype",
-          "Name": "Opening type",
           "PropertySet": "Intrusion and surveillance (partial requirements)"
         },
         {
           "Code": "win-securityrating",
-          "Name": "Security rating",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/securityrating",
           "PropertySet": "Intrusion and surveillance (partial requirements)"
         },
         {
           "Code": "win-ventilationgapsurface",
           "PropertyCode": "ventilationgapsurface",
-          "Name": "Ventilation gap surface",
           "PropertySet": "PEB (partial requirements)"
         },
         {
           "Code": "win-isoutershell",
           "PropertyCode": "isoutershell",
-          "Name": "Is outer shell",
           "PropertySet": "Heat loss calculation"
         },
         {
           "Code": "win-hasexternalsill",
-          "Name": "Has external sill",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hassillexternal",
           "PropertySet": "Architectural design (partial requirements)"
         },
         {
           "Code": "win-hasinternalsill",
-          "Name": "Has internal sill",
           "PropertyUri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/hassillinternal",
           "PropertySet": "Architectural design (partial requirements)"
         }
@@ -5753,19 +5009,16 @@
         {
           "Code": "zon-status",
           "PropertyCode": "status",
-          "Name": "Status",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "zon-phasing",
           "PropertyCode": "phasing",
-          "Name": "Phasing",
           "PropertySet": "Minimum requirements"
         },
         {
           "Code": "zon-documentation",
           "PropertyCode": "documentation",
-          "Name": "Documentation",
           "PropertySet": "Optional requirements"
         }
       ]
@@ -6188,8 +5441,8 @@
       "Definition": "Defines the minimum temperature of the space or area allowad in winter. Specified by the user or designer and used as a set point for heating."
     },
     {
-      "Code": "mounting",
-      "Name": "Mounting",
+      "Code": "mountingtype",
+      "Name": "Mounting type",
       "Definition": "Identifies reel type."
     },
     {
